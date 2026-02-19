@@ -19,6 +19,10 @@ CLAUDE.md
 node_modules/
 .next/
 
+# Next.js / TypeScript build artifacts
+next-env.d.ts
+*.tsbuildinfo
+
 # OS
 .DS_Store
 Thumbs.db

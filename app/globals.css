@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-brown-text;
+  }
+}
+
+@layer components {
+  /* Frosted glass effect for cards/prompt bar */
+  .glass {
+    @apply bg-cream/75 backdrop-blur-md;
+  }
+
+  /* Prompt bar specific styling */
+  .prompt-bar {
+    @apply bg-cream/50 backdrop-blur-md border border-brown-border rounded-3xl;
+  }
+}
