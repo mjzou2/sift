@@ -1,0 +1,21 @@
+# Python / Pipeline (not needed in deployed app)
+venv/
+__pycache__/
+*.pyc
+.cache
+notebooks/
+
+# Large local-only data
+data/downloads/
+data/features/embeddings/
+download_progress.json
+
+# Environment
+.env
+.env.local
+node_modules/
+.next/
+
+# OS
+.DS_Store
+Thumbs.db
