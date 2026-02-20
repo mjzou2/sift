@@ -10,6 +10,9 @@ data/downloads/
 data/features/embeddings/
 download_progress.json
 
+# Generated data (created by scripts/convert_data.py)
+data/json/
+
 # Project
 CLAUDE.md
 

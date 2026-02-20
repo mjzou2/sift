@@ -4,10 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "python3 scripts/convert_data.py",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "convert-data": "python3 scripts/convert_data.py"
   },
   "dependencies": {
     "react": "^19.0.0",
