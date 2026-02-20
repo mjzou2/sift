@@ -22,6 +22,13 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    if (seed_track_ids && seed_track_ids.length > 5) {
+      return NextResponse.json(
+        { error: 'Maximum 5 seed tracks allowed' },
+        { status: 400 }
+      );
+    }
+
     // Perform search
     console.log('[search] Request:', {
       prompt,
