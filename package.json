@@ -3,17 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "prebuild": "python3 scripts/convert_data.py",
+    "dev": "next dev -p 3001",
+    "prebuild": "bash -c 'source venv/bin/activate && python3 scripts/convert_data.py'",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "type-check": "tsc --noEmit",
-    "convert-data": "python3 scripts/convert_data.py"
+    "convert-data": "bash -c 'source venv/bin/activate && python3 scripts/convert_data.py'",
+    "fetch-album-art": "bash -c 'source venv/bin/activate && python3 scripts/fetch_album_art.py'"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.78.0",
     "clsx": "^2.1.0",
+    "lucide-react": "^0.575.0",
     "next": "^15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

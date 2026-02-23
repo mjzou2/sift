@@ -63,9 +63,9 @@ export function getMetadata(): Track[] {
     const jsonPath = path.join(DATA_DIR, 'metadata.json');
     const jsonData = fs.readFileSync(jsonPath, 'utf-8');
     cachedMetadata = JSON.parse(jsonData);
-    console.log(`[embeddings] Loaded ${cachedMetadata.length} tracks`);
+    console.log(`[embeddings] Loaded ${cachedMetadata?.length ?? 0} tracks`);
   }
-  return cachedMetadata;
+  return cachedMetadata!;
 }
 
 /**
@@ -77,9 +77,9 @@ export function getPhrases(): string[] {
     const jsonPath = path.join(DATA_DIR, 'phrases.json');
     const jsonData = fs.readFileSync(jsonPath, 'utf-8');
     cachedPhrases = JSON.parse(jsonData);
-    console.log(`[embeddings] Loaded ${cachedPhrases.length} phrases`);
+    console.log(`[embeddings] Loaded ${cachedPhrases?.length ?? 0} phrases`);
   }
-  return cachedPhrases;
+  return cachedPhrases!;
 }
 
 /**

@@ -40,12 +40,16 @@ const config: Config = {
         display: ['var(--font-playfair)', 'serif'],
         sans: ['var(--font-inter)', 'sans-serif'],
       },
+      transitionTimingFunction: {
+        decel: 'cubic-bezier(0.16, 1, 0.3, 1)',
+      },
       backdropBlur: {
         xs: '2px',
       },
       animation: {
         'sun-rays': 'sunrays 20s ease-in-out infinite',
         'sand-drift': 'sanddrift 30s linear infinite',
+        'fade-in': 'fadeIn 0.4s ease-out forwards',
       },
       keyframes: {
         sunrays: {
@@ -55,6 +59,10 @@ const config: Config = {
         sanddrift: {
           '0%': { transform: 'translateX(-100%) translateY(0)' },
           '100%': { transform: 'translateX(100vw) translateY(-20px)' },
+        },
+        fadeIn: {
+          '0%': { opacity: '0', transform: 'translateY(10px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
         },
       },
     },

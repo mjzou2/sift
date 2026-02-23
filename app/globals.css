@@ -6,6 +6,30 @@
   body {
     @apply text-brown-text;
   }
+
+  /* Custom scrollbar styling */
+  *::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background: theme('colors.brown.border' / 0.3);
+    border-radius: 4px;
+  }
+
+  *::-webkit-scrollbar-thumb:hover {
+    background: theme('colors.brown.border' / 0.5);
+  }
+
+  /* Firefox scrollbar */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: theme('colors.brown.border' / 0.3) transparent;
+  }
 }
 
 @layer components {
@@ -17,5 +41,14 @@
   /* Prompt bar specific styling */
   .prompt-bar {
     @apply bg-cream/50 backdrop-blur-md border border-brown-border rounded-3xl;
+  }
+
+  /* Transition classes for animations */
+  .prompt-transition {
+    @apply transition-all duration-700 ease-out;
+  }
+
+  .logo-transition {
+    @apply transition-all duration-700 ease-out;
   }
 }

@@ -14,6 +14,7 @@ export interface Track {
   duration_ms: number;
   popularity: number;
   tags: TagScore[];
+  album_art_url?: string;
 }
 
 export interface SearchResult extends Track {
@@ -24,4 +25,11 @@ export interface EmbeddingMetadata {
   shape: [number, number];
   dtype: string;
   size_bytes?: number;
+}
+
+// Spotify API response types
+export interface SpotifyTrack {
+  preview_url: string | null;
+  name: string;
+  artists: Array<{ name: string }>;
 }

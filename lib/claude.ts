@@ -63,34 +63,73 @@ export async function extractTags(prompt: string): Promise<string[]> {
 }
 
 /**
+ * Compute Levenshtein distance for fuzzy string matching
+ */
+function levenshteinDistance(a: string, b: string): number {
+  const matrix: number[][] = [];
+
+  for (let i = 0; i <= b.length; i++) {
+    matrix[i] = [i];
+  }
+
+  for (let j = 0; j <= a.length; j++) {
+    matrix[0][j] = j;
+  }
+
+  for (let i = 1; i <= b.length; i++) {
+    for (let j = 1; j <= a.length; j++) {
+      if (b.charAt(i - 1) === a.charAt(j - 1)) {
+        matrix[i][j] = matrix[i - 1][j - 1];
+      } else {
+        matrix[i][j] = Math.min(
+          matrix[i - 1][j - 1] + 1,
+          matrix[i][j - 1] + 1,
+          matrix[i - 1][j] + 1
+        );
+      }
+    }
+  }
+
+  return matrix[b.length][a.length];
+}
+
+/**
  * Find the best matching pre-embedded phrase given a set of tags.
  * Scores each phrase by counting how many tags appear as substrings.
+ * Uses Levenshtein distance as a tiebreaker when multiple phrases have the same score.
  * Returns phrase index, or -1 if no phrase matches any tag.
  */
 export function findClosestPhraseByTags(tags: string[]): number {
   const phrases = getPhrases();
+  const tagQuery = tags.join(' ');
 
   let bestIndex = -1;
   let bestScore = 0;
+  let bestDistance = Infinity;
 
   for (let i = 0; i < phrases.length; i++) {
     const phrase = phrases[i].toLowerCase();
     let score = 0;
 
+    // Count tag matches
     for (const tag of tags) {
       if (phrase.includes(tag.toLowerCase())) {
         score++;
       }
     }
 
-    if (score > bestScore) {
+    // If this phrase has a better score, or same score but better distance
+    const distance = levenshteinDistance(tagQuery, phrase);
+
+    if (score > bestScore || (score === bestScore && distance < bestDistance)) {
       bestScore = score;
+      bestDistance = distance;
       bestIndex = i;
     }
   }
 
   if (bestIndex >= 0) {
-    console.log(`[claude] Matched tags ${JSON.stringify(tags)} to phrase "${phrases[bestIndex]}" (score: ${bestScore}/${tags.length})`);
+    console.log(`[claude] Matched tags ${JSON.stringify(tags)} to phrase "${phrases[bestIndex]}" (score: ${bestScore}/${tags.length}, distance: ${bestDistance.toFixed(1)})`);
   }
 
   return bestIndex;

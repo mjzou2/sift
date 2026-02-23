@@ -115,6 +115,14 @@ def convert_metadata():
                 {'name': row['tag_5'], 'score': float(row['tag_5_score'])},
             ]
         }
+
+        # Add album_art_url if it exists in the CSV
+        if 'album_art_url' in df.columns:
+            album_art_url = row['album_art_url']
+            # Handle empty string or NaN values
+            if pd.notna(album_art_url) and album_art_url != '':
+                track['album_art_url'] = str(album_art_url)
+
         tracks.append(track)
 
     # Write to JSON with compact formatting
