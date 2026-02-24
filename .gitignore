@@ -11,8 +11,6 @@ data/features/embeddings/
 download_progress.json
 scripts/fetch_album_art.py
 
-# Generated data (created by scripts/convert_data.py)
-data/json/
 
 # Project
 CLAUDE.md

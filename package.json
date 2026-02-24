@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "next dev -H 127.0.0.1 -p 3001",
-    "prebuild": "bash -c 'source venv/bin/activate && python3 scripts/convert_data.py'",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
