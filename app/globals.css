@@ -51,4 +51,9 @@
   .logo-transition {
     @apply transition-all duration-700 ease-out;
   }
+
+  /* Focus visible ring for keyboard navigation */
+  .focus-ring {
+    @apply focus-visible:ring-2 focus-visible:ring-accent/50 focus-visible:outline-none;
+  }
 }

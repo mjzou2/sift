@@ -3,7 +3,7 @@
 import type { SpotifyAuthState } from './types';
 
 const SPOTIFY_AUTH_URL = 'https://accounts.spotify.com/authorize';
-const SCOPES = 'playlist-modify-public playlist-modify-private';
+const SCOPES = 'playlist-modify-public playlist-modify-private playlist-read-private playlist-read-collaborative';
 const TOKEN_KEY = 'sift_spotify_token';
 const STATE_KEY = 'sift_oauth_state';
 const PRE_AUTH_STATE_KEY = 'sift_pre_auth_state';

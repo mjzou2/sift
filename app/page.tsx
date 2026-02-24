@@ -110,6 +110,7 @@ export default function Home() {
     // Play audio
     if (audioRef.current) {
       audioRef.current.src = previewUrl;
+      audioRef.current.volume = 0.15;
       audioRef.current.play().catch(error => {
         console.error('Audio play error:', error);
         setToastMessage({ text: 'Failed to play audio', type: 'error' });
@@ -216,14 +217,14 @@ export default function Home() {
       : 'Sift Discovery';
 
   return (
-    <main className="relative min-h-screen flex flex-col items-center px-4 select-none">
+    <main className="relative h-screen flex flex-col items-center px-4 select-none overflow-hidden">
       <BackgroundDune />
 
       {/* Hidden audio element */}
       <audio ref={audioRef} />
 
       {/* Logo - fades out when searching */}
-      <div className={`absolute top-[15%] left-1/2 -translate-x-1/2 z-10 transition-opacity duration-300 ${
+      <div className={`absolute top-[12%] sm:top-[15%] left-1/2 -translate-x-1/2 z-10 transition-opacity duration-300 ${
         appState === 'landing' ? 'opacity-100 delay-300' : 'opacity-0 delay-0'
       }`}>
         <Logo />
@@ -233,7 +234,7 @@ export default function Home() {
       <div className={`absolute top-0 w-full z-10 transition-all duration-1000 ease-decel ${
         appState === 'landing'
           ? 'translate-y-[calc(50vh-50%)]'
-          : 'translate-y-6'
+          : 'translate-y-3 sm:translate-y-6'
       }`}>
         <div className={`w-full mx-auto px-4 transition-all duration-1000 ease-decel ${
           appState === 'landing' ? 'max-w-5xl' : 'max-w-4xl'
@@ -263,40 +264,44 @@ export default function Home() {
 
       {/* Results */}
       {appState === 'results' && (
-        <div className="w-full mt-32 pb-20">
-          <div className="max-w-4xl mx-auto px-4 mb-4 flex justify-end">
-            <SaveToSpotifyButton
-              tracks={results}
-              playlistName={playlistName}
-              onSuccess={(playlistUrl) => {
-                setToastMessage({
-                  text: 'Playlist saved!',
-                  type: 'success',
-                  link: { url: playlistUrl, label: 'Open in Spotify' },
-                });
-                setTimeout(() => setToastMessage(null), 6000);
-              }}
-              onError={(message) => {
-                setToastMessage({ text: message, type: 'error' });
-                setTimeout(() => setToastMessage(null), 4000);
-              }}
-              onAuthRequired={handleSpotifyAuth}
-              isAuthenticated={!!spotifyToken}
-            />
+        <div className="w-full mt-20 sm:mt-24 pb-3 sm:pb-4 flex-1 min-h-0">
+          <div className="max-w-4xl mx-auto px-4 h-full">
+            <div className="bg-brown-text/5 rounded-2xl p-3 sm:p-4 h-full flex flex-col">
+              <div className="flex justify-end mb-2">
+                <SaveToSpotifyButton
+                  tracks={results}
+                  playlistName={playlistName}
+                  onSuccess={(playlistUrl) => {
+                    setToastMessage({
+                      text: 'Playlist saved!',
+                      type: 'success',
+                      link: { url: playlistUrl, label: 'Open in Spotify' },
+                    });
+                    setTimeout(() => setToastMessage(null), 6000);
+                  }}
+                  onError={(message) => {
+                    setToastMessage({ text: message, type: 'error' });
+                    setTimeout(() => setToastMessage(null), 4000);
+                  }}
+                  onAuthRequired={handleSpotifyAuth}
+                  isAuthenticated={!!spotifyToken}
+                />
+              </div>
+              <ResultsList
+                tracks={results}
+                currentlyPlaying={currentlyPlaying?.seqId || null}
+                onPlay={(spotifyId, seqId) => handlePlay(spotifyId, seqId)}
+                onPause={handlePause}
+                onFindSimilar={handleFindSimilar}
+              />
+            </div>
           </div>
-          <ResultsList
-            tracks={results}
-            currentlyPlaying={currentlyPlaying?.seqId || null}
-            onPlay={(spotifyId, seqId) => handlePlay(spotifyId, seqId)}
-            onPause={handlePause}
-            onFindSimilar={handleFindSimilar}
-          />
         </div>
       )}
 
       {/* Toast message */}
       {toastMessage && (
-        <div className={`fixed bottom-6 left-1/2 -translate-x-1/2 px-6 py-3 rounded-full z-50 shadow-lg flex items-center gap-3 ${
+        <div className={`fixed bottom-6 left-1/2 -translate-x-1/2 max-w-[calc(100vw-48px)] px-4 py-2.5 sm:px-6 sm:py-3 text-sm sm:text-base rounded-full z-50 shadow-lg flex items-center gap-3 animate-fade-in ${
           toastMessage.type === 'success'
             ? 'bg-accent/90 text-cream'
             : 'bg-brown-border/90 text-cream'

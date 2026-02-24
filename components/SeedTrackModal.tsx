@@ -69,11 +69,11 @@ export default function SeedTrackModal({
 
   return (
     <div
-      className="fixed inset-0 bg-brown-text/40 backdrop-blur-sm z-50 flex items-center justify-center px-4"
+      className="fixed inset-0 bg-brown-text/40 backdrop-blur-sm z-50 flex items-end sm:items-center justify-center px-0 sm:px-4"
       onClick={onClose}
     >
       <div
-        className="bg-cream border border-brown-border rounded-2xl shadow-xl max-w-2xl w-full max-h-[80vh] overflow-hidden"
+        className="bg-cream border border-brown-border rounded-t-2xl sm:rounded-2xl shadow-xl max-w-2xl w-full max-h-[90vh] sm:max-h-[80vh] overflow-hidden"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Header */}

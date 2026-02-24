@@ -65,38 +65,78 @@ async function getSpotifyAccessToken(): Promise<string | null> {
 }
 
 /**
- * Fetch preview URL for a Spotify track
- * Returns null if preview is not available or on error
+ * Extract preview URL from Spotify's embed page.
+ * The embed endpoint still returns preview URLs even when the API doesn't.
  */
-export async function getTrackPreviewUrl(spotifyId: string): Promise<string | null> {
-  const token = await getSpotifyAccessToken();
-
-  if (!token) {
-    console.error('[spotify] Cannot fetch preview URL: no access token');
-    return null;
-  }
-
+async function getPreviewUrlFromEmbed(spotifyId: string): Promise<string | null> {
   try {
-    const response = await fetch(`https://api.spotify.com/v1/tracks/${spotifyId}`, {
+    const response = await fetch(`https://open.spotify.com/embed/track/${spotifyId}`, {
       headers: {
-        Authorization: `Bearer ${token}`,
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
       },
     });
 
     if (!response.ok) {
-      console.error('[spotify] Track request failed:', response.status, response.statusText);
+      console.error('[spotify] Embed request failed:', response.status);
       return null;
     }
 
-    const track: SpotifyTrack = await response.json();
+    const html = await response.text();
 
-    if (!track.preview_url) {
-      console.log(`[spotify] No preview available for track ${spotifyId}`);
+    // Extract preview URL from __NEXT_DATA__ JSON blob
+    const match = html.match(/<script\s+id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/);
+    if (match?.[1]) {
+      const data = JSON.parse(match[1]);
+      const previewUrl =
+        data?.props?.pageProps?.state?.data?.entity?.audioPreview?.url ?? null;
+      if (previewUrl) {
+        console.log(`[spotify] Got preview URL from embed for ${spotifyId}`);
+        return previewUrl;
+      }
     }
 
-    return track.preview_url;
+    // Fallback: search for any p.scdn.co preview URL in the HTML
+    const urlMatch = html.match(/https:\/\/p\.scdn\.co\/mp3-preview\/[a-zA-Z0-9]+[^"'\s]*/);
+    if (urlMatch) {
+      console.log(`[spotify] Got preview URL from embed (regex) for ${spotifyId}`);
+      return urlMatch[0];
+    }
+
+    console.log(`[spotify] No preview found in embed for ${spotifyId}`);
+    return null;
   } catch (error) {
-    console.error('[spotify] Error fetching track preview:', error);
+    console.error('[spotify] Error fetching embed:', error);
     return null;
   }
+}
+
+/**
+ * Fetch preview URL for a Spotify track.
+ * Tries the Web API first, falls back to scraping the embed page.
+ */
+export async function getTrackPreviewUrl(spotifyId: string): Promise<string | null> {
+  // Try the standard API first
+  const token = await getSpotifyAccessToken();
+
+  if (token) {
+    try {
+      const response = await fetch(`https://api.spotify.com/v1/tracks/${spotifyId}?market=US`, {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
+      });
+
+      if (response.ok) {
+        const track: SpotifyTrack = await response.json();
+        if (track.preview_url) {
+          return track.preview_url;
+        }
+      }
+    } catch (error) {
+      console.error('[spotify] API error, trying embed fallback:', error);
+    }
+  }
+
+  // Fallback: scrape preview URL from the embed page
+  return getPreviewUrlFromEmbed(spotifyId);
 }

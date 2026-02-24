@@ -51,9 +51,9 @@ export async function POST(request: NextRequest) {
     const userId = me.id;
     console.log('[spotify-save] Creating playlist for user:', userId);
 
-    // Create the playlist
+    // Create the playlist (using /me/playlists — preferred in Development Mode)
     const createResponse = await fetch(
-      `https://api.spotify.com/v1/users/${userId}/playlists`,
+      'https://api.spotify.com/v1/me/playlists',
       {
         method: 'POST',
         headers: {
@@ -85,11 +85,10 @@ export async function POST(request: NextRequest) {
     const playlistUrl = playlist.external_urls?.spotify || `https://open.spotify.com/playlist/${playlistId}`;
     console.log('[spotify-save] Playlist created:', playlistId);
 
-    // Add tracks to the playlist
+    // Add items to playlist (using /items endpoint — /tracks is deprecated and blocked)
     const uris = spotify_ids.map((id: string) => `spotify:track:${id}`);
-
     const addResponse = await fetch(
-      `https://api.spotify.com/v1/playlists/${playlistId}/tracks`,
+      `https://api.spotify.com/v1/playlists/${playlistId}/items`,
       {
         method: 'POST',
         headers: {
@@ -101,9 +100,8 @@ export async function POST(request: NextRequest) {
     );
 
     if (!addResponse.ok) {
-      const errorText = await addResponse.text();
-      console.error('[spotify-save] Failed to add tracks:', addResponse.status, errorText);
-      // Playlist was created but tracks failed — still return partial success info
+      const errBody = await addResponse.text();
+      console.error('[spotify-save] Add items failed:', addResponse.status, errBody);
       return NextResponse.json(
         { error: 'Playlist created but failed to add tracks', playlist_url: playlistUrl },
         { status: 502 }

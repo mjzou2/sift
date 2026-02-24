@@ -76,7 +76,7 @@ export default function SaveToSpotifyButton({
     <button
       onClick={handleClick}
       disabled={isSaving}
-      className="flex items-center gap-2 px-5 py-2.5 bg-accent/20 hover:bg-accent/30 disabled:opacity-50 disabled:cursor-not-allowed text-brown-text rounded-full transition-colors text-sm font-medium"
+      className="flex items-center gap-2 px-4 py-2 sm:px-5 sm:py-2.5 bg-tag-bg hover:bg-tag-bg/80 active:scale-[0.97] disabled:opacity-50 disabled:cursor-not-allowed text-tag-text rounded-full transition-all text-sm font-medium"
     >
       {isSaving ? (
         <>

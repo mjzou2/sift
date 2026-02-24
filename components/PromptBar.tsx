@@ -52,13 +52,13 @@ export default function PromptBar({
     >
       {/* Seed track pills — compact mode only */}
       {isCompact && seedCount > 0 && (
-        <div className="flex items-center gap-1.5 flex-wrap max-w-md">
+        <div className="flex items-center gap-1.5 flex-wrap max-w-[200px] sm:max-w-md">
           {seed.tracks.map((track) => (
             <div
               key={track.seq_id}
               className="flex items-center gap-1 px-2 py-1 bg-brown-border/10 border border-brown-border/30 rounded-full text-xs text-brown-text select-text"
             >
-              <span className="truncate max-w-[150px]">{track.track_name}</span>
+              <span className="truncate max-w-[100px] sm:max-w-[150px]">{track.track_name}</span>
               <button
                 type="button"
                 onClick={() => seed.onRemove(track.seq_id)}
@@ -77,7 +77,7 @@ export default function PromptBar({
         type="button"
         onClick={seed.onAdd}
         disabled={isCompact && isSeedLimitReached}
-        className={`relative flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center text-xl font-semibold transition-colors ${
+        className={`relative flex-shrink-0 w-8 h-8 sm:w-10 sm:h-10 rounded-full flex items-center justify-center text-lg sm:text-xl font-semibold transition-colors ${
           isCompact && isSeedLimitReached
             ? 'bg-brown-border/5 text-brown-border/30 cursor-not-allowed'
             : 'bg-brown-border/10 hover:bg-brown-border/20 text-brown-border'
@@ -122,7 +122,7 @@ export default function PromptBar({
       <button
         type="submit"
         disabled={isCompact && isSearching}
-        className={`flex-shrink-0 px-6 py-2 rounded-full font-medium text-sm transition-colors ${
+        className={`flex-shrink-0 px-4 py-1.5 sm:px-6 sm:py-2 rounded-full font-medium text-sm transition-colors ${
           isCompact && isSearching
             ? 'bg-accent/50 text-cream/70 cursor-not-allowed'
             : 'bg-accent hover:bg-accent/90 text-cream'

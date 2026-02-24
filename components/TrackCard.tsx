@@ -24,14 +24,14 @@ export default function TrackCard({
   const formattedArtist = track.artist.replace(/;/g, ', ');
 
   return (
-    <div className="bg-cream/75 backdrop-blur-md border border-brown-border rounded-2xl p-4 md:p-5 flex gap-4 hover:bg-cream/80 transition-all duration-200 shadow-md">
+    <div className="glass border border-brown-border/50 rounded-2xl p-3 sm:p-4 md:p-5 flex gap-4 hover:bg-cream/85 transition-all duration-200 shadow-sm">
       {/* Album Art */}
       {track.album_art_url && (
         <div className="flex-shrink-0">
           <img
             src={track.album_art_url}
             alt={`${track.album} album art`}
-            className="w-24 h-24 md:w-28 md:h-28 rounded-lg object-cover"
+            className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 rounded-lg object-cover"
           />
         </div>
       )}
@@ -83,7 +83,7 @@ export default function TrackCard({
           {/* Play/Pause button */}
           <button
             onClick={isPlaying ? onPause : () => onPlay(track.spotify_id)}
-            className="flex items-center gap-2 px-4 py-2 bg-accent/20 hover:bg-accent/30 text-brown-text rounded-full transition-colors text-sm font-medium"
+            className="flex items-center gap-2 px-3 py-1.5 sm:px-4 sm:py-2 bg-accent/20 hover:bg-accent/30 active:scale-[0.97] text-brown-text rounded-full transition-all text-xs sm:text-sm font-medium"
             aria-label={isPlaying ? "Pause" : "Play preview"}
           >
             {isPlaying ? (
@@ -102,7 +102,7 @@ export default function TrackCard({
           {/* Find Similar button */}
           <button
             onClick={() => onFindSimilar(track.seq_id)}
-            className="flex items-center gap-2 px-4 py-2 bg-brown-border/10 hover:bg-brown-border/20 text-brown-text rounded-full transition-colors text-sm font-medium"
+            className="flex items-center gap-2 px-3 py-1.5 sm:px-4 sm:py-2 bg-brown-border/10 hover:bg-brown-border/20 active:scale-[0.97] text-brown-text rounded-full transition-all text-xs sm:text-sm font-medium"
           >
             Find Similar
           </button>
