@@ -15,7 +15,6 @@ import requests
 import pandas as pd
 from pathlib import Path
 from typing import Optional
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Try to load .env.local using python-dotenv
 try:
@@ -49,27 +48,42 @@ def get_spotify_token() -> str:
     return response.json()['access_token']
 
 
-def fetch_album_art_single(spotify_id: str, token: str) -> tuple[str, Optional[str]]:
+def fetch_album_art_single(spotify_id: str, token: str, max_retries: int = 3) -> tuple[str, Optional[str]]:
     """
-    Fetch album art URL for a single track.
+    Fetch album art URL for a single track with retry logic for 429s.
     Returns tuple of (spotify_id, album_art_url).
     """
     url = f'https://api.spotify.com/v1/tracks/{spotify_id}'
     headers = {'Authorization': f'Bearer {token}'}
 
-    try:
-        response = requests.get(url, headers=headers, timeout=10)
-        response.raise_for_status()
-        data = response.json()
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
 
-        # Get album images (sorted largest to smallest)
-        images = data.get('album', {}).get('images', [])
-        return (spotify_id, images[0]['url'] if images else None)
+            if response.status_code == 429:
+                retry_after = int(response.headers.get('Retry-After', 5))
+                print(f'  Rate limited (429). Waiting {retry_after}s... (attempt {attempt + 1}/{max_retries})')
+                time.sleep(retry_after)
+                continue
 
-    except Exception as e:
-        # Log error but don't crash
-        print(f'  Warning: Failed to fetch {spotify_id}: {e}')
-        return (spotify_id, None)
+            response.raise_for_status()
+            data = response.json()
+
+            # Get album images (sorted largest to smallest)
+            images = data.get('album', {}).get('images', [])
+            return (spotify_id, images[0]['url'] if images else None)
+
+        except requests.exceptions.HTTPError as e:
+            if response.status_code == 429:
+                continue  # Already handled above
+            print(f'  Warning: Failed to fetch {spotify_id}: {e}')
+            return (spotify_id, None)
+        except Exception as e:
+            print(f'  Warning: Failed to fetch {spotify_id}: {e}')
+            return (spotify_id, None)
+
+    print(f'  Warning: Max retries exceeded for {spotify_id}')
+    return (spotify_id, None)
 
 
 def main():
@@ -115,15 +129,14 @@ def main():
         print('✓ All tracks already have album art URLs!')
         return
 
-    # Fetch album art URLs with conservative parallel requests
-    print('Fetching album art URLs (individual requests, 3 concurrent)...')
-    print(f'Estimated time: ~{total_needed // 20} seconds')
+    # Fetch album art URLs sequentially with rate limiting
+    request_delay = 0.5  # 0.5s between requests = ~120 req/min
+    print(f'Fetching album art URLs (1 worker, {request_delay}s delay)...')
+    print(f'Estimated time: ~{int(total_needed * request_delay / 60)} minutes')
     print('(Progress saved every 100 tracks)')
     print()
 
     batch_size = 100  # Save progress every 100 tracks
-    max_workers = 3   # Conservative: 3 concurrent requests
-    request_delay = 0.3  # 0.3s between requests = ~150 req/min
     success_count = already_fetched
     fail_count = 0
 
@@ -131,46 +144,31 @@ def main():
     ids_to_fetch = df[needs_fetch]['spotify_id'].tolist()
     indices_map = {row['spotify_id']: idx for idx, row in df[needs_fetch].iterrows()}
 
-    # Process in batches for progress saving
-    for batch_start in range(0, len(ids_to_fetch), batch_size):
-        batch_ids = ids_to_fetch[batch_start:batch_start + batch_size]
+    # Process sequentially with progress saving
+    for i, spotify_id in enumerate(ids_to_fetch):
+        spotify_id, album_art_url = fetch_album_art_single(spotify_id, token)
+        df_idx = indices_map[spotify_id]
 
-        # Fetch batch in parallel with rate limiting
-        with ThreadPoolExecutor(max_workers=max_workers) as executor:
-            # Submit all tasks
-            future_to_id = {
-                executor.submit(fetch_album_art_single, spotify_id, token): spotify_id
-                for spotify_id in batch_ids
-            }
+        # Update dataframe
+        if album_art_url:
+            df.at[df_idx, 'album_art_url'] = album_art_url
+            success_count += 1
+        else:
+            df.at[df_idx, 'album_art_url'] = ''
+            fail_count += 1
 
-            # Process results as they complete
-            for idx_in_batch, future in enumerate(as_completed(future_to_id)):
-                spotify_id, album_art_url = future.result()
-                df_idx = indices_map[spotify_id]
+        # Rate limiting
+        if i < len(ids_to_fetch) - 1:
+            time.sleep(request_delay)
 
-                # Update dataframe
-                if album_art_url:
-                    df.at[df_idx, 'album_art_url'] = album_art_url
-                    success_count += 1
-                else:
-                    df.at[df_idx, 'album_art_url'] = ''
-                    fail_count += 1
-
-                # Rate limiting: 0.3s delay between requests
-                # Skip delay on last request of batch
-                if idx_in_batch < len(batch_ids) - 1:
-                    time.sleep(request_delay)
-
-        # Save progress after each batch
-        df.to_csv(csv_path, index=False)
-
-        # Progress indicator
-        tracks_processed = already_fetched + min(batch_start + batch_size, len(ids_to_fetch))
-        print(f'  Progress: {tracks_processed}/{len(df)} tracks | {success_count} success, {fail_count} failed')
+        # Save progress and print status every batch_size tracks
+        if (i + 1) % batch_size == 0 or i == len(ids_to_fetch) - 1:
+            df.to_csv(csv_path, index=False)
+            tracks_processed = already_fetched + i + 1
+            print(f'  Progress: {tracks_processed}/{len(df)} tracks | {success_count} success, {fail_count} failed')
 
     print()
     print(f'✓ Completed: {len(df)}/{len(df)} tracks processed')
-
 
     print('=' * 60)
     print(f'✓ Complete!')

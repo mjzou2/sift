@@ -1,475 +1,475 @@
 seq_id,spotify_id,track_name,artist,album,duration_ms,popularity,tag_1,tag_1_score,tag_2,tag_2_score,tag_3,tag_3_score,tag_4,tag_4_score,tag_5,tag_5_score,album_art_url
-0000,1KGWevakZQ2l3MPNL5qf8U,Hourglass,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,101635,21,nostalgic,1.461,jazz,1.221,groovy,1.127,upbeat,0.167,cafe,0.049,
-0001,1JKsqzaEBudVdvGeju3Isj,Along The Path,Kinissue;affogato.wav,The Realization,133629,39,sad,1.104,peaceful,1.029,melancholic,0.583,dark,0.539,ambient,0.512,
-0002,5XEVBQLx2xReQQrRzRly4j,Wicked Thoughts,Kinissue;Tibeauthetraveler,The Realization,146426,32,vinyl crackle,0.22,ocean,0.2,cafe,0.072,spacey,0.037,chill,-0.065,
-0003,5ozha6njRgWr6mnkwh7GHL,Emotions,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,132260,38,sad,0.276,melancholic,0.26,nostalgic,0.165,vinyl crackle,0.019,piano,-0.273,
-0004,7yt2PMTWJc5BzYprPh0pg8,Farewell,Kinissue,The Realization,166533,42,ambient,0.636,ocean,0.572,slow,0.565,chill,0.527,lonely,0.427,
-0005,5apq3wUPv0B3um7GqpB0s4,Illuminate,Kinissue;Mindeliq,The Realization,185884,40,vinyl crackle,1.371,bass-heavy,0.576,rain,0.532,groovy,0.482,nostalgic,0.452,
-0006,1YvtXZo6ZeqtgnAwZuQYUL,Pará Eidos,Dimension 32;l'Outlander,The Legend Of Orpheus,135250,21,bossa nova,0.568,cafe,0.484,nature,0.242,nostalgic,0.189,sleepy,-0.095,
-0007,3lxVvy35kyaYsmrrUldt6f,Soft Spot,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,123522,39,vinyl crackle,0.656,nature,0.235,rain,-0.079,bossa nova,-0.085,minimal,-0.151,
-0008,3fUrXJWBRHb4THonvYXa4F,Far From Here,Kinissue;Umbriel,The Realization,154732,24,nostalgic,1.92,peaceful,1.847,space,1.519,spacey,1.457,sleepy,1.44,
-0009,7mDZi08pTwwD6MAQV6bJvw,No Answer,Kinissue;Umiar,The Realization,175714,17,groovy,0.318,vinyl crackle,0.202,nature,0.16,ocean,-0.311,jazz,-0.381,
-0010,0YAz3IY3Ae1pkyqKyIJJl0,Remembering The Past,Kinissue;Prithvi,The Realization,148197,27,groovy,0.489,chill,0.477,jazz,0.379,vinyl crackle,0.357,cozy,0.32,
-0011,5MiTh3kSPfic1l0WWppQEr,Sand Cottage,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,205885,50,ocean,1.451,cafe,1.171,sad,1.167,peaceful,1.062,lonely,1.034,
-0012,5pOIaubATM8uUNJaME1TEV,Atmosphere,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,132260,41,minimal,1.857,guitar,1.76,nostalgic,1.689,upbeat,1.114,focus,0.992,
-0013,6ogN1ORjW1aofvAoZ9Fh7o,Palm Winters,Kinissue;Umiar,The Realization,123970,23,minimal,1.801,night,1.761,cafe,1.745,hopeful,1.264,bass-heavy,1.216,
-0014,1xYBDCComkNeNQq3vFTPM9,Sacrifice,Kinissue,The Realization,160588,48,rain,0.558,dark,0.435,ambient,0.404,night,0.319,ocean,0.275,
-0015,4lmR9fgYd7DGylRMN752xl,Orpheus,Dimension 32,The Legend Of Orpheus,154000,32,rain,1.502,ocean,1.136,nature,0.971,home,0.938,bossa nova,0.633,
-0016,3R35fxrLJCSXlj7bZgch90,A Myth Underground,Dimension 32;Quantum Break,The Legend Of Orpheus,156500,39,sad,2.652,melancholic,2.087,peaceful,1.618,lonely,1.158,dreamy,1.025,
-0017,3AzevrwaQ2iyusFMxQWKiA,Visit To The Underworld,Dimension 32;Lucid Keys,The Legend Of Orpheus,129250,35,jazz,1.199,ocean,1.181,nature,1.018,vinyl crackle,0.049,rain,-0.122,
-0018,4FKHgQcmmy8tt8WLzKewxB,Hymn To Persephone,Dimension 32;Yasumu,The Legend Of Orpheus,192624,35,sad,0.844,ocean,0.579,melancholic,0.449,peaceful,0.239,home,0.215,
-0019,4fbhFS2ReoCfD3hTrE89fT,Charming The Gods,Dimension 32;Iridae;Quantum Break,The Legend Of Orpheus,172000,34,nostalgic,1.982,dreamy,1.522,melancholic,1.477,peaceful,1.455,space,1.4,
-0020,5eryXIXI9vCOOB5JFAg7x2,Lün,brillion.;xander.,Bedtime Stories Pt.4,208941,28,vinyl crackle,1.342,mellow,0.825,bass-heavy,0.536,ambient,0.44,night,0.435,
-0021,3oBUAYwM9wCXzHk4YEhd9J,Evermore,brillion.;Idealism,Bedtime Stories Pt.4,120000,51,spacey,1.964,ambient,1.934,bass-heavy,1.777,lonely,1.735,hopeful,1.697,
-0022,37JfgfrwSulK13NsR6sL7F,At Peace,brillion.;Allem Iversom,Bedtime Stories Pt.4,175200,31,minimal,2.163,nostalgic,2.102,bass-heavy,2.075,focus,2.015,guitar,1.944,
-0023,0UX3klkX8GjSYi09KaaBz5,Pearlescent,brillion.,Bedtime Stories Pt.4,177230,34,spacey,1.517,ambient,1.259,hopeful,1.184,lonely,1.141,focus,1.125,
-0024,3opVz7yMK9AGWpaWsRibGI,Stargazing,brillion.;Dontcry,Bedtime Stories Pt.4,103384,35,space,1.708,warm,1.533,spacey,1.432,ambient,1.431,winter,1.389,
-0025,73pHvpr4pCEt1JjfWVkqhy,Io,brillion.;deja blue,Bedtime Stories Pt.4,137000,28,piano,3.465,minimal,2.824,focus,2.512,cafe,2.509,melancholic,2.45,
-0026,0Ue1c4gj0pbfVD3hzRBSSH,Nightcap,brillion.;HM Surf,Bedtime Stories Pt.4,140000,33,groovy,1.299,winter,1.194,home,1.137,hopeful,1.002,cozy,0.991,
-0027,6nayuJVXbqgSZt4JousNTY,Moonrise,brillion.,Bedtime Stories Pt.4,144000,20,cafe,0.784,sad,-0.061,melancholic,-0.15,piano,-0.252,home,-0.331,
-0028,6PZ2j9Lf5Z6p4hxDL0nRGO,"Inhale, Exhale",brillion.;HM Surf,Bedtime Stories Pt.4,165818,30,ambient,1.047,focus,1.039,spacey,0.978,mellow,0.863,groovy,0.82,
-0029,3ayimIPIlcnYO2dYstjl7s,Bloom,brillion.;softy,Bedtime Stories Pt.4,164571,24,focus,1.033,guitar,0.936,minimal,0.728,ambient,0.453,spacey,0.367,
-0030,09sLlzuXif9RkJE1QIcrum,Umbra,brillion.;Tom Doolie,Bedtime Stories Pt.4,128000,31,mellow,2.55,peaceful,2.475,focus,2.38,spacey,2.237,dreamy,2.191,
-0031,6zuSjw4znInGHsxd0dNECj,Onward,brillion.;dryhope,Bedtime Stories Pt.4,162461,28,spacey,1.921,mellow,1.694,hopeful,1.612,dreamy,1.575,ambient,1.492,
-0032,01zVrsbGiRfUNWskOjmxot,Somnolence,brillion.;Kagan;Makzo,Bedtime Stories Pt.4,150461,25,nostalgic,2.267,spacey,2.045,space,1.85,hopeful,1.766,focus,1.732,
-0033,7Af7o3yvrdadpU7wMAm1Th,Emanate,brillion.;Slo Loris,Bedtime Stories Pt.4,118181,23,groovy,1.146,spacey,1.121,chill,0.881,guitar,0.858,bass-heavy,0.849,
-0034,0KSFEyhpVGJQXTFlSQ6qF1,Whispers of Wisdom,Pierson Booth;steezy prime;Lenny Loops,The Beginning,140500,39,nature,2.48,night,1.998,focus,1.8,dark,1.554,slow,1.534,
-0035,2o0BjaHKGML4TUE2M0PH8M,Stepping Stones,Pierson Booth;after noon,The Beginning,132413,40,ocean,1.657,cafe,1.614,bass-heavy,1.21,nature,1.029,nostalgic,1.008,
-0036,3ZR6NMSQUo9yVZA0vCJBuS,Your Innocent Eyes,Pierson Booth;kokoro,The Beginning,136842,50,guitar,0.744,rain,0.535,nature,0.499,sad,0.454,vinyl crackle,0.342,
-0037,6mPsXf8fH9SDMIcJfvS2dS,The Everlasting Plan,Pierson Booth;Sheath,The Beginning,150000,40,ocean,1.737,cafe,1.072,nostalgic,0.997,bass-heavy,0.986,dark,0.921,
-0038,6r4nrUKNCpjb3zm4u1MVFK,Light for My Path,Pierson Booth;mtch.,The Beginning,169473,44,peaceful,1.186,nostalgic,0.954,piano,0.853,bass-heavy,0.823,sleepy,0.81,
-0039,36fVenvuf5rPGNCwN53lOj,The Chosen,Pierson Booth;Julián Aponte,The Beginning,178947,41,guitar,0.517,piano,0.34,sad,0.187,melancholic,0.045,vinyl crackle,0.037,
-0040,2U4vrEIOsVNjWRZxW5MRHs,Hidden Pursuit,Pierson Booth;mtch.,The Beginning,135789,44,peaceful,1.663,ocean,1.596,sad,0.999,melancholic,0.988,nostalgic,0.977,
-0041,1cP9y5e7RutQCcDNCgJRdi,Visions Made Clear,Pierson Booth;Banks,The Beginning,141818,40,ocean,0.435,bass-heavy,0.397,nostalgic,0.378,piano,0.321,vinyl crackle,0.089,
-0042,44oeYUfxJOwZ6tbvAW5Gnm,At night we fly,softy;no one's perfect,Frozen Lands,166323,36,bossa nova,0.831,groovy,0.342,nostalgic,0.291,vinyl crackle,0.203,home,0.139,
-0043,1m3lcDacMcACyXf4vgR8E7,Raininterlude,softy;Lucid Keys,Frozen Lands,123428,31,rain,1.044,jazz,0.941,nostalgic,0.786,vinyl crackle,0.546,sad,0.423,
-0044,5t8IB8EZNMi3wyq3MDefcr,Frozen Lands,softy;No Spirit,Frozen Lands,166285,33,ocean,2.02,rain,1.5,nature,1.475,night,1.4,jazz,1.271,
-0045,6X1i4whF8iEns2P9gouHaN,Another Path,softy;Kanisan,Frozen Lands,109714,31,rain,1.481,vinyl crackle,1.276,sad,1.226,melancholic,1.051,dark,1.034,
-0046,5lux3FLNObEl2zUqK85Ne3,Moonlit Tales,softy;Kanisan,Frozen Lands,121846,22,jazz,0.792,sad,0.489,vinyl crackle,0.0,dark,-0.126,melancholic,-0.17,
-0047,4fn4bLSwTWootzw5gae5Hq,End of the Lights,softy;No Spirit,Frozen Lands,180000,34,cafe,0.578,sad,0.432,minimal,-0.07,vinyl crackle,-0.145,upbeat,-0.414,
-0048,5aKmUTX522UD4Zl8rtox5E,Macabre,softy;Dimension 32,Frozen Lands,167307,51,sad,2.622,melancholic,1.507,rain,1.125,peaceful,1.013,lonely,0.538,
-0049,0XRJC8G3C7kJYrtBDMuBzJ,A Past Far Away,softy;cxlt.,Frozen Lands,144705,26,dark,1.785,night,1.693,bass-heavy,1.602,peaceful,1.375,sad,1.342,
-0050,7HNHWCAkkunqfVWlLG8vkw,Nocturnal Spirits,softy;Juliàn,Frozen Lands,155555,24,sad,2.164,melancholic,1.393,home,0.98,dark,0.623,rain,0.452,
-0051,6E6HNdlSFkBkgzr4fz6PfE,Levitate,softy;Goson,Frozen Lands,151969,30,jazz,0.385,bass-heavy,0.315,nature,0.294,guitar,0.267,ocean,0.249,
-0052,6V4yPIgMx9BC2AgNTSLcFw,Crystal Glow,softy;Wishes and Dreams,Frozen Lands,170307,22,sad,0.674,melancholic,-0.314,minimal,-0.418,nature,-0.528,home,-0.775,
-0053,5XAuoP3mj6q2LHkiICEg0a,Into The Maze,softy;Wishes and Dreams;Tonion,Frozen Lands,169411,30,sad,1.82,night,1.742,minimal,1.599,melancholic,1.546,home,1.425,
-0054,54RMdOqTAwnfYWYIttaK4Y,Ghosts in Mist,softy;Goson,Frozen Lands,153303,25,ocean,1.209,bass-heavy,0.716,cafe,0.597,cozy,0.558,jazz,0.529,
-0055,3H7RLO8dVAqfbBDYqoA8Be,Fellow,HoKø;Damien Fleau,Jazz in Tokyo,160905,30,jazz,1.064,sad,-0.308,cafe,-0.443,melancholic,-0.862,vinyl crackle,-1.212,
-0056,53m3ETY5zkRvZaPiUDdWwk,Ramen Flavor,HoKø;Diiolme;Damien Fleau,Jazz in Tokyo,167479,29,jazz,0.434,sad,-0.337,nature,-0.52,cafe,-0.697,peaceful,-0.786,
-0057,63Mrm37WGD6pJEsgk3PYuE,Shibuya River,HoKø;Damien Fleau;Yoann Garel,Jazz in Tokyo,157812,31,jazz,0.598,sad,0.438,peaceful,0.17,melancholic,0.161,cafe,-0.23,
-0058,5H4ad3QTW4uRuIxCczkh91,Sakura's Farwell,HoKø;Damien Fleau,Jazz in Tokyo,151403,29,jazz,0.802,sad,-0.349,vinyl crackle,-0.911,melancholic,-1.181,peaceful,-1.194,
-0059,1BbX6JiD9sbHfsXrP5IrYe,Ippo,HoKø;Damien Fleau,Jazz in Tokyo,134300,30,jazz,1.283,sad,1.28,melancholic,0.596,peaceful,0.289,ocean,-0.169,
-0060,1reZlmqPHTtFvkYT2waJBE,Rykugien Garden,HoKø;Damien Fleau,Jazz in Tokyo,163925,29,jazz,1.142,cafe,0.013,sad,-0.174,rain,-0.632,vinyl crackle,-0.677,
-0061,1QVxGJRUjYwUbQ9n31UizB,Typhoon - Original Mix,Sam Karen,Typhoon,423004,1,minimal,1.079,bass-heavy,0.551,space,0.058,nature,-0.097,spacey,-0.361,
-0062,7o1WRVl6t6e3bvb0f58I4A,Ryu's Serenade,HoKø;Damien Fleau,Jazz in Tokyo,125634,29,jazz,2.083,nostalgic,0.055,upbeat,-0.1,sad,-0.257,cozy,-0.329,
-0063,0L6dK9aOpZSdsoRcUtACuO,Le Vendeur Ambulant,HoKø;Damien Fleau,Jazz in Tokyo,123737,32,jazz,1.706,sad,0.662,melancholic,0.431,upbeat,0.113,nostalgic,-0.016,
-0064,0dLpbLDQGXZfcV0MKjCCQ3,Ballad while Playing,HoKø;Damien Fleau,Jazz in Tokyo,120069,30,jazz,0.392,sad,-0.238,melancholic,-0.588,cafe,-0.853,peaceful,-0.997,
-0065,1LmJvNaKWM8oms1P0MEXq8,Beat Takeshi,HoKø;Lucie Cravero;Damien Fleau,Jazz in Tokyo,140959,29,jazz,1.173,sad,-0.157,melancholic,-0.409,peaceful,-0.882,nostalgic,-1.014,
-0066,7DahGKcvskZkj3113A0wcV,Paws For Life,Krynoze;Hoogway;Lucid Keys,Take A Paws,168946,32,rain,1.727,winter,1.323,dreamy,1.321,vinyl crackle,1.244,dark,1.063,
-0067,010cANR5WR7scFUO8YoVwV,Take A Paws,Krynoze;Goson,Take A Paws,161142,34,jazz,0.719,ocean,0.707,nostalgic,0.619,hopeful,0.293,groovy,0.189,
-0068,01XTn6MuTLXZJpNmCz42jW,Pure Soul,Krynoze;Lucid Keys,Take A Paws,122866,33,jazz,1.429,bossa nova,0.991,guitar,0.853,groovy,0.544,nostalgic,0.5,
-0069,48QevejWaKIHNzeUAoZiPI,Paws & Furs,Krynoze;Lucid Keys,Take A Paws,139384,48,rain,1.38,dreamy,0.96,nature,0.957,ocean,0.884,winter,0.761,
-0070,53aToX4XpoS2BFoPLf5HCd,Woofing Tales,Krynoze;Goson,Take A Paws,168437,33,vinyl crackle,1.157,cafe,0.825,minimal,0.801,ambient,0.352,focus,0.115,
-0071,1AQiOdbSz9jkbePkfpIz1o,Furry Cuddles,Krynoze;Goson,Take A Paws,164178,34,bossa nova,1.02,groovy,0.798,ocean,0.783,vinyl crackle,0.748,jazz,0.725,
-0072,1ObQvo5Saou4ZHVoJ9JKQg,Wagging Emotions,Krynoze;Goson;Hoogway,Take A Paws,147861,30,ocean,1.185,bass-heavy,0.997,focus,0.902,rain,0.847,warm,0.658,
-0073,4DH1NgMzY9GgCqM6aK4IhA,Innocent Eyes,Krynoze;Lucid Keys,Take A Paws,147208,19,lonely,1.227,spacey,1.196,ambient,1.107,hopeful,1.106,groovy,1.055,
-0074,2WHtYI3QurQ4d8svbowJ2l,eros,Dinis;Lucid Keys,"a piece of my heart, for you.",164000,35,vinyl crackle,1.557,rain,1.327,guitar,1.049,cafe,0.575,minimal,0.351,
-0075,6Kx6F6BgnCHDWy9gVXFSuZ,citrus,Dinis;Dimension 32,"a piece of my heart, for you.",178450,37,guitar,1.919,sad,1.492,lonely,1.47,melancholic,1.457,peaceful,1.409,
-0076,2sB8n3Gma8rxDLrHLukJNc,above the clouds,Dinis;Dimension 32;Mondo Loops,"a piece of my heart, for you.",156050,13,guitar,2.615,focus,2.036,lonely,2.035,minimal,2.008,ambient,1.931,
-0077,06G2gqKOi0cBXpJBJzjEW2,unbreakable,Dinis;Cosmic Koala,"a piece of my heart, for you.",165600,40,melancholic,1.494,sad,1.45,nostalgic,1.376,upbeat,1.308,lonely,1.257,
-0078,1CZTvZVdrJEkUDACYnrpPW,church,Dinis;Hoogway,"a piece of my heart, for you.",175200,49,sad,1.741,melancholic,1.559,home,1.535,peaceful,1.407,lonely,1.293,
-0079,45yWAD4cm5mp3TpOlFHyaC,honeymoon,Dinis;TABAL,"a piece of my heart, for you.",179600,34,melancholic,2.388,dreamy,2.315,peaceful,2.136,focus,1.992,guitar,1.962,
-0080,0TBiQ2XtsiDFhqJderAvvf,Interstellar,Living Room,Dreamcatcher,143823,58,peaceful,1.97,sad,1.435,ocean,1.424,melancholic,1.225,dreamy,1.21,
-0081,6AR5M8W36q0TjyH4Zw7gnZ,Moringa,Living Room,Dreamcatcher,144000,37,sad,2.483,melancholic,1.322,cafe,1.216,peaceful,0.877,dark,0.689,
-0082,3Zd5yGjs0Zavnc9Eekh6qc,Hidden In The Mist,Living Room,Dreamcatcher,113142,35,sad,2.066,peaceful,1.687,melancholic,1.596,dreamy,0.904,home,0.774,
-0083,2VvKFXVLRgatNY0pkCXWnn,Exhausting,Living Room;Hoogway,Dreamcatcher,162352,31,nature,1.534,sad,0.916,peaceful,0.382,melancholic,0.371,nostalgic,0.345,
-0084,1uY3pv35zCDG9XYskKl8T9,Calm Land,Living Room;Otaam,Dreamcatcher,119104,37,nature,1.635,winter,1.48,night,1.353,home,1.026,space,0.927,
-0085,5mfWE4HaQmXSE5ZLPU80Y0,Silk,Living Room,Dreamcatcher,128709,37,nature,2.295,ocean,1.783,peaceful,0.819,minimal,0.723,ambient,0.617,
-0086,7ujHJdWq2T5aYY8Repm31e,Exploring,Living Room,Dreamcatcher,136000,34,cafe,0.631,spacey,-1.894,nostalgic,-1.972,mellow,-2.244,upbeat,-2.278,
-0087,4S1gjv72PIP5QMfCRN4Y9N,Glooming,Living Room;Phlocalyst,Dreamcatcher,120882,34,peaceful,1.156,dreamy,1.116,winter,1.056,mellow,0.876,nature,0.851,
-0088,1DvwzIow8VEKNwjWOzTeL7,A Sense of Invisibility,Elijah Lee;Casiio,Phantasm,109888,24,rain,1.293,bossa nova,1.189,ocean,1.068,nature,0.755,cozy,0.737,
-0089,1hpzyEeAulh7bJEUc7NymH,Uneven,Elijah Lee;Casiio,Phantasm,116836,51,rain,1.549,sad,0.799,piano,0.628,vinyl crackle,0.572,melancholic,0.398,
-0090,0ZOnxrkwbkw5HxkrSKJsmY,Who Are You,Elijah Lee;Casiio,Phantasm,109825,18,rain,1.816,vinyl crackle,1.714,dark,1.234,home,1.152,melancholic,1.083,
-0091,1iabjlri2pgeY4makFpyFz,Breathe,Elijah Lee;Casiio,Phantasm,133072,27,rain,1.974,vinyl crackle,1.354,cozy,1.314,winter,1.139,night,1.041,
-0092,5YQFxX2TGw9eKjQEU2B5EL,Over/Think,Elijah Lee;Casiio,Phantasm,123834,26,ocean,1.95,rain,0.957,nature,0.928,winter,0.295,cafe,0.202,
-0093,23GNfP4aU1koqbVizOAnzV,Detour,Elijah Lee;Casiio,Phantasm,118642,33,rain,1.744,melancholic,0.959,dark,0.917,sad,0.865,piano,0.591,
-0094,6kw95a1V1f3hGpqCOmPSoW,Falling to Pieces,Elijah Lee;Casiio,Phantasm,150846,28,rain,1.907,ocean,1.187,dark,1.169,bossa nova,0.963,vinyl crackle,0.892,
-0095,4b26R4SdUXpp2F1xXE4OP0,Tired of a Bewildered Heart,Elijah Lee;Casiio,Phantasm,132642,33,rain,2.174,vinyl crackle,1.165,melancholic,1.005,sad,0.877,piano,0.725,
-0096,0A50znzpBKkmR0LayV6aW7,Phantasm,Elijah Lee;Casiio,Phantasm,129778,32,vinyl crackle,1.39,rain,0.593,ocean,0.524,bossa nova,0.447,nature,0.421,
-0097,2Wq7xN6mKFQME7y8JNGd3x,Slow Falling,Elijah Lee;Casiio,Phantasm,90475,33,nature,1.675,ocean,0.508,sad,0.226,home,0.106,peaceful,0.099,
-0098,4Byv0yyz5X3Rnpo9JhZl4O,Aged,Elijah Lee;Casiio,Phantasm,103580,34,rain,1.066,ocean,0.995,cozy,0.862,vinyl crackle,0.815,dark,0.792,
-0099,3Un1vFKgKe9ADsp2ANwQwV,Simplicity,Elijah Lee;Casiio,Phantasm,141429,32,cozy,0.788,melancholic,0.722,vinyl crackle,0.688,jazz,0.65,sad,0.433,
-0100,19hzMrwLc0ZcrJcwdA6NpM,bloom,Bcalm;Dontcry,times we had,131320,40,vinyl crackle,1.846,rain,1.527,piano,0.572,dark,0.497,mellow,0.375,
-0101,006izA2xV3TS2IEIiFPQYM,searching,Bcalm;Dontcry,times we had,117931,42,peaceful,2.107,dark,2.077,piano,2.025,ambient,2.001,mellow,1.983,
-0102,1x52XoiW7NyJbSez6yGBkp,nightwatch,Bcalm;Dontcry,times we had,157090,49,mellow,2.143,peaceful,2.141,sleepy,2.133,slow,2.072,lonely,2.07,
-0103,6RhljGGWH6oiKvTZsjsbch,passage,Bcalm;Dontcry,times we had,127924,41,vinyl crackle,2.998,rain,1.357,dark,0.902,sad,0.668,ambient,0.522,
-0104,1qOEHYl0A9TclGYVFYxenH,adrift,Bcalm;Dontcry,times we had,147692,42,sleepy,1.898,slow,1.779,ambient,1.748,bass-heavy,1.73,spacey,1.69,
-0105,0wi3K180RVCpkBcPPRvkOp,night and day,Bcalm;Dontcry,times we had,136551,39,guitar,2.311,slow,2.239,bass-heavy,2.111,hopeful,2.074,ambient,2.065,
-0106,7dTdOU1LSFBWT6R9VqPdiz,raindrops,Bcalm;Dontcry,times we had,147692,40,cafe,2.367,hopeful,1.921,sleepy,1.92,nostalgic,1.879,upbeat,1.86,
-0107,3RoNR2TfIEdhYWANfrdnZN,shimmer,Bcalm;Dontcry,times we had,157090,40,ambient,2.446,spacey,2.257,mellow,2.177,ocean,2.161,space,2.133,
-0109,1EBISfHJenWco7iXwI41sI,A Calm Place,Hoogway;Dontcry,Fragments Of The Moon,162461,43,winter,1.432,peaceful,1.37,mellow,1.326,home,1.322,sleepy,1.136,
-0110,0rAJx3GbRoLogULywYXoyx,By Your Side,Hoogway;Phlocalyst,Fragments Of The Moon,137867,41,ocean,1.663,rain,1.496,vinyl crackle,1.492,nature,1.416,night,1.064,
-0111,2EsD0scPj9oDcxx9JQWCOu,Monolith,Hoogway,Fragments Of The Moon,188571,45,nature,1.198,sad,0.339,peaceful,-0.23,winter,-0.259,ocean,-0.488,
-0112,13XKI7KfI3bmpp11SbLaug,Ascending,Hoogway,Fragments Of The Moon,164500,39,rain,1.796,bossa nova,1.385,vinyl crackle,1.222,sad,1.147,ocean,1.044,
-0113,3lBnGRp751bAahmNnzx87a,Like A Dream,Hoogway,Fragments Of The Moon,156610,41,rain,1.821,vinyl crackle,1.62,minimal,1.06,sad,0.882,nature,0.794,
-0114,6gpfPYlEYYgiRCojAmz97S,Crepuscule,Hoogway,Fragments Of The Moon,160000,40,hopeful,1.677,night,1.664,cafe,1.537,bass-heavy,1.52,slow,1.487,
-0115,1awmEscrwrvWGq4PJ2dHRV,Dans La Lune,Hoogway,Fragments Of The Moon,176000,42,minimal,2.11,cafe,2.096,home,1.851,ambient,1.618,nature,1.464,
-0116,78hxtGT2Y0wIb7qwOT7X1c,A Promise,Hoogway,Fragments Of The Moon,185500,44,rain,1.908,dark,0.936,piano,0.868,vinyl crackle,0.758,sad,0.676,
-0117,06H7v26dc5CjrEvKAHfr67,Mirrors,Hoogway,Fragments Of The Moon,175000,43,nature,2.077,ocean,1.026,sad,0.947,peaceful,0.79,lonely,0.701,
-0118,3p3u3kd7TahhpHxLqPhUC0,Parallels,Loafy Building;Bcalm;Banks,Aquilla,152307,32,sad,2.278,melancholic,2.031,home,1.384,cozy,1.242,dreamy,1.205,
-0119,3cdtPosQPvbvJshoy8ydFB,Quiet Land,Loafy Building;xander.,Aquilla,128955,34,nature,1.167,chill,0.672,vinyl crackle,0.553,lonely,0.443,ocean,0.411,
-0120,0RsOZhtquJ3TuHFSrMj6sx,Moira,Loafy Building;Tibeauthetraveler,Aquilla,182218,30,sad,2.385,melancholic,2.002,peaceful,1.267,lonely,1.169,dark,0.998,
-0121,6kO8gwZkC3bmrHSYkb9x1r,Eden's Path,Loafy Building;Mondo Loops,Aquilla,134545,37,sad,2.12,peaceful,2.067,lonely,1.725,ambient,1.722,minimal,1.526,
-0122,1l474NfiAzOw8hDmwDGg7H,Mirroring,Loafy Building;squeeda,Aquilla,134545,36,sad,1.429,nature,0.979,melancholic,0.955,peaceful,0.752,home,0.653,
-0123,6He6uotYSGvgOf8jpi68X2,Aquilla,Loafy Building,Aquilla,120000,36,peaceful,1.814,melancholic,1.521,dreamy,1.471,sad,1.351,lonely,1.308,
-0124,55K4HllSdmsXw1L7KmRBWv,Zhuki,Loafy Building;Hoogway,Aquilla,124765,33,sad,2.924,melancholic,2.518,peaceful,2.017,lonely,1.548,dreamy,1.11,
-0125,4pGAueuvQmWNhkC5nv6TKN,Ava,Loafy Building;Ambulo,Aquilla,144347,51,groovy,0.46,nostalgic,0.063,ocean,0.054,nature,0.036,spacey,-0.012,
-0126,7ByOXgFHVJaFTxcxfTrjgv,Full of love,xander.;Wishes and Dreams,Sleepwalking,168648,29,vinyl crackle,0.739,jazz,0.54,groovy,0.471,piano,-0.043,bossa nova,-0.092,
-0127,0Hwf4osCNKGjzBMPajCfle,Letting Her Go,xander.;Rufus Dipper,Sleepwalking,173684,29,vinyl crackle,1.992,rain,1.656,bossa nova,1.609,jazz,0.901,winter,0.775,
-0128,25P1G1nvlrhODh7LZth2v9,Autumn Camp,xander.,Sleepwalking,164050,36,groovy,0.485,jazz,0.274,hopeful,0.125,upbeat,0.09,minimal,-0.002,
-0129,39ZkAgGIAnwCj5jclYSMr5,Everlasting,xander.;brillion.,Sleepwalking,224680,34,vinyl crackle,0.757,nature,0.32,ocean,-0.345,bossa nova,-0.441,rain,-0.776,
-0130,2oH9Z9c6gHa9fwOfbYj0AF,Journey,xander.;No Spirit;Tonion,Sleepwalking,230137,33,nature,0.379,sad,0.361,minimal,0.148,melancholic,-0.194,cafe,-0.61,
-0131,5cYtNp8zbEIzEQh7GJ0MHn,High Hopes,xander.;Tonion,Sleepwalking,203200,33,groovy,1.561,jazz,1.205,upbeat,0.909,nostalgic,0.898,spacey,0.88,
-0132,0D1mmb2fzenNMBuTbNqF8M,Distant Road,xander.;Tonion,Sleepwalking,177534,35,minimal,0.509,nature,-0.152,sad,-0.418,jazz,-0.749,cafe,-0.877,
-0133,3LKgq0INTA9ieH48GzSwRV,Healing,xander.;Wishes and Dreams,Sleepwalking,226666,37,jazz,0.974,home,0.933,hopeful,0.693,nostalgic,0.59,spacey,0.569,
-0134,67eNEjlaMF8ZXx9p6FylWd,The Memories We Shared,xander.;Rufus Dipper,Sleepwalking,194594,32,nature,1.398,minimal,1.024,cafe,0.424,bass-heavy,0.235,ambient,0.052,
-0135,4ybMEoJr4TSaZB5sSLHwIu,Uncertainty,xander.;Tonion,Sleepwalking,218333,22,sad,0.721,melancholic,0.504,cafe,0.414,minimal,-0.213,dark,-0.458,
-0136,611wOAtR2u0LPjaQHKHvHu,Difficult Questions,Phlocalyst;Myríad;Hilaria,Patterns,136119,31,jazz,2.224,groovy,0.318,nostalgic,-0.147,bossa nova,-0.273,vinyl crackle,-0.367,
-0137,5RmaMP6YGVZd3VieBTCBA1,Shades Of My Soul,Phlocalyst;Hilaria;Myríad,Patterns,156800,31,jazz,2.085,groovy,1.64,bossa nova,1.327,cafe,1.291,guitar,1.205,
-0138,0ADsdC7JOiPeIoK7LduvS9,From A Distance,Phlocalyst;Myríad;Hilaria,Patterns,151578,28,jazz,1.302,cafe,-0.277,groovy,-0.323,upbeat,-0.471,nostalgic,-0.565,
-0139,1IpiBsCuUoeRmYv6qrYr5i,Gloomy Nights,Phlocalyst;Myríad;Hilaria,Patterns,187500,37,jazz,1.315,groovy,0.109,nostalgic,0.028,bossa nova,-0.285,bass-heavy,-0.324,
-0140,0maqDdgKopF0q9WuGcv6Uu,First Steps,Phlocalyst;Myríad;Hilaria,Patterns,132800,28,cafe,1.864,bossa nova,0.695,jazz,0.659,bass-heavy,0.461,piano,0.315,
+0000,1KGWevakZQ2l3MPNL5qf8U,Hourglass,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,101635,21,nostalgic,1.461,jazz,1.221,groovy,1.127,upbeat,0.167,cafe,0.049,https://i.scdn.co/image/ab67616d0000b273c0e19ae45c7ec2bd3a62bf69
+0001,1JKsqzaEBudVdvGeju3Isj,Along The Path,Kinissue;affogato.wav,The Realization,133629,39,sad,1.104,peaceful,1.029,melancholic,0.583,dark,0.539,ambient,0.512,https://i.scdn.co/image/ab67616d0000b2734f0025940f89d05e2e09fa21
+0002,5XEVBQLx2xReQQrRzRly4j,Wicked Thoughts,Kinissue;Tibeauthetraveler,The Realization,146426,32,vinyl crackle,0.22,ocean,0.2,cafe,0.072,spacey,0.037,chill,-0.065,https://i.scdn.co/image/ab67616d0000b2734f0025940f89d05e2e09fa21
+0003,5ozha6njRgWr6mnkwh7GHL,Emotions,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,132260,38,sad,0.276,melancholic,0.26,nostalgic,0.165,vinyl crackle,0.019,piano,-0.273,https://i.scdn.co/image/ab67616d0000b273c0e19ae45c7ec2bd3a62bf69
+0004,7yt2PMTWJc5BzYprPh0pg8,Farewell,Kinissue,The Realization,166533,42,ambient,0.636,ocean,0.572,slow,0.565,chill,0.527,lonely,0.427,https://i.scdn.co/image/ab67616d0000b2734f0025940f89d05e2e09fa21
+0005,5apq3wUPv0B3um7GqpB0s4,Illuminate,Kinissue;Mindeliq,The Realization,185884,40,vinyl crackle,1.371,bass-heavy,0.576,rain,0.532,groovy,0.482,nostalgic,0.452,https://i.scdn.co/image/ab67616d0000b2734f0025940f89d05e2e09fa21
+0006,1YvtXZo6ZeqtgnAwZuQYUL,Pará Eidos,Dimension 32;l'Outlander,The Legend Of Orpheus,135250,21,bossa nova,0.568,cafe,0.484,nature,0.242,nostalgic,0.189,sleepy,-0.095,https://i.scdn.co/image/ab67616d0000b2737e9c01a072e521152074d689
+0007,3lxVvy35kyaYsmrrUldt6f,Soft Spot,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,123522,39,vinyl crackle,0.656,nature,0.235,rain,-0.079,bossa nova,-0.085,minimal,-0.151,https://i.scdn.co/image/ab67616d0000b273c0e19ae45c7ec2bd3a62bf69
+0008,3fUrXJWBRHb4THonvYXa4F,Far From Here,Kinissue;Umbriel,The Realization,154732,24,nostalgic,1.92,peaceful,1.847,space,1.519,spacey,1.457,sleepy,1.44,https://i.scdn.co/image/ab67616d0000b2734f0025940f89d05e2e09fa21
+0009,7mDZi08pTwwD6MAQV6bJvw,No Answer,Kinissue;Umiar,The Realization,175714,17,groovy,0.318,vinyl crackle,0.202,nature,0.16,ocean,-0.311,jazz,-0.381,https://i.scdn.co/image/ab67616d0000b2734f0025940f89d05e2e09fa21
+0010,0YAz3IY3Ae1pkyqKyIJJl0,Remembering The Past,Kinissue;Prithvi,The Realization,148197,27,groovy,0.489,chill,0.477,jazz,0.379,vinyl crackle,0.357,cozy,0.32,https://i.scdn.co/image/ab67616d0000b2734f0025940f89d05e2e09fa21
+0011,5MiTh3kSPfic1l0WWppQEr,Sand Cottage,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,205885,50,ocean,1.451,cafe,1.171,sad,1.167,peaceful,1.062,lonely,1.034,https://i.scdn.co/image/ab67616d0000b273c0e19ae45c7ec2bd3a62bf69
+0012,5pOIaubATM8uUNJaME1TEV,Atmosphere,Lawrence Walther;Recalibration Machine;Less Gravity,Dune Days,132260,41,minimal,1.857,guitar,1.76,nostalgic,1.689,upbeat,1.114,focus,0.992,https://i.scdn.co/image/ab67616d0000b273c0e19ae45c7ec2bd3a62bf69
+0013,6ogN1ORjW1aofvAoZ9Fh7o,Palm Winters,Kinissue;Umiar,The Realization,123970,23,minimal,1.801,night,1.761,cafe,1.745,hopeful,1.264,bass-heavy,1.216,https://i.scdn.co/image/ab67616d0000b2734f0025940f89d05e2e09fa21
+0014,1xYBDCComkNeNQq3vFTPM9,Sacrifice,Kinissue,The Realization,160588,48,rain,0.558,dark,0.435,ambient,0.404,night,0.319,ocean,0.275,https://i.scdn.co/image/ab67616d0000b2734f0025940f89d05e2e09fa21
+0015,4lmR9fgYd7DGylRMN752xl,Orpheus,Dimension 32,The Legend Of Orpheus,154000,32,rain,1.502,ocean,1.136,nature,0.971,home,0.938,bossa nova,0.633,https://i.scdn.co/image/ab67616d0000b2737e9c01a072e521152074d689
+0016,3R35fxrLJCSXlj7bZgch90,A Myth Underground,Dimension 32;Quantum Break,The Legend Of Orpheus,156500,39,sad,2.652,melancholic,2.087,peaceful,1.618,lonely,1.158,dreamy,1.025,https://i.scdn.co/image/ab67616d0000b2737e9c01a072e521152074d689
+0017,3AzevrwaQ2iyusFMxQWKiA,Visit To The Underworld,Dimension 32;Lucid Keys,The Legend Of Orpheus,129250,35,jazz,1.199,ocean,1.181,nature,1.018,vinyl crackle,0.049,rain,-0.122,https://i.scdn.co/image/ab67616d0000b2737e9c01a072e521152074d689
+0018,4FKHgQcmmy8tt8WLzKewxB,Hymn To Persephone,Dimension 32;Yasumu,The Legend Of Orpheus,192624,35,sad,0.844,ocean,0.579,melancholic,0.449,peaceful,0.239,home,0.215,https://i.scdn.co/image/ab67616d0000b2737e9c01a072e521152074d689
+0019,4fbhFS2ReoCfD3hTrE89fT,Charming The Gods,Dimension 32;Iridae;Quantum Break,The Legend Of Orpheus,172000,34,nostalgic,1.982,dreamy,1.522,melancholic,1.477,peaceful,1.455,space,1.4,https://i.scdn.co/image/ab67616d0000b2737e9c01a072e521152074d689
+0020,5eryXIXI9vCOOB5JFAg7x2,Lün,brillion.;xander.,Bedtime Stories Pt.4,208941,28,vinyl crackle,1.342,mellow,0.825,bass-heavy,0.536,ambient,0.44,night,0.435,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0021,3oBUAYwM9wCXzHk4YEhd9J,Evermore,brillion.;Idealism,Bedtime Stories Pt.4,120000,51,spacey,1.964,ambient,1.934,bass-heavy,1.777,lonely,1.735,hopeful,1.697,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0022,37JfgfrwSulK13NsR6sL7F,At Peace,brillion.;Allem Iversom,Bedtime Stories Pt.4,175200,31,minimal,2.163,nostalgic,2.102,bass-heavy,2.075,focus,2.015,guitar,1.944,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0023,0UX3klkX8GjSYi09KaaBz5,Pearlescent,brillion.,Bedtime Stories Pt.4,177230,34,spacey,1.517,ambient,1.259,hopeful,1.184,lonely,1.141,focus,1.125,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0024,3opVz7yMK9AGWpaWsRibGI,Stargazing,brillion.;Dontcry,Bedtime Stories Pt.4,103384,35,space,1.708,warm,1.533,spacey,1.432,ambient,1.431,winter,1.389,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0025,73pHvpr4pCEt1JjfWVkqhy,Io,brillion.;deja blue,Bedtime Stories Pt.4,137000,28,piano,3.465,minimal,2.824,focus,2.512,cafe,2.509,melancholic,2.45,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0026,0Ue1c4gj0pbfVD3hzRBSSH,Nightcap,brillion.;HM Surf,Bedtime Stories Pt.4,140000,33,groovy,1.299,winter,1.194,home,1.137,hopeful,1.002,cozy,0.991,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0027,6nayuJVXbqgSZt4JousNTY,Moonrise,brillion.,Bedtime Stories Pt.4,144000,20,cafe,0.784,sad,-0.061,melancholic,-0.15,piano,-0.252,home,-0.331,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0028,6PZ2j9Lf5Z6p4hxDL0nRGO,"Inhale, Exhale",brillion.;HM Surf,Bedtime Stories Pt.4,165818,30,ambient,1.047,focus,1.039,spacey,0.978,mellow,0.863,groovy,0.82,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0029,3ayimIPIlcnYO2dYstjl7s,Bloom,brillion.;softy,Bedtime Stories Pt.4,164571,24,focus,1.033,guitar,0.936,minimal,0.728,ambient,0.453,spacey,0.367,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0030,09sLlzuXif9RkJE1QIcrum,Umbra,brillion.;Tom Doolie,Bedtime Stories Pt.4,128000,31,mellow,2.55,peaceful,2.475,focus,2.38,spacey,2.237,dreamy,2.191,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0031,6zuSjw4znInGHsxd0dNECj,Onward,brillion.;dryhope,Bedtime Stories Pt.4,162461,28,spacey,1.921,mellow,1.694,hopeful,1.612,dreamy,1.575,ambient,1.492,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0032,01zVrsbGiRfUNWskOjmxot,Somnolence,brillion.;Kagan;Makzo,Bedtime Stories Pt.4,150461,25,nostalgic,2.267,spacey,2.045,space,1.85,hopeful,1.766,focus,1.732,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0033,7Af7o3yvrdadpU7wMAm1Th,Emanate,brillion.;Slo Loris,Bedtime Stories Pt.4,118181,23,groovy,1.146,spacey,1.121,chill,0.881,guitar,0.858,bass-heavy,0.849,https://i.scdn.co/image/ab67616d0000b2730daff2eff5bca0857ee87e31
+0034,0KSFEyhpVGJQXTFlSQ6qF1,Whispers of Wisdom,Pierson Booth;steezy prime;Lenny Loops,The Beginning,140500,39,nature,2.48,night,1.998,focus,1.8,dark,1.554,slow,1.534,https://i.scdn.co/image/ab67616d0000b27389ddd5d9f7d093ae3f73c791
+0035,2o0BjaHKGML4TUE2M0PH8M,Stepping Stones,Pierson Booth;after noon,The Beginning,132413,40,ocean,1.657,cafe,1.614,bass-heavy,1.21,nature,1.029,nostalgic,1.008,https://i.scdn.co/image/ab67616d0000b27389ddd5d9f7d093ae3f73c791
+0036,3ZR6NMSQUo9yVZA0vCJBuS,Your Innocent Eyes,Pierson Booth;kokoro,The Beginning,136842,50,guitar,0.744,rain,0.535,nature,0.499,sad,0.454,vinyl crackle,0.342,https://i.scdn.co/image/ab67616d0000b27389ddd5d9f7d093ae3f73c791
+0037,6mPsXf8fH9SDMIcJfvS2dS,The Everlasting Plan,Pierson Booth;Sheath,The Beginning,150000,40,ocean,1.737,cafe,1.072,nostalgic,0.997,bass-heavy,0.986,dark,0.921,https://i.scdn.co/image/ab67616d0000b27389ddd5d9f7d093ae3f73c791
+0038,6r4nrUKNCpjb3zm4u1MVFK,Light for My Path,Pierson Booth;mtch.,The Beginning,169473,44,peaceful,1.186,nostalgic,0.954,piano,0.853,bass-heavy,0.823,sleepy,0.81,https://i.scdn.co/image/ab67616d0000b27389ddd5d9f7d093ae3f73c791
+0039,36fVenvuf5rPGNCwN53lOj,The Chosen,Pierson Booth;Julián Aponte,The Beginning,178947,41,guitar,0.517,piano,0.34,sad,0.187,melancholic,0.045,vinyl crackle,0.037,https://i.scdn.co/image/ab67616d0000b27389ddd5d9f7d093ae3f73c791
+0040,2U4vrEIOsVNjWRZxW5MRHs,Hidden Pursuit,Pierson Booth;mtch.,The Beginning,135789,44,peaceful,1.663,ocean,1.596,sad,0.999,melancholic,0.988,nostalgic,0.977,https://i.scdn.co/image/ab67616d0000b27389ddd5d9f7d093ae3f73c791
+0041,1cP9y5e7RutQCcDNCgJRdi,Visions Made Clear,Pierson Booth;Banks,The Beginning,141818,40,ocean,0.435,bass-heavy,0.397,nostalgic,0.378,piano,0.321,vinyl crackle,0.089,https://i.scdn.co/image/ab67616d0000b27389ddd5d9f7d093ae3f73c791
+0042,44oeYUfxJOwZ6tbvAW5Gnm,At night we fly,softy;no one's perfect,Frozen Lands,166323,36,bossa nova,0.831,groovy,0.342,nostalgic,0.291,vinyl crackle,0.203,home,0.139,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0043,1m3lcDacMcACyXf4vgR8E7,Raininterlude,softy;Lucid Keys,Frozen Lands,123428,31,rain,1.044,jazz,0.941,nostalgic,0.786,vinyl crackle,0.546,sad,0.423,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0044,5t8IB8EZNMi3wyq3MDefcr,Frozen Lands,softy;No Spirit,Frozen Lands,166285,33,ocean,2.02,rain,1.5,nature,1.475,night,1.4,jazz,1.271,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0045,6X1i4whF8iEns2P9gouHaN,Another Path,softy;Kanisan,Frozen Lands,109714,31,rain,1.481,vinyl crackle,1.276,sad,1.226,melancholic,1.051,dark,1.034,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0046,5lux3FLNObEl2zUqK85Ne3,Moonlit Tales,softy;Kanisan,Frozen Lands,121846,22,jazz,0.792,sad,0.489,vinyl crackle,0.0,dark,-0.126,melancholic,-0.17,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0047,4fn4bLSwTWootzw5gae5Hq,End of the Lights,softy;No Spirit,Frozen Lands,180000,34,cafe,0.578,sad,0.432,minimal,-0.07,vinyl crackle,-0.145,upbeat,-0.414,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0048,5aKmUTX522UD4Zl8rtox5E,Macabre,softy;Dimension 32,Frozen Lands,167307,51,sad,2.622,melancholic,1.507,rain,1.125,peaceful,1.013,lonely,0.538,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0049,0XRJC8G3C7kJYrtBDMuBzJ,A Past Far Away,softy;cxlt.,Frozen Lands,144705,26,dark,1.785,night,1.693,bass-heavy,1.602,peaceful,1.375,sad,1.342,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0050,7HNHWCAkkunqfVWlLG8vkw,Nocturnal Spirits,softy;Juliàn,Frozen Lands,155555,24,sad,2.164,melancholic,1.393,home,0.98,dark,0.623,rain,0.452,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0051,6E6HNdlSFkBkgzr4fz6PfE,Levitate,softy;Goson,Frozen Lands,151969,30,jazz,0.385,bass-heavy,0.315,nature,0.294,guitar,0.267,ocean,0.249,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0052,6V4yPIgMx9BC2AgNTSLcFw,Crystal Glow,softy;Wishes and Dreams,Frozen Lands,170307,22,sad,0.674,melancholic,-0.314,minimal,-0.418,nature,-0.528,home,-0.775,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0053,5XAuoP3mj6q2LHkiICEg0a,Into The Maze,softy;Wishes and Dreams;Tonion,Frozen Lands,169411,30,sad,1.82,night,1.742,minimal,1.599,melancholic,1.546,home,1.425,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0054,54RMdOqTAwnfYWYIttaK4Y,Ghosts in Mist,softy;Goson,Frozen Lands,153303,25,ocean,1.209,bass-heavy,0.716,cafe,0.597,cozy,0.558,jazz,0.529,https://i.scdn.co/image/ab67616d0000b273f7b85abe57aba92059088752
+0055,3H7RLO8dVAqfbBDYqoA8Be,Fellow,HoKø;Damien Fleau,Jazz in Tokyo,160905,30,jazz,1.064,sad,-0.308,cafe,-0.443,melancholic,-0.862,vinyl crackle,-1.212,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0056,53m3ETY5zkRvZaPiUDdWwk,Ramen Flavor,HoKø;Diiolme;Damien Fleau,Jazz in Tokyo,167479,29,jazz,0.434,sad,-0.337,nature,-0.52,cafe,-0.697,peaceful,-0.786,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0057,63Mrm37WGD6pJEsgk3PYuE,Shibuya River,HoKø;Damien Fleau;Yoann Garel,Jazz in Tokyo,157812,31,jazz,0.598,sad,0.438,peaceful,0.17,melancholic,0.161,cafe,-0.23,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0058,5H4ad3QTW4uRuIxCczkh91,Sakura's Farwell,HoKø;Damien Fleau,Jazz in Tokyo,151403,29,jazz,0.802,sad,-0.349,vinyl crackle,-0.911,melancholic,-1.181,peaceful,-1.194,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0059,1BbX6JiD9sbHfsXrP5IrYe,Ippo,HoKø;Damien Fleau,Jazz in Tokyo,134300,30,jazz,1.283,sad,1.28,melancholic,0.596,peaceful,0.289,ocean,-0.169,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0060,1reZlmqPHTtFvkYT2waJBE,Rykugien Garden,HoKø;Damien Fleau,Jazz in Tokyo,163925,29,jazz,1.142,cafe,0.013,sad,-0.174,rain,-0.632,vinyl crackle,-0.677,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0061,1QVxGJRUjYwUbQ9n31UizB,Typhoon - Original Mix,Sam Karen,Typhoon,423004,1,minimal,1.079,bass-heavy,0.551,space,0.058,nature,-0.097,spacey,-0.361,https://i.scdn.co/image/ab67616d0000b2730eaeb2347794a00278540df5
+0062,7o1WRVl6t6e3bvb0f58I4A,Ryu's Serenade,HoKø;Damien Fleau,Jazz in Tokyo,125634,29,jazz,2.083,nostalgic,0.055,upbeat,-0.1,sad,-0.257,cozy,-0.329,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0063,0L6dK9aOpZSdsoRcUtACuO,Le Vendeur Ambulant,HoKø;Damien Fleau,Jazz in Tokyo,123737,32,jazz,1.706,sad,0.662,melancholic,0.431,upbeat,0.113,nostalgic,-0.016,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0064,0dLpbLDQGXZfcV0MKjCCQ3,Ballad while Playing,HoKø;Damien Fleau,Jazz in Tokyo,120069,30,jazz,0.392,sad,-0.238,melancholic,-0.588,cafe,-0.853,peaceful,-0.997,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0065,1LmJvNaKWM8oms1P0MEXq8,Beat Takeshi,HoKø;Lucie Cravero;Damien Fleau,Jazz in Tokyo,140959,29,jazz,1.173,sad,-0.157,melancholic,-0.409,peaceful,-0.882,nostalgic,-1.014,https://i.scdn.co/image/ab67616d0000b273b106371d3cb114f3c67d7cd0
+0066,7DahGKcvskZkj3113A0wcV,Paws For Life,Krynoze;Hoogway;Lucid Keys,Take A Paws,168946,32,rain,1.727,winter,1.323,dreamy,1.321,vinyl crackle,1.244,dark,1.063,https://i.scdn.co/image/ab67616d0000b2738ed62dd1daf3a47abd6a34ba
+0067,010cANR5WR7scFUO8YoVwV,Take A Paws,Krynoze;Goson,Take A Paws,161142,34,jazz,0.719,ocean,0.707,nostalgic,0.619,hopeful,0.293,groovy,0.189,https://i.scdn.co/image/ab67616d0000b2738ed62dd1daf3a47abd6a34ba
+0068,01XTn6MuTLXZJpNmCz42jW,Pure Soul,Krynoze;Lucid Keys,Take A Paws,122866,33,jazz,1.429,bossa nova,0.991,guitar,0.853,groovy,0.544,nostalgic,0.5,https://i.scdn.co/image/ab67616d0000b2738ed62dd1daf3a47abd6a34ba
+0069,48QevejWaKIHNzeUAoZiPI,Paws & Furs,Krynoze;Lucid Keys,Take A Paws,139384,48,rain,1.38,dreamy,0.96,nature,0.957,ocean,0.884,winter,0.761,https://i.scdn.co/image/ab67616d0000b2738ed62dd1daf3a47abd6a34ba
+0070,53aToX4XpoS2BFoPLf5HCd,Woofing Tales,Krynoze;Goson,Take A Paws,168437,33,vinyl crackle,1.157,cafe,0.825,minimal,0.801,ambient,0.352,focus,0.115,https://i.scdn.co/image/ab67616d0000b2738ed62dd1daf3a47abd6a34ba
+0071,1AQiOdbSz9jkbePkfpIz1o,Furry Cuddles,Krynoze;Goson,Take A Paws,164178,34,bossa nova,1.02,groovy,0.798,ocean,0.783,vinyl crackle,0.748,jazz,0.725,https://i.scdn.co/image/ab67616d0000b2738ed62dd1daf3a47abd6a34ba
+0072,1ObQvo5Saou4ZHVoJ9JKQg,Wagging Emotions,Krynoze;Goson;Hoogway,Take A Paws,147861,30,ocean,1.185,bass-heavy,0.997,focus,0.902,rain,0.847,warm,0.658,https://i.scdn.co/image/ab67616d0000b2738ed62dd1daf3a47abd6a34ba
+0073,4DH1NgMzY9GgCqM6aK4IhA,Innocent Eyes,Krynoze;Lucid Keys,Take A Paws,147208,19,lonely,1.227,spacey,1.196,ambient,1.107,hopeful,1.106,groovy,1.055,https://i.scdn.co/image/ab67616d0000b2738ed62dd1daf3a47abd6a34ba
+0074,2WHtYI3QurQ4d8svbowJ2l,eros,Dinis;Lucid Keys,"a piece of my heart, for you.",164000,35,vinyl crackle,1.557,rain,1.327,guitar,1.049,cafe,0.575,minimal,0.351,https://i.scdn.co/image/ab67616d0000b2731911b2a225dc372b4f2cf20d
+0075,6Kx6F6BgnCHDWy9gVXFSuZ,citrus,Dinis;Dimension 32,"a piece of my heart, for you.",178450,37,guitar,1.919,sad,1.492,lonely,1.47,melancholic,1.457,peaceful,1.409,https://i.scdn.co/image/ab67616d0000b2731911b2a225dc372b4f2cf20d
+0076,2sB8n3Gma8rxDLrHLukJNc,above the clouds,Dinis;Dimension 32;Mondo Loops,"a piece of my heart, for you.",156050,13,guitar,2.615,focus,2.036,lonely,2.035,minimal,2.008,ambient,1.931,https://i.scdn.co/image/ab67616d0000b2731911b2a225dc372b4f2cf20d
+0077,06G2gqKOi0cBXpJBJzjEW2,unbreakable,Dinis;Cosmic Koala,"a piece of my heart, for you.",165600,40,melancholic,1.494,sad,1.45,nostalgic,1.376,upbeat,1.308,lonely,1.257,https://i.scdn.co/image/ab67616d0000b2731911b2a225dc372b4f2cf20d
+0078,1CZTvZVdrJEkUDACYnrpPW,church,Dinis;Hoogway,"a piece of my heart, for you.",175200,49,sad,1.741,melancholic,1.559,home,1.535,peaceful,1.407,lonely,1.293,https://i.scdn.co/image/ab67616d0000b2731911b2a225dc372b4f2cf20d
+0079,45yWAD4cm5mp3TpOlFHyaC,honeymoon,Dinis;TABAL,"a piece of my heart, for you.",179600,34,melancholic,2.388,dreamy,2.315,peaceful,2.136,focus,1.992,guitar,1.962,https://i.scdn.co/image/ab67616d0000b2731911b2a225dc372b4f2cf20d
+0080,0TBiQ2XtsiDFhqJderAvvf,Interstellar,Living Room,Dreamcatcher,143823,58,peaceful,1.97,sad,1.435,ocean,1.424,melancholic,1.225,dreamy,1.21,https://i.scdn.co/image/ab67616d0000b27336d226f28c36cf36812299af
+0081,6AR5M8W36q0TjyH4Zw7gnZ,Moringa,Living Room,Dreamcatcher,144000,37,sad,2.483,melancholic,1.322,cafe,1.216,peaceful,0.877,dark,0.689,https://i.scdn.co/image/ab67616d0000b27336d226f28c36cf36812299af
+0082,3Zd5yGjs0Zavnc9Eekh6qc,Hidden In The Mist,Living Room,Dreamcatcher,113142,35,sad,2.066,peaceful,1.687,melancholic,1.596,dreamy,0.904,home,0.774,https://i.scdn.co/image/ab67616d0000b27336d226f28c36cf36812299af
+0083,2VvKFXVLRgatNY0pkCXWnn,Exhausting,Living Room;Hoogway,Dreamcatcher,162352,31,nature,1.534,sad,0.916,peaceful,0.382,melancholic,0.371,nostalgic,0.345,https://i.scdn.co/image/ab67616d0000b27336d226f28c36cf36812299af
+0084,1uY3pv35zCDG9XYskKl8T9,Calm Land,Living Room;Otaam,Dreamcatcher,119104,37,nature,1.635,winter,1.48,night,1.353,home,1.026,space,0.927,https://i.scdn.co/image/ab67616d0000b27336d226f28c36cf36812299af
+0085,5mfWE4HaQmXSE5ZLPU80Y0,Silk,Living Room,Dreamcatcher,128709,37,nature,2.295,ocean,1.783,peaceful,0.819,minimal,0.723,ambient,0.617,https://i.scdn.co/image/ab67616d0000b27336d226f28c36cf36812299af
+0086,7ujHJdWq2T5aYY8Repm31e,Exploring,Living Room,Dreamcatcher,136000,34,cafe,0.631,spacey,-1.894,nostalgic,-1.972,mellow,-2.244,upbeat,-2.278,https://i.scdn.co/image/ab67616d0000b27336d226f28c36cf36812299af
+0087,4S1gjv72PIP5QMfCRN4Y9N,Glooming,Living Room;Phlocalyst,Dreamcatcher,120882,34,peaceful,1.156,dreamy,1.116,winter,1.056,mellow,0.876,nature,0.851,https://i.scdn.co/image/ab67616d0000b27336d226f28c36cf36812299af
+0088,1DvwzIow8VEKNwjWOzTeL7,A Sense of Invisibility,Elijah Lee;Casiio,Phantasm,109888,24,rain,1.293,bossa nova,1.189,ocean,1.068,nature,0.755,cozy,0.737,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0089,1hpzyEeAulh7bJEUc7NymH,Uneven,Elijah Lee;Casiio,Phantasm,116836,51,rain,1.549,sad,0.799,piano,0.628,vinyl crackle,0.572,melancholic,0.398,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0090,0ZOnxrkwbkw5HxkrSKJsmY,Who Are You,Elijah Lee;Casiio,Phantasm,109825,18,rain,1.816,vinyl crackle,1.714,dark,1.234,home,1.152,melancholic,1.083,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0091,1iabjlri2pgeY4makFpyFz,Breathe,Elijah Lee;Casiio,Phantasm,133072,27,rain,1.974,vinyl crackle,1.354,cozy,1.314,winter,1.139,night,1.041,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0092,5YQFxX2TGw9eKjQEU2B5EL,Over/Think,Elijah Lee;Casiio,Phantasm,123834,26,ocean,1.95,rain,0.957,nature,0.928,winter,0.295,cafe,0.202,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0093,23GNfP4aU1koqbVizOAnzV,Detour,Elijah Lee;Casiio,Phantasm,118642,33,rain,1.744,melancholic,0.959,dark,0.917,sad,0.865,piano,0.591,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0094,6kw95a1V1f3hGpqCOmPSoW,Falling to Pieces,Elijah Lee;Casiio,Phantasm,150846,28,rain,1.907,ocean,1.187,dark,1.169,bossa nova,0.963,vinyl crackle,0.892,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0095,4b26R4SdUXpp2F1xXE4OP0,Tired of a Bewildered Heart,Elijah Lee;Casiio,Phantasm,132642,33,rain,2.174,vinyl crackle,1.165,melancholic,1.005,sad,0.877,piano,0.725,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0096,0A50znzpBKkmR0LayV6aW7,Phantasm,Elijah Lee;Casiio,Phantasm,129778,32,vinyl crackle,1.39,rain,0.593,ocean,0.524,bossa nova,0.447,nature,0.421,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0097,2Wq7xN6mKFQME7y8JNGd3x,Slow Falling,Elijah Lee;Casiio,Phantasm,90475,33,nature,1.675,ocean,0.508,sad,0.226,home,0.106,peaceful,0.099,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0098,4Byv0yyz5X3Rnpo9JhZl4O,Aged,Elijah Lee;Casiio,Phantasm,103580,34,rain,1.066,ocean,0.995,cozy,0.862,vinyl crackle,0.815,dark,0.792,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0099,3Un1vFKgKe9ADsp2ANwQwV,Simplicity,Elijah Lee;Casiio,Phantasm,141429,32,cozy,0.788,melancholic,0.722,vinyl crackle,0.688,jazz,0.65,sad,0.433,https://i.scdn.co/image/ab67616d0000b27393520a5f1787bf5dceb47a7b
+0100,19hzMrwLc0ZcrJcwdA6NpM,bloom,Bcalm;Dontcry,times we had,131320,40,vinyl crackle,1.846,rain,1.527,piano,0.572,dark,0.497,mellow,0.375,https://i.scdn.co/image/ab67616d0000b273ed34bbbc640b1494684dba19
+0101,006izA2xV3TS2IEIiFPQYM,searching,Bcalm;Dontcry,times we had,117931,42,peaceful,2.107,dark,2.077,piano,2.025,ambient,2.001,mellow,1.983,https://i.scdn.co/image/ab67616d0000b273ed34bbbc640b1494684dba19
+0102,1x52XoiW7NyJbSez6yGBkp,nightwatch,Bcalm;Dontcry,times we had,157090,49,mellow,2.143,peaceful,2.141,sleepy,2.133,slow,2.072,lonely,2.07,https://i.scdn.co/image/ab67616d0000b273ed34bbbc640b1494684dba19
+0103,6RhljGGWH6oiKvTZsjsbch,passage,Bcalm;Dontcry,times we had,127924,41,vinyl crackle,2.998,rain,1.357,dark,0.902,sad,0.668,ambient,0.522,https://i.scdn.co/image/ab67616d0000b273ed34bbbc640b1494684dba19
+0104,1qOEHYl0A9TclGYVFYxenH,adrift,Bcalm;Dontcry,times we had,147692,42,sleepy,1.898,slow,1.779,ambient,1.748,bass-heavy,1.73,spacey,1.69,https://i.scdn.co/image/ab67616d0000b273ed34bbbc640b1494684dba19
+0105,0wi3K180RVCpkBcPPRvkOp,night and day,Bcalm;Dontcry,times we had,136551,39,guitar,2.311,slow,2.239,bass-heavy,2.111,hopeful,2.074,ambient,2.065,https://i.scdn.co/image/ab67616d0000b273ed34bbbc640b1494684dba19
+0106,7dTdOU1LSFBWT6R9VqPdiz,raindrops,Bcalm;Dontcry,times we had,147692,40,cafe,2.367,hopeful,1.921,sleepy,1.92,nostalgic,1.879,upbeat,1.86,https://i.scdn.co/image/ab67616d0000b273ed34bbbc640b1494684dba19
+0107,3RoNR2TfIEdhYWANfrdnZN,shimmer,Bcalm;Dontcry,times we had,157090,40,ambient,2.446,spacey,2.257,mellow,2.177,ocean,2.161,space,2.133,https://i.scdn.co/image/ab67616d0000b273ed34bbbc640b1494684dba19
+0109,1EBISfHJenWco7iXwI41sI,A Calm Place,Hoogway;Dontcry,Fragments Of The Moon,162461,43,winter,1.432,peaceful,1.37,mellow,1.326,home,1.322,sleepy,1.136,https://i.scdn.co/image/ab67616d0000b2738f4ba7c756ccf3ffc39969d1
+0110,0rAJx3GbRoLogULywYXoyx,By Your Side,Hoogway;Phlocalyst,Fragments Of The Moon,137867,41,ocean,1.663,rain,1.496,vinyl crackle,1.492,nature,1.416,night,1.064,https://i.scdn.co/image/ab67616d0000b2738f4ba7c756ccf3ffc39969d1
+0111,2EsD0scPj9oDcxx9JQWCOu,Monolith,Hoogway,Fragments Of The Moon,188571,45,nature,1.198,sad,0.339,peaceful,-0.23,winter,-0.259,ocean,-0.488,https://i.scdn.co/image/ab67616d0000b2738f4ba7c756ccf3ffc39969d1
+0112,13XKI7KfI3bmpp11SbLaug,Ascending,Hoogway,Fragments Of The Moon,164500,39,rain,1.796,bossa nova,1.385,vinyl crackle,1.222,sad,1.147,ocean,1.044,https://i.scdn.co/image/ab67616d0000b2738f4ba7c756ccf3ffc39969d1
+0113,3lBnGRp751bAahmNnzx87a,Like A Dream,Hoogway,Fragments Of The Moon,156610,41,rain,1.821,vinyl crackle,1.62,minimal,1.06,sad,0.882,nature,0.794,https://i.scdn.co/image/ab67616d0000b2738f4ba7c756ccf3ffc39969d1
+0114,6gpfPYlEYYgiRCojAmz97S,Crepuscule,Hoogway,Fragments Of The Moon,160000,40,hopeful,1.677,night,1.664,cafe,1.537,bass-heavy,1.52,slow,1.487,https://i.scdn.co/image/ab67616d0000b2738f4ba7c756ccf3ffc39969d1
+0115,1awmEscrwrvWGq4PJ2dHRV,Dans La Lune,Hoogway,Fragments Of The Moon,176000,42,minimal,2.11,cafe,2.096,home,1.851,ambient,1.618,nature,1.464,https://i.scdn.co/image/ab67616d0000b2738f4ba7c756ccf3ffc39969d1
+0116,78hxtGT2Y0wIb7qwOT7X1c,A Promise,Hoogway,Fragments Of The Moon,185500,44,rain,1.908,dark,0.936,piano,0.868,vinyl crackle,0.758,sad,0.676,https://i.scdn.co/image/ab67616d0000b2738f4ba7c756ccf3ffc39969d1
+0117,06H7v26dc5CjrEvKAHfr67,Mirrors,Hoogway,Fragments Of The Moon,175000,43,nature,2.077,ocean,1.026,sad,0.947,peaceful,0.79,lonely,0.701,https://i.scdn.co/image/ab67616d0000b2738f4ba7c756ccf3ffc39969d1
+0118,3p3u3kd7TahhpHxLqPhUC0,Parallels,Loafy Building;Bcalm;Banks,Aquilla,152307,32,sad,2.278,melancholic,2.031,home,1.384,cozy,1.242,dreamy,1.205,https://i.scdn.co/image/ab67616d0000b27300a3bd435147e4ae17d08d12
+0119,3cdtPosQPvbvJshoy8ydFB,Quiet Land,Loafy Building;xander.,Aquilla,128955,34,nature,1.167,chill,0.672,vinyl crackle,0.553,lonely,0.443,ocean,0.411,https://i.scdn.co/image/ab67616d0000b27300a3bd435147e4ae17d08d12
+0120,0RsOZhtquJ3TuHFSrMj6sx,Moira,Loafy Building;Tibeauthetraveler,Aquilla,182218,30,sad,2.385,melancholic,2.002,peaceful,1.267,lonely,1.169,dark,0.998,https://i.scdn.co/image/ab67616d0000b27300a3bd435147e4ae17d08d12
+0121,6kO8gwZkC3bmrHSYkb9x1r,Eden's Path,Loafy Building;Mondo Loops,Aquilla,134545,37,sad,2.12,peaceful,2.067,lonely,1.725,ambient,1.722,minimal,1.526,https://i.scdn.co/image/ab67616d0000b27300a3bd435147e4ae17d08d12
+0122,1l474NfiAzOw8hDmwDGg7H,Mirroring,Loafy Building;squeeda,Aquilla,134545,36,sad,1.429,nature,0.979,melancholic,0.955,peaceful,0.752,home,0.653,https://i.scdn.co/image/ab67616d0000b27300a3bd435147e4ae17d08d12
+0123,6He6uotYSGvgOf8jpi68X2,Aquilla,Loafy Building,Aquilla,120000,36,peaceful,1.814,melancholic,1.521,dreamy,1.471,sad,1.351,lonely,1.308,https://i.scdn.co/image/ab67616d0000b27300a3bd435147e4ae17d08d12
+0124,55K4HllSdmsXw1L7KmRBWv,Zhuki,Loafy Building;Hoogway,Aquilla,124765,33,sad,2.924,melancholic,2.518,peaceful,2.017,lonely,1.548,dreamy,1.11,https://i.scdn.co/image/ab67616d0000b27300a3bd435147e4ae17d08d12
+0125,4pGAueuvQmWNhkC5nv6TKN,Ava,Loafy Building;Ambulo,Aquilla,144347,51,groovy,0.46,nostalgic,0.063,ocean,0.054,nature,0.036,spacey,-0.012,https://i.scdn.co/image/ab67616d0000b27300a3bd435147e4ae17d08d12
+0126,7ByOXgFHVJaFTxcxfTrjgv,Full of love,xander.;Wishes and Dreams,Sleepwalking,168648,29,vinyl crackle,0.739,jazz,0.54,groovy,0.471,piano,-0.043,bossa nova,-0.092,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0127,0Hwf4osCNKGjzBMPajCfle,Letting Her Go,xander.;Rufus Dipper,Sleepwalking,173684,29,vinyl crackle,1.992,rain,1.656,bossa nova,1.609,jazz,0.901,winter,0.775,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0128,25P1G1nvlrhODh7LZth2v9,Autumn Camp,xander.,Sleepwalking,164050,36,groovy,0.485,jazz,0.274,hopeful,0.125,upbeat,0.09,minimal,-0.002,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0129,39ZkAgGIAnwCj5jclYSMr5,Everlasting,xander.;brillion.,Sleepwalking,224680,34,vinyl crackle,0.757,nature,0.32,ocean,-0.345,bossa nova,-0.441,rain,-0.776,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0130,2oH9Z9c6gHa9fwOfbYj0AF,Journey,xander.;No Spirit;Tonion,Sleepwalking,230137,33,nature,0.379,sad,0.361,minimal,0.148,melancholic,-0.194,cafe,-0.61,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0131,5cYtNp8zbEIzEQh7GJ0MHn,High Hopes,xander.;Tonion,Sleepwalking,203200,33,groovy,1.561,jazz,1.205,upbeat,0.909,nostalgic,0.898,spacey,0.88,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0132,0D1mmb2fzenNMBuTbNqF8M,Distant Road,xander.;Tonion,Sleepwalking,177534,35,minimal,0.509,nature,-0.152,sad,-0.418,jazz,-0.749,cafe,-0.877,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0133,3LKgq0INTA9ieH48GzSwRV,Healing,xander.;Wishes and Dreams,Sleepwalking,226666,37,jazz,0.974,home,0.933,hopeful,0.693,nostalgic,0.59,spacey,0.569,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0134,67eNEjlaMF8ZXx9p6FylWd,The Memories We Shared,xander.;Rufus Dipper,Sleepwalking,194594,32,nature,1.398,minimal,1.024,cafe,0.424,bass-heavy,0.235,ambient,0.052,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0135,4ybMEoJr4TSaZB5sSLHwIu,Uncertainty,xander.;Tonion,Sleepwalking,218333,22,sad,0.721,melancholic,0.504,cafe,0.414,minimal,-0.213,dark,-0.458,https://i.scdn.co/image/ab67616d0000b27365edd3729f7005c631a2ceab
+0136,611wOAtR2u0LPjaQHKHvHu,Difficult Questions,Phlocalyst;Myríad;Hilaria,Patterns,136119,31,jazz,2.224,groovy,0.318,nostalgic,-0.147,bossa nova,-0.273,vinyl crackle,-0.367,https://i.scdn.co/image/ab67616d0000b273ddc1c0f1d03d97912bfb6a18
+0137,5RmaMP6YGVZd3VieBTCBA1,Shades Of My Soul,Phlocalyst;Hilaria;Myríad,Patterns,156800,31,jazz,2.085,groovy,1.64,bossa nova,1.327,cafe,1.291,guitar,1.205,https://i.scdn.co/image/ab67616d0000b273ddc1c0f1d03d97912bfb6a18
+0138,0ADsdC7JOiPeIoK7LduvS9,From A Distance,Phlocalyst;Myríad;Hilaria,Patterns,151578,28,jazz,1.302,cafe,-0.277,groovy,-0.323,upbeat,-0.471,nostalgic,-0.565,https://i.scdn.co/image/ab67616d0000b273ddc1c0f1d03d97912bfb6a18
+0139,1IpiBsCuUoeRmYv6qrYr5i,Gloomy Nights,Phlocalyst;Myríad;Hilaria,Patterns,187500,37,jazz,1.315,groovy,0.109,nostalgic,0.028,bossa nova,-0.285,bass-heavy,-0.324,https://i.scdn.co/image/ab67616d0000b273ddc1c0f1d03d97912bfb6a18
+0140,0maqDdgKopF0q9WuGcv6Uu,First Steps,Phlocalyst;Myríad;Hilaria,Patterns,132800,28,cafe,1.864,bossa nova,0.695,jazz,0.659,bass-heavy,0.461,piano,0.315,https://i.scdn.co/image/ab67616d0000b273ddc1c0f1d03d97912bfb6a18
 0141,1FOZDYqX0KfIWG1tODuGxp,Sky Above,Allem Iversom;Dontcry,Chapter Two,174545,43,melancholic,1.46,mellow,1.334,peaceful,1.321,guitar,1.191,piano,1.18,
 0142,3N3aEmcOtKHaa5VfWCZlaL,Silent Moonlight,Allem Iversom;Dontcry,Chapter Two,137142,41,rain,1.561,vinyl crackle,1.339,jazz,1.228,bossa nova,1.184,cafe,0.991,
-0143,1FOZDYqX0KfIWG1tODuGxp,Sky Above,Allem Iversom;Dontcry,Chapter Two,174545,43,cafe,1.972,piano,1.638,slow,1.601,home,1.589,bass-heavy,1.501,
-0144,3N3aEmcOtKHaa5VfWCZlaL,Silent Moonlight,Allem Iversom;Dontcry,Chapter Two,137142,41,sad,1.486,rain,0.807,ocean,0.771,melancholic,0.766,peaceful,0.591,
+0143,1FOZDYqX0KfIWG1tODuGxp,Sky Above,Allem Iversom;Dontcry,Chapter Two,174545,43,cafe,1.972,piano,1.638,slow,1.601,home,1.589,bass-heavy,1.501,https://i.scdn.co/image/ab67616d0000b273fdf4506ba709cd6c03fe55c6
+0144,3N3aEmcOtKHaa5VfWCZlaL,Silent Moonlight,Allem Iversom;Dontcry,Chapter Two,137142,41,sad,1.486,rain,0.807,ocean,0.771,melancholic,0.766,peaceful,0.591,https://i.scdn.co/image/ab67616d0000b273fdf4506ba709cd6c03fe55c6
 0145,1l3MPc5AV2FOKx1oREe07b,Pillowtalk,Allem Iversom;Dontcry,Chapter Two,112941,40,bossa nova,1.925,cozy,1.476,ocean,1.454,winter,1.424,nostalgic,1.378,
 0146,69TkRpC9WvplK5WPBFchlR,Abyss,Allem Iversom;Dontcry,Chapter Two,124444,42,mellow,1.674,peaceful,1.664,dreamy,1.276,sleepy,1.202,winter,1.099,
 0147,4EgarVxvoq9xpIlCpW2DLr,"Goodnight, Friend",Allem Iversom;Dontcry,Chapter Two,139636,41,nostalgic,1.893,sleepy,1.875,chill,1.673,mellow,1.636,slow,1.515,
 0148,0oxOhmTnrdleCoGX2aBEqX,A Cricket’s Song,Allem Iversom;Slonight;Dontcry,Chapter Two,138378,39,bossa nova,1.398,vinyl crackle,1.154,guitar,0.929,jazz,0.872,nostalgic,0.619,
 0149,5w1GGh8Y8yPihXVV2ydgTw,Rest Easy,Allem Iversom;seeyouthere;Dontcry,Chapter Two,157377,39,nostalgic,1.731,sleepy,1.398,bossa nova,1.321,upbeat,1.177,cozy,1.156,
 0150,3nBYfO32sXStX1t8PxNJYk,Under The Blanket,Allem Iversom;Dontcry,Chapter Two,154285,39,guitar,2.048,ambient,1.691,warm,1.379,space,1.372,spacey,1.347,
-0151,1l3MPc5AV2FOKx1oREe07b,Pillowtalk,Allem Iversom;Dontcry,Chapter Two,112941,40,nature,0.837,ocean,0.658,nostalgic,0.475,cafe,0.424,rain,0.423,
-0152,69TkRpC9WvplK5WPBFchlR,Abyss,Allem Iversom;Dontcry,Chapter Two,124444,42,mellow,1.274,nostalgic,1.13,melancholic,1.0,upbeat,0.924,spacey,0.9,
-0153,4EgarVxvoq9xpIlCpW2DLr,"Goodnight, Friend",Allem Iversom;Dontcry,Chapter Two,139636,41,vinyl crackle,1.031,piano,0.777,bossa nova,0.531,melancholic,0.439,sad,0.383,
-0154,0oxOhmTnrdleCoGX2aBEqX,A Cricket’s Song,Allem Iversom;Slonight;Dontcry,Chapter Two,138378,39,vinyl crackle,0.886,rain,0.883,bossa nova,0.571,sad,0.511,ocean,0.393,
-0155,5w1GGh8Y8yPihXVV2ydgTw,Rest Easy,Allem Iversom;seeyouthere;Dontcry,Chapter Two,157377,39,nostalgic,1.795,piano,1.699,upbeat,1.634,home,1.596,cozy,1.515,
-0156,3nBYfO32sXStX1t8PxNJYk,Under The Blanket,Allem Iversom;Dontcry,Chapter Two,154285,39,vinyl crackle,1.703,groovy,1.585,bossa nova,1.46,jazz,0.997,guitar,0.966,
+0151,1l3MPc5AV2FOKx1oREe07b,Pillowtalk,Allem Iversom;Dontcry,Chapter Two,112941,40,nature,0.837,ocean,0.658,nostalgic,0.475,cafe,0.424,rain,0.423,https://i.scdn.co/image/ab67616d0000b273fdf4506ba709cd6c03fe55c6
+0152,69TkRpC9WvplK5WPBFchlR,Abyss,Allem Iversom;Dontcry,Chapter Two,124444,42,mellow,1.274,nostalgic,1.13,melancholic,1.0,upbeat,0.924,spacey,0.9,https://i.scdn.co/image/ab67616d0000b273fdf4506ba709cd6c03fe55c6
+0153,4EgarVxvoq9xpIlCpW2DLr,"Goodnight, Friend",Allem Iversom;Dontcry,Chapter Two,139636,41,vinyl crackle,1.031,piano,0.777,bossa nova,0.531,melancholic,0.439,sad,0.383,https://i.scdn.co/image/ab67616d0000b273fdf4506ba709cd6c03fe55c6
+0154,0oxOhmTnrdleCoGX2aBEqX,A Cricket’s Song,Allem Iversom;Slonight;Dontcry,Chapter Two,138378,39,vinyl crackle,0.886,rain,0.883,bossa nova,0.571,sad,0.511,ocean,0.393,https://i.scdn.co/image/ab67616d0000b273fdf4506ba709cd6c03fe55c6
+0155,5w1GGh8Y8yPihXVV2ydgTw,Rest Easy,Allem Iversom;seeyouthere;Dontcry,Chapter Two,157377,39,nostalgic,1.795,piano,1.699,upbeat,1.634,home,1.596,cozy,1.515,https://i.scdn.co/image/ab67616d0000b273fdf4506ba709cd6c03fe55c6
+0156,3nBYfO32sXStX1t8PxNJYk,Under The Blanket,Allem Iversom;Dontcry,Chapter Two,154285,39,vinyl crackle,1.703,groovy,1.585,bossa nova,1.46,jazz,0.997,guitar,0.966,https://i.scdn.co/image/ab67616d0000b273fdf4506ba709cd6c03fe55c6
 0157,4aHoRiFIxFGWgWnpeYeQUN,Merlot,PBdR;Paxkalito;Lucid Keys,Kind of Red,141428,28,jazz,1.088,nostalgic,0.695,cafe,0.47,upbeat,0.41,minimal,-0.032,
-0158,4aHoRiFIxFGWgWnpeYeQUN,Merlot,PBdR;Paxkalito;Lucid Keys,Kind of Red,141428,28,jazz,1.733,nostalgic,1.259,guitar,1.188,bossa nova,0.998,upbeat,0.76,
+0158,4aHoRiFIxFGWgWnpeYeQUN,Merlot,PBdR;Paxkalito;Lucid Keys,Kind of Red,141428,28,jazz,1.733,nostalgic,1.259,guitar,1.188,bossa nova,0.998,upbeat,0.76,https://i.scdn.co/image/ab67616d0000b273254dc4ddb427fe8d50a99ab2
 0159,4Fwd1QjqB5ZPq0HVHW9DJY,Cabernet,PBdR;Paxkalito,Kind of Red,148285,31,vinyl crackle,2.005,cafe,1.315,nostalgic,0.686,bass-heavy,0.263,minimal,0.161,
 0160,3vAtlpFAZWEayXYgGzHt2j,Riesling,PBdR;Paxkalito;softy,Kind of Red,128866,28,jazz,-0.121,cafe,-0.581,bossa nova,-1.363,nostalgic,-1.793,vinyl crackle,-1.889,
 0161,6qjzWcFrgAUOrJpJqv69Sg,Ugni Blanc,PBdR;Paxkalito;Mike Beating,Kind of Red,142285,29,jazz,1.72,bossa nova,-0.03,groovy,-0.25,cafe,-0.395,vinyl crackle,-0.541,
 0162,1nCEqGIIsgg7ceARPZFwLG,Sauvignon,PBdR;Paxkalito,Kind of Red,150857,48,jazz,1.617,nostalgic,0.852,vinyl crackle,0.454,upbeat,0.335,night,0.163,
 0163,0Eal9iFKN74sKkZctFcNNz,Pinot Noir,PBdR;Astro Loud;Paxkalito,Kind of Red,142285,30,jazz,2.112,nostalgic,0.968,upbeat,0.379,cafe,0.376,night,0.318,
 0164,3IwE7GwMZhDSiB1lGa3swv,Chardonnay,PBdR;Paxkalito,Kind of Red,132000,30,jazz,1.092,bossa nova,0.799,vinyl crackle,0.752,groovy,0.69,bass-heavy,0.387,
-0165,4Fwd1QjqB5ZPq0HVHW9DJY,Cabernet,PBdR;Paxkalito,Kind of Red,148285,31,jazz,1.305,vinyl crackle,0.637,cafe,-0.163,bossa nova,-0.257,nostalgic,-0.612,
-0166,3vAtlpFAZWEayXYgGzHt2j,Riesling,PBdR;Paxkalito;softy,Kind of Red,128866,28,jazz,1.928,cafe,0.476,bossa nova,0.017,groovy,-0.042,upbeat,-0.207,
-0167,6qjzWcFrgAUOrJpJqv69Sg,Ugni Blanc,PBdR;Paxkalito;Mike Beating,Kind of Red,142285,29,jazz,1.806,bossa nova,1.156,vinyl crackle,0.41,groovy,0.381,cozy,-0.356,
-0168,1nCEqGIIsgg7ceARPZFwLG,Sauvignon,PBdR;Paxkalito,Kind of Red,150857,48,jazz,1.881,groovy,1.189,cafe,0.828,nostalgic,0.762,bossa nova,0.634,
-0169,0Eal9iFKN74sKkZctFcNNz,Pinot Noir,PBdR;Astro Loud;Paxkalito,Kind of Red,142285,30,jazz,1.592,bossa nova,1.325,vinyl crackle,0.945,groovy,0.462,nature,0.251,
-0170,3IwE7GwMZhDSiB1lGa3swv,Chardonnay,PBdR;Paxkalito,Kind of Red,132000,30,jazz,1.711,bossa nova,0.317,vinyl crackle,0.269,groovy,-0.055,nostalgic,-0.733,
+0165,4Fwd1QjqB5ZPq0HVHW9DJY,Cabernet,PBdR;Paxkalito,Kind of Red,148285,31,jazz,1.305,vinyl crackle,0.637,cafe,-0.163,bossa nova,-0.257,nostalgic,-0.612,https://i.scdn.co/image/ab67616d0000b273254dc4ddb427fe8d50a99ab2
+0166,3vAtlpFAZWEayXYgGzHt2j,Riesling,PBdR;Paxkalito;softy,Kind of Red,128866,28,jazz,1.928,cafe,0.476,bossa nova,0.017,groovy,-0.042,upbeat,-0.207,https://i.scdn.co/image/ab67616d0000b273254dc4ddb427fe8d50a99ab2
+0167,6qjzWcFrgAUOrJpJqv69Sg,Ugni Blanc,PBdR;Paxkalito;Mike Beating,Kind of Red,142285,29,jazz,1.806,bossa nova,1.156,vinyl crackle,0.41,groovy,0.381,cozy,-0.356,https://i.scdn.co/image/ab67616d0000b273254dc4ddb427fe8d50a99ab2
+0168,1nCEqGIIsgg7ceARPZFwLG,Sauvignon,PBdR;Paxkalito,Kind of Red,150857,48,jazz,1.881,groovy,1.189,cafe,0.828,nostalgic,0.762,bossa nova,0.634,https://i.scdn.co/image/ab67616d0000b273254dc4ddb427fe8d50a99ab2
+0169,0Eal9iFKN74sKkZctFcNNz,Pinot Noir,PBdR;Astro Loud;Paxkalito,Kind of Red,142285,30,jazz,1.592,bossa nova,1.325,vinyl crackle,0.945,groovy,0.462,nature,0.251,https://i.scdn.co/image/ab67616d0000b273254dc4ddb427fe8d50a99ab2
+0170,3IwE7GwMZhDSiB1lGa3swv,Chardonnay,PBdR;Paxkalito,Kind of Red,132000,30,jazz,1.711,bossa nova,0.317,vinyl crackle,0.269,groovy,-0.055,nostalgic,-0.733,https://i.scdn.co/image/ab67616d0000b273254dc4ddb427fe8d50a99ab2
 0171,55gdMY8ngWQtphzpnfCAS6,slow blink,steezy prime;fnonose,half past three,179104,38,home,2.198,ocean,1.924,peaceful,1.615,ambient,1.515,lonely,1.507,
-0172,55gdMY8ngWQtphzpnfCAS6,slow blink,steezy prime;fnonose,half past three,179104,38,ocean,1.72,ambient,1.428,home,1.427,winter,1.414,peaceful,1.398,
+0172,55gdMY8ngWQtphzpnfCAS6,slow blink,steezy prime;fnonose,half past three,179104,38,ocean,1.72,ambient,1.428,home,1.427,winter,1.414,peaceful,1.398,https://i.scdn.co/image/ab67616d0000b273dde6c6894221a008d5c0abf7
 0173,3C9pecZl5JfrvOjEhZZ4k8,it's getting late,steezy prime;Devon Rea;Mildred,half past three,133333,40,piano,2.035,home,1.805,spacey,1.777,lonely,1.755,space,1.75,
-0174,2eJBpNlTTPatjec4SDQvuo,In The Air,Destroy Lonely,In The Air,206878,65,jazz,-0.609,groovy,-0.759,vinyl crackle,-0.968,sad,-1.297,upbeat,-1.508,
+0174,2eJBpNlTTPatjec4SDQvuo,In The Air,Destroy Lonely,In The Air,206878,65,jazz,-0.609,groovy,-0.759,vinyl crackle,-0.968,sad,-1.297,upbeat,-1.508,https://i.scdn.co/image/ab67616d0000b27349d141068880d20deb81347c
 0175,3hPxeqVispRkA8yWOjAcYJ,better days,steezy prime;Devon Rea;fnonose,half past three,120368,48,ocean,1.914,nature,1.25,ambient,0.909,peaceful,0.891,mellow,0.827,
 0176,0RT03bytBLXb6IoL6MdBbE,gemini,steezy prime;Laffey,half past three,150090,39,ocean,1.463,sleepy,0.936,bossa nova,0.881,mellow,0.716,winter,0.707,
-0178,3C9pecZl5JfrvOjEhZZ4k8,it's getting late,steezy prime;Devon Rea;Mildred,half past three,133333,40,ocean,1.984,peaceful,1.544,ambient,1.483,rain,1.447,warm,1.34,
-0179,3hPxeqVispRkA8yWOjAcYJ,better days,steezy prime;Devon Rea;fnonose,half past three,120368,48,ambient,1.071,mellow,0.736,nature,0.683,slow,0.555,ocean,0.523,
-0180,0RT03bytBLXb6IoL6MdBbE,gemini,steezy prime;Laffey,half past three,150090,39,winter,1.516,guitar,1.24,lonely,1.231,peaceful,1.228,sleepy,1.164,
+0178,3C9pecZl5JfrvOjEhZZ4k8,it's getting late,steezy prime;Devon Rea;Mildred,half past three,133333,40,ocean,1.984,peaceful,1.544,ambient,1.483,rain,1.447,warm,1.34,https://i.scdn.co/image/ab67616d0000b273dde6c6894221a008d5c0abf7
+0179,3hPxeqVispRkA8yWOjAcYJ,better days,steezy prime;Devon Rea;fnonose,half past three,120368,48,ambient,1.071,mellow,0.736,nature,0.683,slow,0.555,ocean,0.523,https://i.scdn.co/image/ab67616d0000b273dde6c6894221a008d5c0abf7
+0180,0RT03bytBLXb6IoL6MdBbE,gemini,steezy prime;Laffey,half past three,150090,39,winter,1.516,guitar,1.24,lonely,1.231,peaceful,1.228,sleepy,1.164,https://i.scdn.co/image/ab67616d0000b273dde6c6894221a008d5c0abf7
 0182,7a8bzkLJFYHKdSYBNNfdGh,Wind Rider,gCoope;Odd Panda,Desired Views,153803,35,nostalgic,1.914,guitar,1.701,bass-heavy,1.317,upbeat,1.178,piano,1.078,
-0183,7a8bzkLJFYHKdSYBNNfdGh,Wind Rider,gCoope;Odd Panda,Desired Views,153803,35,focus,2.946,mellow,2.7,spacey,2.583,nostalgic,2.56,guitar,2.53,
-0184,0ps8Rx1CNIDThos9l0GVDw,Passing Time,gCoope;Odd Panda,Desired Views,146665,37,sad,1.521,lonely,1.452,melancholic,1.39,dreamy,1.304,spacey,1.243,
+0183,7a8bzkLJFYHKdSYBNNfdGh,Wind Rider,gCoope;Odd Panda,Desired Views,153803,35,focus,2.946,mellow,2.7,spacey,2.583,nostalgic,2.56,guitar,2.53,https://i.scdn.co/image/ab67616d0000b2737dcea5ca83423e47104e94df
+0184,0ps8Rx1CNIDThos9l0GVDw,Passing Time,gCoope;Odd Panda,Desired Views,146665,37,sad,1.521,lonely,1.452,melancholic,1.39,dreamy,1.304,spacey,1.243,https://i.scdn.co/image/ab67616d0000b2737dcea5ca83423e47104e94df
 0185,05ZDaQ2FIvAhwuSYX5jHHY,Divine Secrets,gCoope;Mondo Loops;Odd Panda,Desired Views,137154,33,guitar,0.972,cafe,0.879,nostalgic,0.743,minimal,0.74,upbeat,0.496,
 0186,3ywchGPU1fg5CxNBrB03TK,Vantage Point,gCoope;Odd Panda,Desired Views,147375,45,vinyl crackle,1.402,bass-heavy,1.2,rain,0.901,minimal,0.863,ocean,0.568,
 0187,0l7a7eHTQAxZlpdYn94u18,When The Stars Align,gCoope;cxlt.;Odd Panda,Desired Views,148236,30,nostalgic,1.826,guitar,1.769,focus,1.734,minimal,1.511,spacey,1.353,
 0188,63WZF4FfRuhWpRYkE4En6G,Fallen Horizon,gCoope;Odd Panda;Early Garden,Desired Views,143598,38,rain,1.996,sad,1.363,winter,1.342,night,1.261,vinyl crackle,1.224,
 0189,3I4Sgu2Jhcumk5piHeaPXi,Fluorescence,gCoope;Odd Panda;Kainbeats,Desired Views,134400,25,groovy,1.288,upbeat,0.979,nostalgic,0.961,spacey,0.959,jazz,0.9,
-0190,05ZDaQ2FIvAhwuSYX5jHHY,Divine Secrets,gCoope;Mondo Loops;Odd Panda,Desired Views,137154,33,jazz,0.798,nostalgic,0.267,groovy,0.159,vinyl crackle,0.075,guitar,0.031,
-0191,3ywchGPU1fg5CxNBrB03TK,Vantage Point,gCoope;Odd Panda,Desired Views,147375,45,guitar,1.305,hopeful,1.033,ambient,1.003,space,0.952,minimal,0.948,
-0192,0l7a7eHTQAxZlpdYn94u18,When The Stars Align,gCoope;cxlt.;Odd Panda,Desired Views,148236,30,cafe,1.42,minimal,1.073,night,0.982,nature,0.915,slow,0.907,
-0193,63WZF4FfRuhWpRYkE4En6G,Fallen Horizon,gCoope;Odd Panda;Early Garden,Desired Views,143598,38,rain,1.913,vinyl crackle,1.588,piano,1.271,dark,0.3,sad,0.283,
-0194,3I4Sgu2Jhcumk5piHeaPXi,Fluorescence,gCoope;Odd Panda;Kainbeats,Desired Views,134400,25,sad,0.264,nature,0.165,melancholic,0.022,rain,-0.313,ocean,-0.443,
-0195,3JgkVCpmXWtDngNpGZktkm,Lost Signal,Downtown Binary,Aurora,177677,31,spacey,2.382,mellow,2.241,space,2.203,peaceful,1.871,warm,1.755,
-0196,3viUcf0meafqHBUYeOR48O,Reflect,Downtown Binary,Aurora,192230,30,space,1.781,spacey,1.386,dark,1.127,sleepy,1.018,nature,0.988,
-0197,7m6QIVO4XCzJjZs6BAWTmQ,City Lights,Downtown Binary,Aurora,140461,32,space,1.98,spacey,1.311,dark,1.155,night,0.979,nature,0.845,
-0198,2cnFmhQO0pSXc6UVoUJuwf,Void,Downtown Binary,Aurora,183956,30,space,2.71,spacey,2.368,dark,1.677,mellow,1.677,ambient,1.657,
-0199,6iw3O4rZLRwLGm1tCaAABE,Pools,Downtown Binary,Aurora,125028,30,dark,2.46,space,2.182,spacey,1.611,nature,1.405,sleepy,0.938,
-0200,37tRRJqHd9nr1lQadquSP8,Aurora,Downtown Binary,Aurora,154374,31,space,2.24,dark,1.759,nature,1.653,spacey,1.327,focus,1.093,
-0201,1ZVFuhU5WUEsIBcTZZ8IYt,4am,Downtown Binary,Aurora,148466,31,space,2.127,nature,1.851,spacey,1.8,mellow,1.734,dreamy,1.707,
-0202,0FgidTFpS0WKcvLlvFUk2L,Distant,Downtown Binary,Aurora,148418,31,space,2.517,dark,1.856,minimal,1.782,spacey,1.704,focus,1.475,
-0203,1JwxtCu8oy9Q60JW3mZb2V,The One I Love,Charlee Nguyen;vesky;Dimension 32,The meaning of love,144827,49,sad,0.876,vinyl crackle,0.58,peaceful,0.459,melancholic,0.361,bossa nova,0.343,
-0204,3PbLRNWyG5l1xrrFKQB5ML,At A Distance,Charlee Nguyen;vesky,The meaning of love,147692,36,sad,0.497,ocean,0.466,vinyl crackle,0.408,peaceful,0.201,nature,0.156,
-0205,7lYPrhWpaOUfcpC1zh5qZt,Aishiteru,Charlee Nguyen;Tsunamii,The meaning of love,136119,38,ocean,1.098,nature,0.765,bossa nova,0.547,home,0.547,winter,0.395,
-0206,5RyURcr7U892dE3UjE0jWU,Moments,Charlee Nguyen;Nadav Cohen;Mondo Loops,The meaning of love,145263,34,nostalgic,0.893,groovy,0.883,hopeful,0.828,spacey,0.815,focus,0.777,
-0207,3TZxe4lTl1eb124ceJnvxj,Now We Know,Charlee Nguyen;fnonose,The meaning of love,147740,32,nature,0.847,ocean,0.814,guitar,0.633,lonely,0.54,peaceful,0.514,
-0208,0mmQUauh4ktoLS6mTJf10p,lost and forgotten,Tatami Construct,lost and forgotten,152000,39,peaceful,1.535,mellow,1.292,nature,1.234,lonely,1.058,sad,1.008,
-0209,21MteIpQGBMb3fX8BUfrZm,friendly faces,Tatami Construct,lost and forgotten,189953,40,jazz,0.974,bossa nova,0.077,sad,0.036,cafe,-0.379,groovy,-0.564,
-0210,52PzMFjM2MdpqgwXL1aeID,eclipsing,Tatami Construct,lost and forgotten,175140,37,cafe,1.449,jazz,0.604,cozy,0.435,groovy,0.384,bossa nova,0.354,
-0211,0ESSykcqUozxXlaCB7QuPM,forest language,Tatami Construct,lost and forgotten,219272,39,winter,1.333,ocean,1.055,vinyl crackle,0.99,warm,0.914,mellow,0.86,
-0212,5wo25Sccr5huodlBvAqDjk,dew slate,Tatami Construct,lost and forgotten,132491,51,rain,1.451,sad,0.848,melancholic,0.644,vinyl crackle,0.616,dark,0.584,
-0213,4kXKFtbTLvvW6rfXAUZVVx,its probably nothing,Tatami Construct,lost and forgotten,174132,41,groovy,1.056,chill,1.016,cozy,0.978,dark,0.879,winter,0.728,
-0214,1sBMsAySg4HHr0yClpdEmS,Endless Beauty,Goson;Dreamfield,Arcadia,153730,33,nature,2.825,ocean,1.39,rain,0.737,winter,0.671,peaceful,0.655,
-0216,2twOJwEGlw17f1pfxlzMfw,Cohesion,Goson;Dreamfield,Arcadia,138880,36,peaceful,1.707,melancholic,1.417,dreamy,1.416,nostalgic,1.402,space,1.219,
-0217,5IzOMzubd43MqIdJWYvB0r,Warm Breeze,Goson;Dreamfield,Arcadia,159178,49,jazz,0.73,vinyl crackle,0.553,peaceful,0.388,groovy,0.296,sad,0.225,
-0218,4QPB8iRQIlfRGqaXfHOy3C,Rise and Shine,Goson;Dreamfield,Arcadia,141060,28,guitar,1.801,nostalgic,1.734,hopeful,1.168,focus,0.938,minimal,0.89,
-0219,16BzoEBFNqjJZMmO8ZkLno,Afterglow,Goson;Dreamfield,Arcadia,159678,36,rain,0.699,sad,0.603,nature,0.273,ocean,0.134,melancholic,0.048,
-0220,6OKBjJtJaPApXodk4vTpQv,Painted World,ticofaces,Ash,111891,41,dark,1.827,ocean,1.514,rain,1.171,mellow,1.148,bass-heavy,1.084,
-0221,62udDHmq9Y7IBfdEEvDV53,Aeon,ticofaces;Loafy Building,Ash,110270,31,lonely,2.019,ambient,1.86,peaceful,1.815,upbeat,1.71,hopeful,1.655,
-0222,39bJ35jopkOSXKxaNL7Sk0,Cinder,ticofaces,Ash,140000,40,vinyl crackle,1.513,rain,1.465,bossa nova,1.269,ocean,1.078,nature,0.824,
-0223,2JtJF72Skt6TXhE57ibwic,Ash,ticofaces;Aelkay,Ash,140800,51,bossa nova,1.726,jazz,0.996,groovy,0.612,guitar,0.563,mellow,0.421,
-0224,1WbLP7CSOSjRjAWMjZ47M0,Arriving Home,Phlocalyst;M e a d o w,End Of The Road,160000,41,rain,1.794,warm,1.601,home,1.485,cozy,1.42,winter,1.33,
-0225,2U58IeP8JP5KQtMgsirH0K,Over The Top,Phlocalyst;Akīn;Hoogway,End Of The Road,136216,51,guitar,-0.099,sad,-0.155,minimal,-0.174,nostalgic,-0.219,cafe,-0.373,
-0226,1CuNYccTFE0VFA81dHQO6L,Latenight Loneliness,Phlocalyst;M e a d o w,End Of The Road,148000,35,dark,2.348,bass-heavy,2.1,cafe,1.944,chill,1.927,sleepy,1.915,
-0227,74CQKoSoPNVjfmWE4GjvRS,Mountain Drops,Phlocalyst;Hoogway,End Of The Road,146893,35,rain,2.284,bossa nova,0.934,ocean,0.834,vinyl crackle,0.745,sad,0.69,
-0228,1VeborRMAmWAcHgUeeaxpP,Different Pathway,Phlocalyst;Casiio,End Of The Road,119104,38,jazz,1.079,night,0.845,vinyl crackle,0.75,sad,0.587,rain,0.573,
-0229,1ObxSu7idgmbPFesIKLb0T,In Front Of Me,Swink,Like a Necessity,124000,39,jazz,0.995,groovy,0.937,vinyl crackle,0.846,cozy,0.657,chill,0.506,
-0230,1L6Vg2msTjW0got3qAZYmd,My Dear,Swink,Like a Necessity,140000,46,ocean,1.381,peaceful,0.977,winter,0.942,sad,0.934,warm,0.816,
-0231,46if2Oro9c2imEYnVHeAHR,Go Back In Time,Swink,Like a Necessity,124000,45,groovy,1.035,jazz,0.949,vinyl crackle,0.701,bossa nova,0.492,chill,0.325,
-0232,5dPhQl2QDTlkCJsjELfklp,First Encounter,Swink;møndberg,Like a Necessity,136000,37,nature,2.51,guitar,1.787,minimal,1.587,ocean,1.542,ambient,1.353,
-0233,4zZKZl3uUJRSs2d11hdbXB,When The Winters Come,Swink;nytø,Like a Necessity,114000,44,cafe,2.149,bass-heavy,2.074,piano,2.015,vinyl crackle,1.93,night,1.911,
-0234,6Kv5UzMEO60Yv5gS5sUc7U,To Better Come Back,Swink,Like a Necessity,126000,41,jazz,1.882,bossa nova,1.588,cafe,1.443,groovy,1.042,bass-heavy,0.921,
-0235,09DN7JYQofA56MQ9HFC05w,Blue Sunday,Worldtraveller;Max Merseny,Morning Coffee,99705,31,jazz,0.834,vinyl crackle,0.023,sad,-0.403,cafe,-0.872,groovy,-1.005,
-0236,5kPaCd3Qv2cHwChpbGUrTS,Sentimental Mood,Worldtraveller;Max Merseny,Morning Coffee,125806,38,piano,-0.732,cafe,-0.882,vinyl crackle,-1.055,melancholic,-1.27,dark,-1.32,
-0237,7wFaL0crX1q2C9hb5DpEGw,Gamble,Worldtraveller;Max Merseny;Viktor Minsky,Morning Coffee,135428,31,jazz,1.554,vinyl crackle,-0.143,groovy,-0.37,bossa nova,-0.833,rain,-1.143,
-0238,3PQCF7C6LspCizIzh8fcPy,Frozen Bubbles,Worldtraveller;Max Merseny;Viktor Minsky,Morning Coffee,128823,30,jazz,1.833,vinyl crackle,0.248,groovy,-0.212,bossa nova,-0.705,sad,-0.705,
-0239,7GHw3JHsnonVQPCj5ylmKo,Little One,Worldtraveller;Max Merseny,Morning Coffee,114000,28,sad,1.477,melancholic,0.455,jazz,0.367,peaceful,0.298,vinyl crackle,-0.091,
-0240,6KSPjdlEI1zG1ST8osjdLj,A Day In Winter,Worldtraveller;Max Merseny,Morning Coffee,153230,27,jazz,1.48,sad,1.314,peaceful,0.297,melancholic,0.266,nostalgic,0.022,
-0241,7l0uAT2cIAAK0gEtoNoc8W,Endless Skys,Worldtraveller;Max Merseny,Morning Coffee,116129,29,jazz,1.398,cozy,0.403,night,0.39,vinyl crackle,0.277,groovy,0.173,
-0242,6NLFAo3PDjoVXn3FOzqBm3,Crackle,Worldtraveller;Max Merseny,Morning Coffee,117352,27,jazz,1.226,vinyl crackle,0.99,sad,0.386,night,0.21,nature,0.164,
-0243,0i0DpIdjfzVlfczFDFSkc8,Sacred Land,BVG,Gilded Voyage,209391,41,jazz,-0.451,home,-0.604,nostalgic,-0.77,groovy,-0.922,peaceful,-1.047,
-0244,1GwCtmaEh0iiUQrv4qYSnK,Constellations,BVG;Simon Groß,Gilded Voyage,142533,44,sad,1.161,lonely,1.022,melancholic,0.975,ambient,0.953,upbeat,0.878,
-0245,0TbsKpYssdu0ak8N2L8SPN,Silk Touch,BVG;Simon Groß,Gilded Voyage,140754,42,home,1.818,sad,1.582,melancholic,1.556,peaceful,1.467,dreamy,1.278,
-0246,5vbB5glXDtE1gwKxk9VuQN,Rising Sun,BVG;møndberg,Gilded Voyage,166408,41,sad,0.993,nature,0.38,peaceful,0.183,melancholic,-0.042,winter,-0.474,
-0247,6SjAjif44dxhj6vQI4WvnJ,Purity,BVG;Simon Groß,Gilded Voyage,204085,43,peaceful,1.674,melancholic,1.669,sad,1.598,dark,1.08,mellow,1.01,
-0249,6PHoZl6LhZE1L9WSUIc6eB,Asae,Maiso Linua,Place of Purity,219130,27,home,0.853,ocean,0.816,winter,0.679,rain,0.525,nature,0.466,
-0250,1OhkmK3odXou1jEiJ4iiRc,The Roots of Goodness,Maiso Linua,Place of Purity,145573,18,nature,1.809,minimal,1.564,rain,0.671,slow,0.427,cafe,0.297,
-0253,66i8hHv0SWG92atg5Zwd99,Misawa,Maiso Linua,Place of Purity,173333,27,sad,0.528,ocean,0.471,jazz,0.234,bossa nova,0.211,nature,0.113,
-0254,4Wp3SUaHRk4RXvsH7YX4F8,Remembering,Yestalgia,Glowing,149322,37,nostalgic,-0.128,vinyl crackle,-0.142,spacey,-0.721,minimal,-0.747,upbeat,-0.811,
-0255,2z4CmLXdH37RLmx0rS78Pe,A Magic Spell,Yestalgia,Glowing,149935,41,ocean,1.615,cafe,1.206,jazz,-0.03,nature,-0.08,melancholic,-0.099,
-0256,7JCDlx0qMAMQYxJLKpmdTG,Summer Kisses,Yestalgia,Glowing,160769,50,bossa nova,0.797,jazz,0.465,groovy,0.197,nature,0.119,nostalgic,-0.082,
-0257,4lWkQCvUqYv5QPJrD7BK02,Glowing,Yestalgia,Glowing,153820,41,rain,1.217,vinyl crackle,1.007,sad,0.569,jazz,0.432,winter,0.4,
-0258,4M2DOOFXdyQ9STUOE6rpB3,You're My Star,Yestalgia,Glowing,157821,39,peaceful,1.802,dreamy,1.531,sad,1.437,mellow,1.415,lonely,1.36,
-0259,3762PIQQS4Y7t6t1TXhJwg,Unreal Dream,Living Room;Phlocalyst,Calm Land,137538,36,ocean,1.525,nature,1.483,rain,0.722,winter,0.587,warm,0.507,
-0260,75MMSZZYu5UCEENHcyWoak,A Friendly Hello,Living Room;Otaam;Phlocalyst,Calm Land,131641,47,nature,2.166,ocean,2.082,peaceful,0.772,sad,0.319,rain,0.278,
-0261,69YRjlM24NLp3QtZiAaxna,Loneliness,Living Room;Mondo Loops,Calm Land,131076,16,mellow,1.464,focus,1.212,winter,1.19,peaceful,1.117,dreamy,1.06,
-0262,751ljPdv19FkD0qd5kRXCp,Dreamer,Living Room,Calm Land,120000,40,winter,1.626,peaceful,1.526,sad,1.365,dreamy,1.313,home,1.27,
-0263,4jxwcnoRnY2iaS9yBG8QSP,The Summit,Living Room,Calm Land,130476,35,winter,1.43,peaceful,1.139,dark,1.001,dreamy,0.974,lonely,0.972,
-0264,5uTnpAskPlxlGeNPgBvfa8,Towering Heights,squeeda;Theo Aabel,Transform,160000,37,nature,3.101,ocean,1.477,winter,1.17,peaceful,1.067,space,1.06,
-0265,6u08rQsEC0DtXqZIE8NGdm,Inertia,squeeda;tonbo,Transform,125163,30,ocean,1.629,nature,1.42,guitar,0.989,nostalgic,0.954,rain,0.937,
-0268,0mZ9KZuvOQEBgUMvnHKsOg,Fever Dream,squeeda;Simone Bonét,Transform,183196,34,hopeful,1.744,spacey,1.463,space,1.385,groovy,1.323,dreamy,1.271,
-0269,4Y7yehXb1FJlcmPA82lasd,Better than Yesterday,squeeda;cxlt.,Transform,198196,48,vinyl crackle,1.479,nature,0.486,sad,0.396,lonely,0.383,peaceful,0.149,
-0270,4h3KM0HdN1xnYexB7zCIjG,Tiger Lily,Lawrence Walther;Solar Body,Back to Nature,139636,50,nostalgic,1.835,upbeat,1.538,groovy,1.341,chill,1.271,bossa nova,1.263,
-0271,2lszlEFLzHChZVsgEBAmha,Sweetgrass,Lawrence Walther;Solar Body,Back to Nature,160000,39,minimal,2.049,ambient,1.523,melancholic,1.489,lonely,1.474,bass-heavy,1.396,
-0272,3wnVMxvEz3NEv2FE4MmsiQ,Lake Vermilion,Lawrence Walther;Solar Body,Back to Nature,144000,19,nostalgic,2.687,guitar,2.376,upbeat,2.176,bossa nova,1.902,hopeful,1.766,
-0273,5zJwdevy28exep4LTBaNmr,Juneberry,Lawrence Walther;Solar Body,Back to Nature,137000,35,nature,1.765,vinyl crackle,1.163,night,1.049,ambient,0.904,peaceful,0.641,
-0274,0I4r0Ttse663SAfMh5asSp,Northern Lights,Lawrence Walther;Solar Body,Back to Nature,128000,38,sad,1.741,melancholic,1.493,upbeat,1.185,home,1.115,minimal,0.909,
-0276,6sLeQzUp6LmviB1cLpEH8f,Event Horizon,Lenny Loops;stream_error,Noctilucent,155294,35,nature,1.567,ocean,1.391,mellow,1.295,rain,1.266,sleepy,1.082,
-0278,4vzNPwywQWCtF7OcsclnSq,Exosphere,Lenny Loops;stream_error;Sleepermane,Noctilucent,129710,25,rain,2.182,nature,1.702,dark,1.581,sleepy,1.293,ocean,1.292,
-0279,6hNROWR2Ta9lFeSGG5zEB2,The Earth From Above,Lenny Loops;stream_error,Noctilucent,126666,36,rain,2.12,nature,1.067,winter,1.042,mellow,0.984,vinyl crackle,0.927,
-0280,3VFuC296RQ5qcIo3fTz5bS,Glowing Sky,Lenny Loops;stream_error,Noctilucent,130746,40,ocean,0.938,nature,0.916,vinyl crackle,0.264,rain,0.167,winter,0.069,
-0281,69Cf4mu1bSinlnkNP8ZSjU,Discovery,Lenny Loops;stream_error;Sleepermane,Noctilucent,142290,35,rain,2.01,vinyl crackle,1.542,dark,1.37,dreamy,1.183,winter,1.161,
-0282,47wvSWwFpK5lsuBjdXEXqm,Facing Truth,Krynoze;Juliàn,Finding Answers,147945,39,rain,0.966,jazz,0.862,vinyl crackle,0.838,bossa nova,0.728,nature,0.722,
-0283,7pEgwrX4c0i3zX2qD96qew,Soul Quest,Krynoze;Juliàn,Finding Answers,150447,35,sad,1.284,ocean,1.282,nature,1.104,melancholic,0.697,home,0.652,
-0284,0tmTiUFnX41F9yNn40c3iq,Waves Of Questions,Krynoze;Juliàn,Finding Answers,136119,38,vinyl crackle,0.887,nature,0.675,ocean,0.313,rain,0.307,winter,0.029,
-0285,4iKwoOWmIAThzLY5KQ1UOT,Set Sail,Krynoze;Juliàn,Finding Answers,144000,34,ocean,2.616,nature,2.049,peaceful,1.127,ambient,0.884,sad,0.714,
-0286,6qCyG8s8Y9A68T9eZ9CZUy,Fulfillment,Krynoze;Juliàn;Goson,Finding Answers,164471,38,bass-heavy,0.874,ocean,0.545,nostalgic,0.404,jazz,0.386,dark,0.264,
-0287,5rJSYx2p75tDHYJtsv1BxV,Isolation,Dosi;Wishes and Dreams,Arodasio,121846,37,rain,1.006,ocean,0.738,home,0.685,melancholic,0.543,sad,0.541,
-0288,6WsHdUixKIV10TGxwd33BA,Lost Souls,Dosi;Wishes and Dreams,Arodasio,167027,35,cafe,1.262,rain,0.064,vinyl crackle,0.013,ocean,-0.125,piano,-0.238,
-0289,1XmNbUG3fDqMSjiOMcYE5Q,Another Era,Dosi;Wishes and Dreams,Arodasio,134505,30,vinyl crackle,0.989,minimal,0.635,sad,0.56,rain,0.389,ambient,0.29,
-0290,2lnsKEtblVPOSvjU0Dgj0J,The Day I Woke Up,Dosi;Wishes and Dreams,Arodasio,140909,37,upbeat,1.4,spacey,1.382,hopeful,1.362,home,1.33,space,1.265,
-0291,0rMJdWwT82ePABGy8WhzkH,The End Of A Story,Dosi;Wishes and Dreams,Arodasio,160000,32,sad,0.482,nature,0.075,vinyl crackle,0.067,rain,-0.371,melancholic,-0.453,
-0292,2jzuEiehAtgzmABjIChzTX,Forgotten Past,Dosi;Wishes and Dreams,Arodasio,141818,32,home,1.051,hopeful,0.994,night,0.892,warm,0.855,spacey,0.742,
-0293,77LSPy6ZiOvHIbxDHMkxfN,Civilisation,Dosi;Wishes and Dreams,Arodasio,123428,35,home,0.847,bossa nova,0.694,cozy,0.459,jazz,0.341,nature,0.324,
-0294,5bzRXJhV9otgAy7cm4cjLK,Reverie,Lucid Keys;Quantum Break;Dimension 32,Fantasia,150220,34,sad,2.308,melancholic,1.642,rain,0.927,dark,0.766,minimal,0.711,
-0295,2wHTYnaI9fMuHXDADmQYPh,Impromptu,Lucid Keys;Quantum Break,Fantasia,128851,29,sad,1.967,melancholic,1.11,vinyl crackle,0.812,rain,0.663,dark,0.465,
-0296,73iAigVzqvdZAV4W8f6369,Serenade of Storms,Lucid Keys,Fantasia,145716,32,rain,1.829,dreamy,1.158,ocean,1.108,nature,1.098,night,1.094,
-0297,27kGxazwZxuDure2PYFnG2,The Broken Sonata,Lucid Keys,Fantasia,144833,33,vinyl crackle,1.709,rain,0.62,sad,0.584,piano,0.559,bossa nova,0.489,
-0299,6NZ9F0NfNAGZoSyK7Y7kXk,Prelude in E minor,Lucid Keys,Fantasia,117865,31,sad,1.636,rain,1.46,vinyl crackle,1.091,melancholic,0.576,night,0.461,
-0300,3l4UTvm5AGPyXHb0uovkno,Oratorio in Darkness,Lucid Keys,Fantasia,132130,32,winter,1.476,home,1.455,melancholic,1.347,space,1.258,dreamy,1.237,
-0301,2W7vd8uVZehTtaDcgIWE29,Lost Symphonies,Lucid Keys,Fantasia,153809,31,minimal,1.551,guitar,0.9,vinyl crackle,0.366,ambient,0.311,sad,0.281,
-0302,0b37NlFHZUSxlYB0DulUIM,Nocturne,Lucid Keys;Dinis,Fantasia,133153,32,melancholic,1.73,space,1.674,dreamy,1.534,nostalgic,1.519,dark,1.371,
-0303,63Ni27n4uK7LYQm7OjtbiT,Winter Solstice,Lucid Keys;PBdR,Fantasia,119250,30,sad,1.097,melancholic,0.948,piano,0.9,vinyl crackle,0.61,home,0.303,
-0304,6sAaTICJhTOlaEj7F3LSI0,Mother Earth,Laffey,Out Of Orbit,173215,40,cafe,1.196,piano,1.092,sad,0.942,ambient,0.834,dark,0.833,
-0305,32xfKP0t7l8MFuw6vTtj3k,Allowing Rest,Laffey,Out Of Orbit,161030,41,winter,1.165,dreamy,1.147,peaceful,1.117,mellow,0.85,home,0.813,
-0306,4IrMslkepboyierHHeHRoC,Filling The Void,Laffey,Out Of Orbit,165000,39,dark,2.444,spacey,2.232,space,1.954,mellow,1.913,focus,1.903,
-0307,6gkJJCSuxsB9oK4YRfrbOG,"Floating, Drifting",Laffey;Hoogway,Out Of Orbit,140552,39,nostalgic,2.054,guitar,1.997,hopeful,1.992,upbeat,1.759,focus,1.71,
-0308,0rFaKxbJpCc3fQnLADKAx3,Gravity Free,Laffey;Mondo Loops,Out Of Orbit,193028,39,focus,1.279,slow,1.033,mellow,0.918,spacey,0.875,ambient,0.352,
-0309,0cvgSJhgoyGXHNnFuLkNZx,Self Discovery,Laffey;after noon,Out Of Orbit,175568,44,sad,2.682,melancholic,2.585,peaceful,1.79,cafe,1.064,minimal,1.018,
-0310,5mIcgQiCn72wCH3FfAuDr2,Returning Home,Laffey;softy,Out Of Orbit,161052,41,sleepy,2.113,dark,2.1,piano,1.903,warm,1.875,chill,1.777,
-0311,38ki73NOjgrYiaef7Q6M5u,Subtle Motion,Juliàn,Eternal Youth,161600,29,rain,2.008,vinyl crackle,1.2,sad,1.011,dark,0.895,melancholic,0.676,
-0312,6kbP17w4MxWtSRkLt8Cqzt,Cosmic Dune,Juliàn,Eternal Youth,153636,36,melancholic,1.877,nostalgic,1.824,sad,1.531,dreamy,1.385,peaceful,1.283,
-0313,7B85rHOEnYr6eAE1xnlBeR,Hope For Harmony,Juliàn,Eternal Youth,155409,39,nostalgic,1.497,hopeful,0.905,groovy,0.853,upbeat,0.853,guitar,0.712,
-0314,6CvfS41zxXJr0xeXJ8jDkx,Atom Pieces,Juliàn,Eternal Youth,189729,34,vinyl crackle,1.968,night,1.481,lonely,1.456,focus,1.386,space,1.363,
-0315,76URto3L7L6xwQxM3Zw4ou,Mystical Feels,Juliàn,Eternal Youth,137391,37,melancholic,1.853,nature,1.782,sad,1.727,dreamy,1.402,sleepy,1.34,
-0316,3AOaEDl0qVYLoodlHbrEks,Expectations,Juliàn,Eternal Youth,133333,36,nostalgic,0.994,jazz,0.739,upbeat,0.66,groovy,0.588,guitar,0.587,
-0317,25K5p4W7fZBlKFu9MWTl4Q,Rest,Juliàn;Layandar,Eternal Youth,145714,32,piano,1.286,melancholic,0.609,nature,0.592,sad,0.586,home,0.262,
-0318,1Eq959hFQoDnlYC80JoIhN,Forever and Ever,Hevi;H.1,Winter Getaway,194785,40,minimal,1.042,slow,-0.648,ambient,-0.66,bass-heavy,-1.006,lonely,-1.22,
-0319,4XzeIgY9lUfL0nNJT4whQN,Feel the Same,Hevi;H.1,Winter Getaway,123046,25,nature,1.686,winter,0.971,rain,0.934,home,0.817,ocean,0.731,
-0320,0AtZQNIR7iHfhJyy4msPW6,Amore,Hevi;H.1,Winter Getaway,125353,37,cozy,1.204,chill,1.17,warm,1.052,dreamy,1.041,peaceful,0.983,
-0321,0CRJhKPluJCIEbpAEebFD6,See You Again,Hevi;H.1,Winter Getaway,224510,53,piano,1.711,melancholic,0.767,minimal,0.216,home,0.081,mellow,-0.112,
-0322,7CKf1OlZDaYQ11woAT9oPv,Let It Go,Hevi;H.1,Winter Getaway,163984,35,ambient,1.785,lonely,1.648,hopeful,1.567,spacey,1.521,slow,1.501,
-0323,4AKCLoYCicbHP8tN52Wql4,When It Feels Right,WYS,South Pole,162750,43,minimal,2.969,guitar,2.939,upbeat,2.469,nostalgic,2.397,bass-heavy,2.218,
-0324,3goGTMnriBIfAG38WLbgqa,Trying To Sleep,WYS,South Pole,174074,52,dark,2.778,nature,1.881,bass-heavy,1.599,space,0.673,focus,0.621,
-0325,7rqNwK73Q60SUZmnVDwcXr,Epiphany,WYS,South Pole,145490,40,chill,1.426,spacey,1.383,hopeful,1.347,guitar,1.209,bass-heavy,1.189,
-0326,0Z5TgseH1Y6KFrbNUmmkP0,Shelter,WYS,South Pole,182300,44,guitar,2.726,upbeat,2.225,nostalgic,2.213,minimal,2.074,night,1.675,
-0327,4kaiQCam1rlPXoA35Lf3X2,Never Let Me Go,WYS,South Pole,171304,36,nature,1.226,bass-heavy,1.043,dark,0.84,minimal,0.76,cafe,0.44,
-0328,6dqPZUPHUpY1NAt4dC2AZt,Lotus,Bcalm;Mondo Loops,Changing Times,151384,38,bass-heavy,1.115,guitar,0.929,upbeat,0.908,groovy,0.818,chill,0.709,
-0329,2k3vHD3TQ6TGXf1u1Bho0b,Summers Eve,Bcalm;Mondo Loops,Changing Times,170322,36,nostalgic,0.936,cafe,0.681,bass-heavy,0.637,jazz,0.517,upbeat,0.461,
-0330,1WcoipAUXIHWxNl4FrbWTk,Blessed,Bcalm;Mondo Loops,Changing Times,169411,26,ocean,1.613,peaceful,1.063,nature,1.003,vinyl crackle,0.807,lonely,0.729,
-0331,6FWr2a4F1h09Bsu4vxvlxS,Pink Sands,Bcalm;Mondo Loops,Changing Times,173114,32,guitar,1.525,nostalgic,1.467,bass-heavy,1.347,hopeful,1.261,groovy,1.079,
-0332,1K1hJwV4UrWtNzHg9gJ0BG,Distant Shimmers,Bcalm;Mondo Loops;Banks,Changing Times,137142,48,cafe,1.209,minimal,0.325,nature,0.217,nostalgic,0.199,guitar,-0.226,
-0333,56dqbu5rTaeQ50eM5MBj61,Deep Sea,Bcalm;Mondo Loops,Changing Times,150260,36,cafe,2.477,piano,0.799,rain,0.247,home,0.243,ocean,0.124,
-0335,2c7gu5SGYSQAXnwmduSfUM,Simple Things,Two Scents;Yestalgia,Lately,160291,38,jazz,1.266,cafe,0.908,groovy,0.708,guitar,0.462,lonely,0.387,
-0336,1apTEVrg9gEWyivuIUDl2P,Old Friends,Two Scents,Lately,180625,38,jazz,1.777,sad,0.735,cozy,0.363,home,0.332,nostalgic,0.186,
-0338,6hLAuWPtyJjBmKSQcy0Sy0,Rainy Day,Two Scents;Lucid Keys,Lately,149625,47,jazz,1.553,sad,1.183,peaceful,0.502,nostalgic,0.39,melancholic,0.251,
-0339,1ZkAxpOn885VdSxuJMJyIQ,Only You,Two Scents,Lately,171041,35,jazz,1.327,cozy,0.356,bossa nova,0.33,groovy,0.296,nostalgic,0.065,
-0340,5YGlMa7lNEceDkj9QGExms,Evergreen,Two Scents;teafourtwo,Lately,153500,36,piano,1.131,jazz,0.872,vinyl crackle,0.71,home,0.687,melancholic,0.684,
-0341,0LvKUgckQgBMuTxgeplyvt,Places,Lenny Loops;Nowun;Hoogway,Places,144166,36,dark,1.218,warm,1.204,spacey,1.15,cozy,1.145,chill,1.143,
-0342,07aKdUaMKPxdH12L0NTOEQ,Days Past,Lenny Loops;Nowun,Places,168000,51,peaceful,1.525,sad,1.172,winter,0.915,mellow,0.906,lonely,0.823,
-0343,1MZwNFvQHu99b40ZPqPK9G,Mercury,Lenny Loops;Nowun,Places,150229,39,cafe,2.774,night,0.137,ambient,0.062,bass-heavy,-0.012,upbeat,-0.014,
-0344,5nErfMZiM1O95qHqWAufSg,Bisous,Lenny Loops;Nowun,Places,118500,37,cafe,1.392,spacey,0.93,mellow,0.856,space,0.619,chill,0.601,
-0345,1I0y1zwjUIyhdT45ieF75M,Wandering,Lenny Loops;Nowun;Gerardo Millán,Places,120000,33,peaceful,0.648,sad,0.587,mellow,0.562,melancholic,0.199,spacey,0.113,
-0346,7ib5nmP0bwE8LtivQn4lhA,On My Way,Tibeauthetraveler,Moving On,198294,35,ocean,0.823,sad,0.675,peaceful,0.451,nature,0.351,dark,0.26,
-0347,1ISIgthgPN2Ast5wvBLNAx,Healing,Tibeauthetraveler,Moving On,183700,31,chill,0.734,dark,0.726,melancholic,0.697,lonely,0.678,hopeful,0.673,
-0348,0pSSYQiMbRusjfU9Kyboo1,Unexpected Tears,Tibeauthetraveler,Moving On,172397,32,cafe,1.105,ocean,1.037,sad,0.964,melancholic,0.404,home,0.208,
-0349,0ifswaFQFkbS6tQCEGDrrb,Moving On,Tibeauthetraveler,Moving On,171870,51,nature,1.657,peaceful,1.205,sad,1.03,lonely,0.975,hopeful,0.966,
-0350,4oxLkfdcuKkF3CsSXxfhif,Descent,Tibeauthetraveler,Moving On,180973,32,vinyl crackle,0.297,groovy,0.249,jazz,0.165,dark,0.128,cozy,0.095,
-0351,5EyxBUpii0HOeE8cXLSsBZ,The Goodbye,Tibeauthetraveler,Moving On,165897,32,lonely,0.972,ocean,0.962,nature,0.869,chill,0.826,hopeful,0.825,
-0352,5x3wGbmNzd4JkmKilATKgz,Begin Again,Tibeauthetraveler,Moving On,174437,32,spacey,0.869,hopeful,0.844,peaceful,0.799,ambient,0.755,space,0.738,
-0353,4M29ChUjPdXXhzTNf3aDzM,Endless Everything,Tibeauthetraveler,Moving On,175093,34,peaceful,0.644,ocean,0.577,mellow,0.52,nature,0.486,sleepy,0.461,
-0354,2KgqCCOls8baUBBQvhew8W,Secret Path,Tibeauthetraveler,Moving On,186245,31,home,1.284,winter,1.142,ocean,0.862,dreamy,0.733,cozy,0.651,
-0355,0fT0OyrC2d4MnOI9YcZYAz,Paper Boats,eleven;Hoogway,Raabta,155294,37,ocean,1.267,nostalgic,1.184,dreamy,0.37,peaceful,0.369,cozy,0.353,
-0356,3uf7R108p61hCQFfR6vTzA,Boundless,eleven;Lucid Keys,Raabta,157090,25,ocean,2.03,nature,1.639,space,1.572,peaceful,1.476,ambient,1.408,
-0357,3ZML0n7Rr2kerLJUkmwwff,Shifting Paths,eleven;Mondo Loops,Raabta,169411,33,ocean,0.825,rain,0.56,peaceful,0.541,dreamy,0.491,nature,0.259,
-0358,09v67kYhGUDp8NvZtgf2DR,Misty Meadows,eleven;Mondo Loops,Raabta,137142,50,minimal,1.439,dreamy,1.321,dark,1.307,melancholic,1.303,slow,1.112,
-0359,6SCDEJ6hgm8JfWRFjMYT8l,Serene Calls,eleven;Hoogway,Raabta,163200,26,nostalgic,0.733,bass-heavy,0.687,upbeat,0.262,cafe,0.195,guitar,0.125,
-0360,7AFqQwGGPkUcQeXNbLO3C6,Skyriding,eleven;Your Magnolia;Cosmic Koala,Raabta,144948,38,rain,1.891,cafe,1.111,sad,0.959,vinyl crackle,0.944,ocean,0.748,
-0361,4fwxA10TYuEakldFXtdRkA,Odyssey,eleven;Dimension 32,Raabta,176000,36,peaceful,0.781,nostalgic,0.745,dreamy,0.732,home,0.666,chill,0.54,
-0362,0EaJdD4PV92yaIIQq9V3C7,Fire Unicorn,Blue Fox,Sunny Hill,155844,41,sad,1.619,home,1.327,rain,1.229,melancholic,1.187,winter,1.082,
-0363,2CETynJr1yy1NnGwbq9jRu,Golden Deer,Blue Fox,Sunny Hill,162406,35,home,1.241,peaceful,1.23,night,1.225,winter,1.121,mellow,1.099,
-0364,0aoBELKjUqTl644TmekR6q,Veja,Blue Fox,Sunny Hill,232000,42,cafe,1.325,night,0.93,ocean,0.888,rain,0.669,ambient,0.624,
-0365,4PJA45zr1x7cvUMGFlrVsW,Sunny Hill,Blue Fox,Sunny Hill,142702,37,minimal,3.716,focus,2.429,guitar,2.267,bass-heavy,2.138,slow,2.132,
-0366,0niiRKkWIfssxMkmk2ulaD,Elf,Blue Fox,Sunny Hill,132537,50,bossa nova,0.901,jazz,0.89,groovy,0.713,cozy,0.263,vinyl crackle,0.075,
-0367,2H8xkDYL6Ld1RFzuV5OlDF,House At The River,Blue Fox,Sunny Hill,167272,38,rain,1.261,sad,1.25,vinyl crackle,0.86,melancholic,0.783,piano,0.28,
-0368,6lqnKKfV6WaHAMUgFikMro,Arcturus,Blue Fox,Sunny Hill,210857,40,jazz,0.606,bossa nova,0.387,cafe,-0.188,groovy,-0.219,vinyl crackle,-0.222,
-0369,0AzP2jIRIeocP07a0YAQEc,Brigit,Cosmic Koala;Lucid Keys,The Tale of the Druids,166553,31,sad,2.225,melancholic,2.217,peaceful,1.928,dreamy,1.822,home,1.686,
-0370,06XGY0JmxkTtTS73MfQs8A,Abelio,Cosmic Koala;Lucid Keys;plutones,The Tale of the Druids,126866,30,home,1.352,winter,0.856,nostalgic,0.81,nature,0.765,jazz,0.73,
-0371,6ntATlojKEdyB6MgeMXQBl,Aereda,Cosmic Koala;Lucid Keys,The Tale of the Druids,119365,35,nature,2.841,minimal,1.493,ocean,1.389,ambient,1.331,peaceful,1.044,
-0372,2jYXc5GkS2NgZVLNSlORDv,Ogmios,Cosmic Koala;Lucid Keys,The Tale of the Druids,137808,30,rain,1.549,guitar,1.42,focus,1.034,melancholic,0.841,sad,0.783,
-0374,4yPzZUNCmwTWZ3dPg5B2WF,Noreia,Cosmic Koala;Lucid Keys;Dimension 32,The Tale of the Druids,136836,36,sad,2.266,melancholic,1.719,peaceful,1.612,minimal,1.248,lonely,1.156,
-0375,2qmfNIVMFwuFBwGeqyTmao,Lugh,Cosmic Koala;Lucid Keys,The Tale of the Druids,141100,34,cozy,1.354,space,1.311,chill,1.263,spacey,1.2,mellow,1.17,
-0376,1zWsbksb4KDR20z23ZrqdW,Aengus,Cosmic Koala;Lucid Keys;Wishes and Dreams,The Tale of the Druids,145188,27,rain,1.432,nature,1.22,vinyl crackle,0.806,ocean,0.657,minimal,0.425,
-0377,1gzwljup95M1UfYfQFfKHB,Borvo,Cosmic Koala;Lucid Keys;niv.,The Tale of the Druids,116839,27,sad,1.919,melancholic,1.33,minimal,1.225,dark,0.985,peaceful,0.25,
-0378,4uGmO9fJT72fVDU6rxU2n7,Toutatis,Cosmic Koala;Lucid Keys,The Tale of the Druids,148294,50,nature,2.491,sad,0.526,lonely,0.456,peaceful,0.369,guitar,0.343,
-0379,3xTJhVl2XzRN6E9DBzWmzA,Bricta,Cosmic Koala;Lucid Keys,The Tale of the Druids,119483,33,nostalgic,1.395,minimal,1.269,night,1.256,space,1.196,hopeful,1.174,
-0380,4JgMzK0ileaZmIrm9pNSC1,Shadows,Dosi,Haunted Castle,157500,51,rain,1.721,sad,1.194,melancholic,0.829,vinyl crackle,0.543,dark,0.476,
-0381,3ih5XZhO7lwIpYhlvfbGYq,Crackling,Dosi;Jam'addict,Haunted Castle,135211,33,cafe,2.195,upbeat,1.626,bossa nova,1.608,focus,1.353,groovy,1.302,
-0382,6BSRc1uxPY5lSRwoFpuczZ,Melancholia,Dosi,Haunted Castle,150000,33,home,0.73,sad,0.669,bossa nova,0.531,melancholic,0.281,ocean,0.246,
-0383,0ul89yEKIi4mTAy2clvBv8,Abandoned Graveyard,Dosi;Tonion,Haunted Castle,183529,35,sad,2.009,dark,1.518,rain,1.079,minimal,0.851,nature,0.767,
-0384,1DP1ybJh52Qyx5TaYcRCuI,Fear,Dosi,Haunted Castle,127941,39,ocean,0.883,cozy,0.84,winter,0.75,bossa nova,0.74,home,0.737,
-0385,4fZTdcEqlhTFXvpJ56HrR3,Mystery,Dosi,Haunted Castle,141176,37,bossa nova,1.198,mellow,0.799,chill,0.798,groovy,0.757,cafe,0.676,
-0386,2xhifdQo5nHYSi0a6qoXNa,hopeful dreams,Kanisan;Dario Lessing;Claudia Lessing,Edda,149716,37,piano,1.153,melancholic,1.124,sad,1.036,cafe,0.976,home,0.89,
-0387,313sTCLxVaZJYpQMV5FPNH,edda,Kanisan;Dario Lessing;Claudia Lessing,Edda,114461,51,piano,1.086,cafe,1.082,melancholic,0.575,sad,0.306,home,0.255,
-0388,6C5t9xNU9m1JD4BswnhFYW,white silence,Kanisan;Dario Lessing;Claudia Lessing,Edda,109090,38,bossa nova,1.17,vinyl crackle,0.767,cozy,0.732,jazz,0.397,chill,0.379,
-0389,5BJb8YstBP2Hg9txfjDcFY,light and shadow,Kanisan;Claudia Lessing;Dario Lessing,Edda,119105,35,jazz,1.613,bossa nova,1.003,vinyl crackle,0.57,cafe,0.568,groovy,0.461,
-0390,4D1MDOYFx9viNu2mXtFFJk,dance of the fairy,Kanisan;Claudia Lessing;Dario Lessing,Edda,118153,37,bossa nova,0.589,groovy,0.343,jazz,0.105,home,0.061,cozy,-0.001,
-0391,6mNZTxtI2x9ZkRfgWDh37Q,shining,Kanisan;Claudia Lessing;Dario Lessing,Edda,100588,35,home,0.884,ocean,0.869,hopeful,0.804,ambient,0.637,lonely,0.625,
-0392,1wIPb4Owi13RDAQmC6VS6s,wandering in a ghost city,Kanisan;Dario Lessing;Claudia Lessing,Edda,135383,32,upbeat,0.73,minimal,0.571,nostalgic,0.465,melancholic,0.465,sad,0.235,
-0393,59a1xncxceNUlYqBHExk4O,watercrystals,Kanisan;Dario Lessing;Claudia Lessing,Edda,115208,37,melancholic,1.433,peaceful,1.351,ocean,1.104,cafe,1.074,sad,1.052,
-0394,5MVMBeH5ISlhTyAm3oif8y,Upon The Dusk,Kainbeats;Wishes and Dreams,Finding Light,124878,39,cafe,2.125,night,1.961,dark,1.857,melancholic,1.692,nostalgic,1.689,
-0395,7qEF1U50zlBmH5KC3kR058,We All Feel Darkness,Kainbeats;idylla,Finding Light,117138,53,spacey,2.241,ambient,2.175,lonely,2.032,hopeful,1.97,space,1.934,
-0396,7j8ypeO5nryiLTICdqKQa0,Light Will Chase It Away,Kainbeats;Tonion,Finding Light,146319,34,piano,1.694,melancholic,1.407,rain,1.357,nature,1.168,winter,1.158,
-0397,1b9NGjbzUqXmku7WEGnsff,Glacier,Kainbeats;Wishes and Dreams,Finding Light,122800,38,spacey,1.782,space,1.674,nostalgic,1.644,chill,1.531,warm,1.472,
-0398,28C9FHP7jt1ImXFtkIc4NQ,Duty Calls,Kainbeats;Casiio,Finding Light,114285,37,vinyl crackle,1.711,dark,1.323,ocean,1.206,rain,0.964,night,0.934,
-0399,6vng8m2ZoX0hg3IgvmPIC5,Transfiguration,Kainbeats;Kanisan,Finding Light,156939,40,rain,1.194,nature,1.001,piano,0.917,sad,0.318,melancholic,0.247,
-0400,4doPcjm4CbcEfb78OWnNAI,At The Precipice,Kainbeats;Kanisan,Finding Light,195797,34,sad,1.148,melancholic,0.638,minimal,-0.101,piano,-0.607,vinyl crackle,-0.665,
-0401,0ZQgHYcsBXYDEBVrpwpNej,Echoes Of The Past,Mondo Loops;Kanisan,Lonely Days,118153,31,vinyl crackle,0.341,groovy,0.166,chill,0.16,piano,0.042,peaceful,0.033,
-0402,6FRLL8SFjBjXmgI7hBCGX7,Letting Go,xander.;No Spirit,Lonely Days,205714,38,minimal,1.412,sad,1.347,nature,0.938,night,0.794,melancholic,0.695,
-0404,70LVbPKzAEj7ZhHX35Q8ip,Saudade,Prithvi;sftspkn,Lonely Days,132923,30,rain,1.684,vinyl crackle,1.389,piano,0.748,sad,0.719,home,0.61,
-0405,3t9BQ6joLgeotwMQ7jWbfM,Why Am I Here,Thaehan,Lonely Days,171642,36,bossa nova,0.683,guitar,0.563,jazz,0.089,nostalgic,0.087,cafe,0.025,
-0406,7rO99Jd1mnuu8hV1vmllgi,Shifting Realities,Peak Twilight;Lenny Loops,Lonely Days,129229,37,peaceful,1.063,sad,0.978,melancholic,0.95,mellow,0.625,dreamy,0.473,
-0408,1ggLMZjI64xMABu4OFma9X,Crying Sky,Purrple Cat,Lonely Days,223578,39,rain,1.89,sad,1.459,melancholic,1.443,home,1.406,winter,1.064,
-0409,1If1m28gj9l1Wa6QSacdgM,Illusions We Shared,Lenny Loops;Peak Twilight;Tonion,Lonely Days,145600,36,vinyl crackle,1.36,sad,1.351,jazz,0.999,dark,0.925,night,0.87,
-0410,6pgZf9I9yj4M5c08r4sZgk,What We've Lost,Raimu;Dontcry,Lonely Days,186461,19,dark,1.177,melancholic,1.167,sad,1.099,cozy,1.051,dreamy,0.987,
-0411,78vdMqwqec49UiVdDgIXAW,Sorrow,HoKø;Lucie Cravero,Lonely Days,148134,31,rain,1.99,vinyl crackle,1.197,sad,0.843,piano,0.768,jazz,0.645,
-0412,5A8cShtR9b4B0c7H2O05vo,Haunted Dreams,Lucid Keys,Lonely Days,148545,36,rain,1.75,vinyl crackle,1.175,sad,0.745,home,0.614,cozy,0.609,
-0413,7n27Tel4mhxC9pbPKYP0Vv,Loveblind,Krynoze;Goson,Lonely Days,150572,31,sad,1.857,rain,0.901,melancholic,0.66,nature,0.296,home,0.121,
-0417,6GqzJcU0pM2cGm209GAXnx,Peau De Chagrin,Dimension 32,Lonely Days,173571,32,sad,2.112,melancholic,1.655,rain,1.423,dark,1.305,night,1.271,
-0420,6cJ2xRnIbsS80aIajzzIeB,Suspended Emotions,stream_error;H.1,Lonely Days,159381,39,space,2.72,spacey,2.453,hopeful,2.326,ambient,2.257,upbeat,2.198,
-0422,1nEu30zbfRvJn1y2lkBN6U,Distorted Memories,amies,Lonely Days,200597,32,rain,2.409,piano,1.847,winter,1.843,home,1.829,dreamy,1.564,
-0423,2ryYQEZr2ezInhiEuoAVQk,In The End,Mondo Loops,Lonely Days,156521,34,jazz,0.694,nostalgic,0.534,guitar,0.151,upbeat,-0.107,groovy,-0.179,
-0424,0rCb94sJeCJW6nRCKXzOvc,Last Journey,softy;Wishes and Dreams,Secrets of Castle,160454,36,cafe,0.643,sad,0.25,melancholic,-0.494,minimal,-0.965,home,-0.973,
-0425,5UALqq1tfKGMpkVkSs43Wi,Fairy Tales,softy;Wishes and Dreams,Secrets of Castle,171642,36,vinyl crackle,0.942,piano,0.537,sad,0.301,bossa nova,0.149,melancholic,0.139,
-0426,1u4IMNpmkgDyUBRQeQOwJJ,The Way to Dawn,softy;Wishes and Dreams,Secrets of Castle,156818,50,minimal,1.941,ambient,1.505,sad,1.405,night,1.4,cafe,1.249,
-0427,4iioifJrYLS0rRxuDXfnH0,The Mist,softy;Wishes and Dreams,Secrets of Castle,174545,35,minimal,1.793,ambient,1.379,bass-heavy,1.353,guitar,1.24,lonely,1.114,
-0428,4FpsB0uaWQnlz5wV8d3suE,Rose Petals,softy;Wishes and Dreams,Secrets of Castle,156222,36,piano,1.724,cafe,1.54,vinyl crackle,1.349,rain,1.272,minimal,0.807,
-0429,657DVa02kdu6PeUiwpGuCM,Eternal Night,softy;Wishes and Dreams,Secrets of Castle,171692,31,piano,1.463,cafe,1.073,home,0.546,bossa nova,0.402,sad,0.288,
-0430,33dMN5f5LP0IxZJJJsNnH4,Dissipate,Purrple Cat,Distant Worlds III,128599,32,space,0.597,spacey,0.466,nostalgic,0.416,sleepy,0.359,melancholic,0.301,
-0431,6OaHMXpbZxb7fUOrtHNQTz,Out There,Purrple Cat,Distant Worlds III,160653,38,rain,2.165,vinyl crackle,1.543,sad,1.231,winter,1.23,dark,1.219,
-0432,3QcKpTxYTIPkUhCaWJZnVP,Kugelblitz,Purrple Cat,Distant Worlds III,165538,34,rain,1.694,melancholic,1.398,sad,1.325,home,1.146,winter,1.113,
-0434,289O3yfkVC0vsXMz1yJYUH,Message From Home,Purrple Cat,Distant Worlds III,199673,35,piano,1.564,vinyl crackle,1.492,home,1.466,melancholic,1.288,sad,1.199,
-0435,3utaBd0Q6FyWGILUiTC6jQ,Forgotten Places,Purrple Cat,Distant Worlds III,158401,38,winter,1.866,home,1.711,night,1.69,cozy,1.633,dreamy,1.596,
-0436,3PulDDVrZjFbJxoDeLcHlJ,Anomaly,Purrple Cat,Distant Worlds III,185978,37,rain,1.674,vinyl crackle,1.623,winter,1.592,night,1.48,space,1.313,
-0437,6SpbYqOKxgTt63in066e4a,Exoplanet,Purrple Cat,Distant Worlds III,145049,47,rain,1.715,piano,1.542,melancholic,1.242,sad,1.164,vinyl crackle,1.082,
-0438,4tUpudBGo90zCYPNCzlpec,Space Pirates,Purrple Cat,Distant Worlds III,140522,38,rain,2.062,vinyl crackle,0.898,minimal,0.86,piano,0.839,melancholic,0.805,
-0439,0UqnsB2mtyAvl4xqYt5otR,42,Purrple Cat,Distant Worlds III,202875,38,rain,2.061,bossa nova,1.379,night,1.37,dark,1.084,sleepy,1.057,
-0440,2MXfyA9vSg5ZRLEN6DWstM,Sundials,Cosmic Koala;Lucid Keys,Beautiful Days,159682,39,nature,0.893,nostalgic,-0.028,guitar,-0.74,sad,-0.904,jazz,-0.968,
-0441,7aQA4erMUpESpteKApcLWg,Fairy Tales,Cosmic Koala;Lucid Keys,Beautiful Days,163819,37,nature,1.837,nostalgic,1.075,home,1.034,peaceful,0.767,sad,0.741,
-0443,7vWU7z6GAbJuQgsVSriod9,Sweet Meetings,Cosmic Koala;Dimension 32;Lucid Keys,Beautiful Days,151708,47,nature,1.675,sad,1.51,melancholic,0.828,home,0.719,peaceful,0.303,
-0444,4RKIa8mZHItAF61rcvLJem,Soothe,Cosmic Koala;Lucid Keys,Beautiful Days,143181,31,nature,1.667,sad,0.962,peaceful,0.485,home,0.292,melancholic,0.158,
-0445,5aoZcFRIg7Ji7bSI8dJRN7,Tree Of Flowers,xander.,"Cabin Fever, Pt. 3",183000,31,jazz,1.79,groovy,1.602,vinyl crackle,1.127,bossa nova,0.72,chill,0.72,
-0446,7jkehfDsZimDy2kYLyxsLu,Look Up,xander.,"Cabin Fever, Pt. 3",138947,36,bossa nova,1.526,groovy,1.438,jazz,1.273,upbeat,0.264,cafe,0.097,
-0447,2zxLwV89FTRguRJAgFJSTL,A Little Lonely,xander.,"Cabin Fever, Pt. 3",174000,36,nature,1.305,guitar,0.424,minimal,0.265,nostalgic,-0.153,vinyl crackle,-0.192,
-0448,0bulHwJ0RRe8tKve01HIV6,Union,xander.;Philip Somber;Dario Lessing,"Cabin Fever, Pt. 3",176842,29,jazz,0.898,cafe,0.62,piano,0.605,vinyl crackle,0.522,groovy,0.153,
-0449,0btpkq8i4yCP05HUDVGHBX,Wall,xander.;No Spirit,"Cabin Fever, Pt. 3",211862,49,nature,1.015,rain,0.726,minimal,0.544,vinyl crackle,0.489,sad,0.228,
-0450,1Sx5lEQ9fiXXaWt2j0wOW5,Careless,xander.;No Spirit,"Cabin Fever, Pt. 3",235200,34,groovy,1.952,bossa nova,1.445,chill,1.315,jazz,1.134,vinyl crackle,0.988,
-0451,3VSJ8bEeuSSgI9AJOb8pJm,Defensive,xander.;Philip Somber,"Cabin Fever, Pt. 3",221666,31,vinyl crackle,1.299,bossa nova,1.004,groovy,0.754,jazz,0.713,chill,-0.044,
-0452,0BNqTlvHak1qduVH9iblpP,Moon To Sun,xander.;Ornithology,"Cabin Fever, Pt. 3",203636,28,nature,0.463,sad,-0.168,peaceful,-1.278,melancholic,-1.434,cafe,-1.443,
-0453,2VohDWvc1KLNEGwMMA1Hig,No Need For Her,xander.;No Spirit,"Cabin Fever, Pt. 3",172602,20,vinyl crackle,1.795,cafe,1.77,upbeat,1.709,bass-heavy,1.695,bossa nova,1.667,
-0454,1ZWd4kJoM1WkMspdsafSZh,Berlin,Sebastian Kamae,Skylines,173913,49,guitar,0.911,groovy,0.895,jazz,0.446,nostalgic,0.313,hopeful,0.313,
-0455,7h4nxChCpKKKMvhhpwYwWi,Willows,Sebastian Kamae;Intoku,Skylines,157611,37,spacey,1.791,hopeful,1.62,chill,1.578,space,1.556,warm,1.47,
-0456,5JZR5RpxCwqVIsinjRhTU9,Skylines,Sebastian Kamae,Skylines,112000,39,bossa nova,1.797,jazz,1.12,vinyl crackle,0.696,groovy,0.406,piano,0.351,
-0457,1EU9abWzzqDLDHEFQZDlUw,Floating,Sebastian Kamae;Epona,Skylines,150000,38,ocean,1.781,night,1.44,dark,1.383,nostalgic,1.277,vinyl crackle,1.217,
-0458,2Hx1389iBnxfZRkNi2k9CV,Balloons,Sebastian Kamae;Casiio,Skylines,130378,36,vinyl crackle,1.411,rain,1.238,ocean,0.588,winter,0.579,space,0.349,
-0459,2lncpV5nqESEi879IioOc2,Windcatchers,Sebastian Kamae;Sleepermane,Skylines,132636,27,rain,2.579,minimal,2.41,night,2.019,ocean,1.97,nature,1.96,
-0460,6SOD0v5vUg4bsPKmhSMnqN,Complex Visions,Dimension 32,Mutations,176437,33,sad,2.36,melancholic,1.232,guitar,0.729,peaceful,0.611,lonely,0.348,
-0461,4Sb0FfjZ2xOYnLdnfwfJQJ,Obscura Luna,Dimension 32;Kanisan;Wishes and Dreams,Mutations,116417,27,piano,1.335,melancholic,1.112,vinyl crackle,1.064,sad,0.994,cafe,0.92,
-0462,3KncTeaLslBu3n13TOcArp,A New Age,Dimension 32,Mutations,154285,29,sad,1.496,cafe,1.416,melancholic,1.322,night,1.318,ambient,1.251,
-0463,6MLQYTgHkVJQYzFbiUI67G,Et Vincit Per Luce,Dimension 32;Wishes and Dreams,Mutations,140000,25,minimal,2.094,piano,1.54,dark,1.494,rain,1.443,vinyl crackle,1.207,
-0464,18oqkp1PuYDTc39Hf8HdIc,Light In The Dark,Dimension 32,Mutations,161250,34,sad,1.756,minimal,1.214,melancholic,1.155,night,1.026,lonely,0.923,
-0465,2OX4UFudE7PL37wYIQruoA,Ténèbres,Dimension 32;Lucid Keys,Mutations,157611,30,vinyl crackle,1.592,sad,1.436,rain,1.282,melancholic,0.616,jazz,0.423,
-0466,5YIB9p6o89H9s9SAG7wWjN,Begin The End,Dimension 32,Mutations,185500,28,sad,1.252,melancholic,1.122,guitar,1.074,home,0.919,nostalgic,0.827,
-0468,3PmHm0qjboOcPVbFTwocRK,The Way Out,Dimension 32,Mutations,162461,32,guitar,1.431,sad,0.817,rain,0.799,winter,0.666,nostalgic,0.664,
-0469,3qNHLruAZsYo9qwhYEcHwk,Lacrima Rossa,Dimension 32,Mutations,180923,47,guitar,1.437,rain,0.848,vinyl crackle,0.823,sad,0.63,nostalgic,0.47,
-0470,4TAehdDW6OK8gGGtWkQNIl,Under Your Spell,Dimension 32,Mutations,178928,31,sad,1.989,melancholic,1.639,peaceful,1.285,lonely,1.026,dreamy,0.906,
-0471,5XWJqqdwa72vjoxkdyywor,The Broken Parts,Dimension 32,Mutations,166000,29,sad,1.264,peaceful,1.251,lonely,0.973,dreamy,0.96,ambient,0.891,
-0472,6f139nUZk8GiAdWZqpYNRQ,Volcano Eye,Dimension 32,Mutations,148189,33,rain,1.436,vinyl crackle,1.361,guitar,1.122,ambient,1.061,lonely,1.057,
-0473,3vL2HYeEXvHY9nOsFMJF77,Nuit Noire,Dimension 32,Mutations,182588,36,sad,1.685,peaceful,1.64,ambient,1.499,lonely,1.442,ocean,1.202,
-0474,2ap3YJc28FcSfxBkr6JLJs,Unravel,Yasumu,Unravel,128272,31,ocean,0.444,chill,0.401,cozy,0.38,hopeful,0.37,lonely,0.333,
-0475,0Zd6vpdGrEuc6G3vFgeCFT,The Things I Did,Yasumu,Unravel,141267,37,upbeat,1.726,nostalgic,1.655,minimal,1.578,piano,1.49,space,1.4,
-0476,6NSt18nnqXJ12qVzc2gpbN,Seeking Change,Yasumu,Unravel,142260,34,piano,1.732,chill,1.573,dark,1.505,melancholic,1.448,cozy,1.375,
-0477,4mIz7RBICX7CUXKIcPTzDz,Just Wait,Yasumu;Nadav Cohen,Unravel,134475,34,melancholic,0.983,sad,0.883,cozy,0.784,chill,0.64,upbeat,0.563,
-0478,5XoWNp7kWTaxTvhE6915ic,Beneath The Surface,Yasumu;Nadav Cohen,Unravel,126192,34,chill,0.597,groovy,0.559,spacey,0.559,hopeful,0.476,warm,0.198,
-0479,3W6khkN9SIK1jEPOpKcl5y,On My Own,Yasumu,Unravel,129817,35,chill,1.56,focus,1.338,cozy,1.324,upbeat,1.305,hopeful,1.296,
-0480,1YcA4FOohJCZx21notkOkK,Voice Of The Forest,Yasumu;No Spirit,Unravel,170711,50,cozy,1.059,home,1.01,groovy,0.722,dreamy,0.705,space,0.695,
-0481,0yO5wwBKf9EtYcNDW8XP0g,Floating Hands,Yasumu,Unravel,137238,32,cafe,2.104,piano,1.586,bass-heavy,1.536,slow,1.382,upbeat,1.33,
-0482,5NB61fBpNO1HWnmG7mmXEm,Sunrise Over Casablanca,Nadav Cohen,Tales From Babylon,212000,33,bossa nova,1.755,jazz,1.44,guitar,0.422,groovy,0.375,nostalgic,-0.111,
-0483,7cDU7Iyp3Fryfz5ZOzRAxs,Voices of My Ancestors,Nadav Cohen,Tales From Babylon,66000,33,space,2.318,spacey,1.874,dark,1.632,dreamy,1.629,ambient,1.613,
-0484,3XQigG1zzW7jVV5wG5yhj2,Ouyouni,Nadav Cohen,Tales From Babylon,172000,32,guitar,0.541,jazz,0.397,groovy,0.365,nature,0.308,nostalgic,0.189,
-0485,6itqZ3UkhCDGBvypkRP8sE,1935 Baghdad,Nadav Cohen,Tales From Babylon,150500,36,guitar,1.443,nostalgic,1.192,hopeful,1.175,piano,0.971,bass-heavy,0.94,
-0486,4uhD3nwTz6yLWAm8AHb57e,Marrakesh,Nadav Cohen,Tales From Babylon,192000,35,ambient,1.223,sad,1.142,peaceful,1.123,ocean,1.108,nature,0.969,
-0487,29BR0kWy3PyrEsxqUJ4ymz,Saba,Nadav Cohen,Tales From Babylon,179000,33,cafe,1.745,minimal,0.627,ambient,-0.574,mellow,-0.68,nature,-0.723,
-0488,63StUlHgL18UddRFFrlyfh,Flying Colours,Nadav Cohen,Tales From Babylon,175500,33,minimal,0.98,ocean,0.875,nature,0.796,ambient,0.788,spacey,0.439,
-0489,6pTcVLVlDJjlU6pkaa0rSQ,Tziporrah,Nadav Cohen,Tales From Babylon,166000,53,nostalgic,1.072,jazz,0.966,upbeat,-0.017,bossa nova,-0.045,cafe,-0.076,
-0490,6RGH1mp0NeqgJvGsnNNtFB,Soul of The Desert,Nadav Cohen,Tales From Babylon,188000,28,minimal,1.206,nature,0.839,cafe,-0.715,ambient,-1.232,bass-heavy,-1.459,
-0491,2az1vEjIMYHtKQgJScoDdV,Blessing In Disguise,Nadav Cohen,Tales From Babylon,171000,35,bass-heavy,0.689,spacey,0.27,ocean,0.247,cafe,0.169,minimal,0.159,
-0492,0PRHBdpCxBprD1aq4Ma1d0,Ascending To Heaven,Nadav Cohen,Tales From Babylon,162000,34,jazz,1.312,sad,0.518,cafe,0.398,bossa nova,0.265,groovy,0.222,
-0493,1LuaRQKdkR6AcSHmXRUrAR,Back to the Source,Team Astro,Hidden Treasure,160687,36,jazz,2.299,bass-heavy,1.118,groovy,0.94,ocean,0.696,guitar,0.691,
-0494,78SzrE578dcJyJEBQeuCS0,Intersafe,Team Astro,Hidden Treasure,170555,38,vinyl crackle,0.92,guitar,0.826,rain,0.419,jazz,0.175,bossa nova,0.086,
-0495,4PGaMtP5HLcPTiNEevGj82,Final Destination,Team Astro,Hidden Treasure,154038,37,vinyl crackle,1.07,bossa nova,1.017,jazz,0.964,guitar,0.819,rain,0.303,
-0496,0jZSgUo5cTbJwuTIghjZB8,Jupiter,Team Astro,Hidden Treasure,175865,46,jazz,1.286,cafe,0.867,bass-heavy,0.777,groovy,0.701,vinyl crackle,0.531,
+0190,05ZDaQ2FIvAhwuSYX5jHHY,Divine Secrets,gCoope;Mondo Loops;Odd Panda,Desired Views,137154,33,jazz,0.798,nostalgic,0.267,groovy,0.159,vinyl crackle,0.075,guitar,0.031,https://i.scdn.co/image/ab67616d0000b2737dcea5ca83423e47104e94df
+0191,3ywchGPU1fg5CxNBrB03TK,Vantage Point,gCoope;Odd Panda,Desired Views,147375,45,guitar,1.305,hopeful,1.033,ambient,1.003,space,0.952,minimal,0.948,https://i.scdn.co/image/ab67616d0000b2737dcea5ca83423e47104e94df
+0192,0l7a7eHTQAxZlpdYn94u18,When The Stars Align,gCoope;cxlt.;Odd Panda,Desired Views,148236,30,cafe,1.42,minimal,1.073,night,0.982,nature,0.915,slow,0.907,https://i.scdn.co/image/ab67616d0000b2737dcea5ca83423e47104e94df
+0193,63WZF4FfRuhWpRYkE4En6G,Fallen Horizon,gCoope;Odd Panda;Early Garden,Desired Views,143598,38,rain,1.913,vinyl crackle,1.588,piano,1.271,dark,0.3,sad,0.283,https://i.scdn.co/image/ab67616d0000b2737dcea5ca83423e47104e94df
+0194,3I4Sgu2Jhcumk5piHeaPXi,Fluorescence,gCoope;Odd Panda;Kainbeats,Desired Views,134400,25,sad,0.264,nature,0.165,melancholic,0.022,rain,-0.313,ocean,-0.443,https://i.scdn.co/image/ab67616d0000b2737dcea5ca83423e47104e94df
+0195,3JgkVCpmXWtDngNpGZktkm,Lost Signal,Downtown Binary,Aurora,177677,31,spacey,2.382,mellow,2.241,space,2.203,peaceful,1.871,warm,1.755,https://i.scdn.co/image/ab67616d0000b273f3cee461e591dbc3ab474ea7
+0196,3viUcf0meafqHBUYeOR48O,Reflect,Downtown Binary,Aurora,192230,30,space,1.781,spacey,1.386,dark,1.127,sleepy,1.018,nature,0.988,https://i.scdn.co/image/ab67616d0000b273f3cee461e591dbc3ab474ea7
+0197,7m6QIVO4XCzJjZs6BAWTmQ,City Lights,Downtown Binary,Aurora,140461,32,space,1.98,spacey,1.311,dark,1.155,night,0.979,nature,0.845,https://i.scdn.co/image/ab67616d0000b273f3cee461e591dbc3ab474ea7
+0198,2cnFmhQO0pSXc6UVoUJuwf,Void,Downtown Binary,Aurora,183956,30,space,2.71,spacey,2.368,dark,1.677,mellow,1.677,ambient,1.657,https://i.scdn.co/image/ab67616d0000b273f3cee461e591dbc3ab474ea7
+0199,6iw3O4rZLRwLGm1tCaAABE,Pools,Downtown Binary,Aurora,125028,30,dark,2.46,space,2.182,spacey,1.611,nature,1.405,sleepy,0.938,https://i.scdn.co/image/ab67616d0000b273f3cee461e591dbc3ab474ea7
+0200,37tRRJqHd9nr1lQadquSP8,Aurora,Downtown Binary,Aurora,154374,31,space,2.24,dark,1.759,nature,1.653,spacey,1.327,focus,1.093,https://i.scdn.co/image/ab67616d0000b273f3cee461e591dbc3ab474ea7
+0201,1ZVFuhU5WUEsIBcTZZ8IYt,4am,Downtown Binary,Aurora,148466,31,space,2.127,nature,1.851,spacey,1.8,mellow,1.734,dreamy,1.707,https://i.scdn.co/image/ab67616d0000b273f3cee461e591dbc3ab474ea7
+0202,0FgidTFpS0WKcvLlvFUk2L,Distant,Downtown Binary,Aurora,148418,31,space,2.517,dark,1.856,minimal,1.782,spacey,1.704,focus,1.475,https://i.scdn.co/image/ab67616d0000b273f3cee461e591dbc3ab474ea7
+0203,1JwxtCu8oy9Q60JW3mZb2V,The One I Love,Charlee Nguyen;vesky;Dimension 32,The meaning of love,144827,49,sad,0.876,vinyl crackle,0.58,peaceful,0.459,melancholic,0.361,bossa nova,0.343,https://i.scdn.co/image/ab67616d0000b27304cd123af4987b141167ab9f
+0204,3PbLRNWyG5l1xrrFKQB5ML,At A Distance,Charlee Nguyen;vesky,The meaning of love,147692,36,sad,0.497,ocean,0.466,vinyl crackle,0.408,peaceful,0.201,nature,0.156,https://i.scdn.co/image/ab67616d0000b27304cd123af4987b141167ab9f
+0205,7lYPrhWpaOUfcpC1zh5qZt,Aishiteru,Charlee Nguyen;Tsunamii,The meaning of love,136119,38,ocean,1.098,nature,0.765,bossa nova,0.547,home,0.547,winter,0.395,https://i.scdn.co/image/ab67616d0000b27304cd123af4987b141167ab9f
+0206,5RyURcr7U892dE3UjE0jWU,Moments,Charlee Nguyen;Nadav Cohen;Mondo Loops,The meaning of love,145263,34,nostalgic,0.893,groovy,0.883,hopeful,0.828,spacey,0.815,focus,0.777,https://i.scdn.co/image/ab67616d0000b27304cd123af4987b141167ab9f
+0207,3TZxe4lTl1eb124ceJnvxj,Now We Know,Charlee Nguyen;fnonose,The meaning of love,147740,32,nature,0.847,ocean,0.814,guitar,0.633,lonely,0.54,peaceful,0.514,https://i.scdn.co/image/ab67616d0000b27304cd123af4987b141167ab9f
+0208,0mmQUauh4ktoLS6mTJf10p,lost and forgotten,Tatami Construct,lost and forgotten,152000,39,peaceful,1.535,mellow,1.292,nature,1.234,lonely,1.058,sad,1.008,https://i.scdn.co/image/ab67616d0000b273f58d8e767c10fb902bc4f9d8
+0209,21MteIpQGBMb3fX8BUfrZm,friendly faces,Tatami Construct,lost and forgotten,189953,40,jazz,0.974,bossa nova,0.077,sad,0.036,cafe,-0.379,groovy,-0.564,https://i.scdn.co/image/ab67616d0000b273f58d8e767c10fb902bc4f9d8
+0210,52PzMFjM2MdpqgwXL1aeID,eclipsing,Tatami Construct,lost and forgotten,175140,37,cafe,1.449,jazz,0.604,cozy,0.435,groovy,0.384,bossa nova,0.354,https://i.scdn.co/image/ab67616d0000b273f58d8e767c10fb902bc4f9d8
+0211,0ESSykcqUozxXlaCB7QuPM,forest language,Tatami Construct,lost and forgotten,219272,39,winter,1.333,ocean,1.055,vinyl crackle,0.99,warm,0.914,mellow,0.86,https://i.scdn.co/image/ab67616d0000b273f58d8e767c10fb902bc4f9d8
+0212,5wo25Sccr5huodlBvAqDjk,dew slate,Tatami Construct,lost and forgotten,132491,51,rain,1.451,sad,0.848,melancholic,0.644,vinyl crackle,0.616,dark,0.584,https://i.scdn.co/image/ab67616d0000b273f58d8e767c10fb902bc4f9d8
+0213,4kXKFtbTLvvW6rfXAUZVVx,its probably nothing,Tatami Construct,lost and forgotten,174132,41,groovy,1.056,chill,1.016,cozy,0.978,dark,0.879,winter,0.728,https://i.scdn.co/image/ab67616d0000b273f58d8e767c10fb902bc4f9d8
+0214,1sBMsAySg4HHr0yClpdEmS,Endless Beauty,Goson;Dreamfield,Arcadia,153730,33,nature,2.825,ocean,1.39,rain,0.737,winter,0.671,peaceful,0.655,https://i.scdn.co/image/ab67616d0000b27387b8b3ebf53cfa6d28b78d6c
+0216,2twOJwEGlw17f1pfxlzMfw,Cohesion,Goson;Dreamfield,Arcadia,138880,36,peaceful,1.707,melancholic,1.417,dreamy,1.416,nostalgic,1.402,space,1.219,https://i.scdn.co/image/ab67616d0000b27387b8b3ebf53cfa6d28b78d6c
+0217,5IzOMzubd43MqIdJWYvB0r,Warm Breeze,Goson;Dreamfield,Arcadia,159178,49,jazz,0.73,vinyl crackle,0.553,peaceful,0.388,groovy,0.296,sad,0.225,https://i.scdn.co/image/ab67616d0000b27387b8b3ebf53cfa6d28b78d6c
+0218,4QPB8iRQIlfRGqaXfHOy3C,Rise and Shine,Goson;Dreamfield,Arcadia,141060,28,guitar,1.801,nostalgic,1.734,hopeful,1.168,focus,0.938,minimal,0.89,https://i.scdn.co/image/ab67616d0000b27387b8b3ebf53cfa6d28b78d6c
+0219,16BzoEBFNqjJZMmO8ZkLno,Afterglow,Goson;Dreamfield,Arcadia,159678,36,rain,0.699,sad,0.603,nature,0.273,ocean,0.134,melancholic,0.048,https://i.scdn.co/image/ab67616d0000b27387b8b3ebf53cfa6d28b78d6c
+0220,6OKBjJtJaPApXodk4vTpQv,Painted World,ticofaces,Ash,111891,41,dark,1.827,ocean,1.514,rain,1.171,mellow,1.148,bass-heavy,1.084,https://i.scdn.co/image/ab67616d0000b273ed99cccb4dad4382d17e2cbb
+0221,62udDHmq9Y7IBfdEEvDV53,Aeon,ticofaces;Loafy Building,Ash,110270,31,lonely,2.019,ambient,1.86,peaceful,1.815,upbeat,1.71,hopeful,1.655,https://i.scdn.co/image/ab67616d0000b273ed99cccb4dad4382d17e2cbb
+0222,39bJ35jopkOSXKxaNL7Sk0,Cinder,ticofaces,Ash,140000,40,vinyl crackle,1.513,rain,1.465,bossa nova,1.269,ocean,1.078,nature,0.824,https://i.scdn.co/image/ab67616d0000b273ed99cccb4dad4382d17e2cbb
+0223,2JtJF72Skt6TXhE57ibwic,Ash,ticofaces;Aelkay,Ash,140800,51,bossa nova,1.726,jazz,0.996,groovy,0.612,guitar,0.563,mellow,0.421,https://i.scdn.co/image/ab67616d0000b273ed99cccb4dad4382d17e2cbb
+0224,1WbLP7CSOSjRjAWMjZ47M0,Arriving Home,Phlocalyst;M e a d o w,End Of The Road,160000,41,rain,1.794,warm,1.601,home,1.485,cozy,1.42,winter,1.33,https://i.scdn.co/image/ab67616d0000b273975b0e101d76dd2106a81897
+0225,2U58IeP8JP5KQtMgsirH0K,Over The Top,Phlocalyst;Akīn;Hoogway,End Of The Road,136216,51,guitar,-0.099,sad,-0.155,minimal,-0.174,nostalgic,-0.219,cafe,-0.373,https://i.scdn.co/image/ab67616d0000b273975b0e101d76dd2106a81897
+0226,1CuNYccTFE0VFA81dHQO6L,Latenight Loneliness,Phlocalyst;M e a d o w,End Of The Road,148000,35,dark,2.348,bass-heavy,2.1,cafe,1.944,chill,1.927,sleepy,1.915,https://i.scdn.co/image/ab67616d0000b273975b0e101d76dd2106a81897
+0227,74CQKoSoPNVjfmWE4GjvRS,Mountain Drops,Phlocalyst;Hoogway,End Of The Road,146893,35,rain,2.284,bossa nova,0.934,ocean,0.834,vinyl crackle,0.745,sad,0.69,https://i.scdn.co/image/ab67616d0000b273975b0e101d76dd2106a81897
+0228,1VeborRMAmWAcHgUeeaxpP,Different Pathway,Phlocalyst;Casiio,End Of The Road,119104,38,jazz,1.079,night,0.845,vinyl crackle,0.75,sad,0.587,rain,0.573,https://i.scdn.co/image/ab67616d0000b273975b0e101d76dd2106a81897
+0229,1ObxSu7idgmbPFesIKLb0T,In Front Of Me,Swink,Like a Necessity,124000,39,jazz,0.995,groovy,0.937,vinyl crackle,0.846,cozy,0.657,chill,0.506,https://i.scdn.co/image/ab67616d0000b273605eb53d0ef48bb700cc648d
+0230,1L6Vg2msTjW0got3qAZYmd,My Dear,Swink,Like a Necessity,140000,46,ocean,1.381,peaceful,0.977,winter,0.942,sad,0.934,warm,0.816,https://i.scdn.co/image/ab67616d0000b273605eb53d0ef48bb700cc648d
+0231,46if2Oro9c2imEYnVHeAHR,Go Back In Time,Swink,Like a Necessity,124000,45,groovy,1.035,jazz,0.949,vinyl crackle,0.701,bossa nova,0.492,chill,0.325,https://i.scdn.co/image/ab67616d0000b273605eb53d0ef48bb700cc648d
+0232,5dPhQl2QDTlkCJsjELfklp,First Encounter,Swink;møndberg,Like a Necessity,136000,37,nature,2.51,guitar,1.787,minimal,1.587,ocean,1.542,ambient,1.353,https://i.scdn.co/image/ab67616d0000b273605eb53d0ef48bb700cc648d
+0233,4zZKZl3uUJRSs2d11hdbXB,When The Winters Come,Swink;nytø,Like a Necessity,114000,44,cafe,2.149,bass-heavy,2.074,piano,2.015,vinyl crackle,1.93,night,1.911,https://i.scdn.co/image/ab67616d0000b273605eb53d0ef48bb700cc648d
+0234,6Kv5UzMEO60Yv5gS5sUc7U,To Better Come Back,Swink,Like a Necessity,126000,41,jazz,1.882,bossa nova,1.588,cafe,1.443,groovy,1.042,bass-heavy,0.921,https://i.scdn.co/image/ab67616d0000b273605eb53d0ef48bb700cc648d
+0235,09DN7JYQofA56MQ9HFC05w,Blue Sunday,Worldtraveller;Max Merseny,Morning Coffee,99705,31,jazz,0.834,vinyl crackle,0.023,sad,-0.403,cafe,-0.872,groovy,-1.005,https://i.scdn.co/image/ab67616d0000b273fef80b2f80a0395d03b3a84e
+0236,5kPaCd3Qv2cHwChpbGUrTS,Sentimental Mood,Worldtraveller;Max Merseny,Morning Coffee,125806,38,piano,-0.732,cafe,-0.882,vinyl crackle,-1.055,melancholic,-1.27,dark,-1.32,https://i.scdn.co/image/ab67616d0000b273fef80b2f80a0395d03b3a84e
+0237,7wFaL0crX1q2C9hb5DpEGw,Gamble,Worldtraveller;Max Merseny;Viktor Minsky,Morning Coffee,135428,31,jazz,1.554,vinyl crackle,-0.143,groovy,-0.37,bossa nova,-0.833,rain,-1.143,https://i.scdn.co/image/ab67616d0000b273fef80b2f80a0395d03b3a84e
+0238,3PQCF7C6LspCizIzh8fcPy,Frozen Bubbles,Worldtraveller;Max Merseny;Viktor Minsky,Morning Coffee,128823,30,jazz,1.833,vinyl crackle,0.248,groovy,-0.212,bossa nova,-0.705,sad,-0.705,https://i.scdn.co/image/ab67616d0000b273fef80b2f80a0395d03b3a84e
+0239,7GHw3JHsnonVQPCj5ylmKo,Little One,Worldtraveller;Max Merseny,Morning Coffee,114000,28,sad,1.477,melancholic,0.455,jazz,0.367,peaceful,0.298,vinyl crackle,-0.091,https://i.scdn.co/image/ab67616d0000b273fef80b2f80a0395d03b3a84e
+0240,6KSPjdlEI1zG1ST8osjdLj,A Day In Winter,Worldtraveller;Max Merseny,Morning Coffee,153230,27,jazz,1.48,sad,1.314,peaceful,0.297,melancholic,0.266,nostalgic,0.022,https://i.scdn.co/image/ab67616d0000b273fef80b2f80a0395d03b3a84e
+0241,7l0uAT2cIAAK0gEtoNoc8W,Endless Skys,Worldtraveller;Max Merseny,Morning Coffee,116129,29,jazz,1.398,cozy,0.403,night,0.39,vinyl crackle,0.277,groovy,0.173,https://i.scdn.co/image/ab67616d0000b273fef80b2f80a0395d03b3a84e
+0242,6NLFAo3PDjoVXn3FOzqBm3,Crackle,Worldtraveller;Max Merseny,Morning Coffee,117352,27,jazz,1.226,vinyl crackle,0.99,sad,0.386,night,0.21,nature,0.164,https://i.scdn.co/image/ab67616d0000b273fef80b2f80a0395d03b3a84e
+0243,0i0DpIdjfzVlfczFDFSkc8,Sacred Land,BVG,Gilded Voyage,209391,41,jazz,-0.451,home,-0.604,nostalgic,-0.77,groovy,-0.922,peaceful,-1.047,https://i.scdn.co/image/ab67616d0000b273a8a08d26f5421c11b72a20b8
+0244,1GwCtmaEh0iiUQrv4qYSnK,Constellations,BVG;Simon Groß,Gilded Voyage,142533,44,sad,1.161,lonely,1.022,melancholic,0.975,ambient,0.953,upbeat,0.878,https://i.scdn.co/image/ab67616d0000b273a8a08d26f5421c11b72a20b8
+0245,0TbsKpYssdu0ak8N2L8SPN,Silk Touch,BVG;Simon Groß,Gilded Voyage,140754,42,home,1.818,sad,1.582,melancholic,1.556,peaceful,1.467,dreamy,1.278,https://i.scdn.co/image/ab67616d0000b273a8a08d26f5421c11b72a20b8
+0246,5vbB5glXDtE1gwKxk9VuQN,Rising Sun,BVG;møndberg,Gilded Voyage,166408,41,sad,0.993,nature,0.38,peaceful,0.183,melancholic,-0.042,winter,-0.474,https://i.scdn.co/image/ab67616d0000b273a8a08d26f5421c11b72a20b8
+0247,6SjAjif44dxhj6vQI4WvnJ,Purity,BVG;Simon Groß,Gilded Voyage,204085,43,peaceful,1.674,melancholic,1.669,sad,1.598,dark,1.08,mellow,1.01,https://i.scdn.co/image/ab67616d0000b273a8a08d26f5421c11b72a20b8
+0249,6PHoZl6LhZE1L9WSUIc6eB,Asae,Maiso Linua,Place of Purity,219130,27,home,0.853,ocean,0.816,winter,0.679,rain,0.525,nature,0.466,https://i.scdn.co/image/ab67616d0000b2731d399a38025ad9a0635069ff
+0250,1OhkmK3odXou1jEiJ4iiRc,The Roots of Goodness,Maiso Linua,Place of Purity,145573,18,nature,1.809,minimal,1.564,rain,0.671,slow,0.427,cafe,0.297,https://i.scdn.co/image/ab67616d0000b2731d399a38025ad9a0635069ff
+0253,66i8hHv0SWG92atg5Zwd99,Misawa,Maiso Linua,Place of Purity,173333,27,sad,0.528,ocean,0.471,jazz,0.234,bossa nova,0.211,nature,0.113,https://i.scdn.co/image/ab67616d0000b2731d399a38025ad9a0635069ff
+0254,4Wp3SUaHRk4RXvsH7YX4F8,Remembering,Yestalgia,Glowing,149322,37,nostalgic,-0.128,vinyl crackle,-0.142,spacey,-0.721,minimal,-0.747,upbeat,-0.811,https://i.scdn.co/image/ab67616d0000b27364eea9dd535be9bd4a206b1e
+0255,2z4CmLXdH37RLmx0rS78Pe,A Magic Spell,Yestalgia,Glowing,149935,41,ocean,1.615,cafe,1.206,jazz,-0.03,nature,-0.08,melancholic,-0.099,https://i.scdn.co/image/ab67616d0000b27364eea9dd535be9bd4a206b1e
+0256,7JCDlx0qMAMQYxJLKpmdTG,Summer Kisses,Yestalgia,Glowing,160769,50,bossa nova,0.797,jazz,0.465,groovy,0.197,nature,0.119,nostalgic,-0.082,https://i.scdn.co/image/ab67616d0000b27364eea9dd535be9bd4a206b1e
+0257,4lWkQCvUqYv5QPJrD7BK02,Glowing,Yestalgia,Glowing,153820,41,rain,1.217,vinyl crackle,1.007,sad,0.569,jazz,0.432,winter,0.4,https://i.scdn.co/image/ab67616d0000b27364eea9dd535be9bd4a206b1e
+0258,4M2DOOFXdyQ9STUOE6rpB3,You're My Star,Yestalgia,Glowing,157821,39,peaceful,1.802,dreamy,1.531,sad,1.437,mellow,1.415,lonely,1.36,https://i.scdn.co/image/ab67616d0000b27364eea9dd535be9bd4a206b1e
+0259,3762PIQQS4Y7t6t1TXhJwg,Unreal Dream,Living Room;Phlocalyst,Calm Land,137538,36,ocean,1.525,nature,1.483,rain,0.722,winter,0.587,warm,0.507,https://i.scdn.co/image/ab67616d0000b2735c354b8dc6788ce9e58927e1
+0260,75MMSZZYu5UCEENHcyWoak,A Friendly Hello,Living Room;Otaam;Phlocalyst,Calm Land,131641,47,nature,2.166,ocean,2.082,peaceful,0.772,sad,0.319,rain,0.278,https://i.scdn.co/image/ab67616d0000b2735c354b8dc6788ce9e58927e1
+0261,69YRjlM24NLp3QtZiAaxna,Loneliness,Living Room;Mondo Loops,Calm Land,131076,16,mellow,1.464,focus,1.212,winter,1.19,peaceful,1.117,dreamy,1.06,https://i.scdn.co/image/ab67616d0000b2735c354b8dc6788ce9e58927e1
+0262,751ljPdv19FkD0qd5kRXCp,Dreamer,Living Room,Calm Land,120000,40,winter,1.626,peaceful,1.526,sad,1.365,dreamy,1.313,home,1.27,https://i.scdn.co/image/ab67616d0000b2735c354b8dc6788ce9e58927e1
+0263,4jxwcnoRnY2iaS9yBG8QSP,The Summit,Living Room,Calm Land,130476,35,winter,1.43,peaceful,1.139,dark,1.001,dreamy,0.974,lonely,0.972,https://i.scdn.co/image/ab67616d0000b2735c354b8dc6788ce9e58927e1
+0264,5uTnpAskPlxlGeNPgBvfa8,Towering Heights,squeeda;Theo Aabel,Transform,160000,37,nature,3.101,ocean,1.477,winter,1.17,peaceful,1.067,space,1.06,https://i.scdn.co/image/ab67616d0000b273971b20e304484481a2ccd5f8
+0265,6u08rQsEC0DtXqZIE8NGdm,Inertia,squeeda;tonbo,Transform,125163,30,ocean,1.629,nature,1.42,guitar,0.989,nostalgic,0.954,rain,0.937,https://i.scdn.co/image/ab67616d0000b273971b20e304484481a2ccd5f8
+0268,0mZ9KZuvOQEBgUMvnHKsOg,Fever Dream,squeeda;Simone Bonét,Transform,183196,34,hopeful,1.744,spacey,1.463,space,1.385,groovy,1.323,dreamy,1.271,https://i.scdn.co/image/ab67616d0000b273971b20e304484481a2ccd5f8
+0269,4Y7yehXb1FJlcmPA82lasd,Better than Yesterday,squeeda;cxlt.,Transform,198196,48,vinyl crackle,1.479,nature,0.486,sad,0.396,lonely,0.383,peaceful,0.149,https://i.scdn.co/image/ab67616d0000b273971b20e304484481a2ccd5f8
+0270,4h3KM0HdN1xnYexB7zCIjG,Tiger Lily,Lawrence Walther;Solar Body,Back to Nature,139636,50,nostalgic,1.835,upbeat,1.538,groovy,1.341,chill,1.271,bossa nova,1.263,https://i.scdn.co/image/ab67616d0000b27397dc996b8827ea2d19bc2ad5
+0271,2lszlEFLzHChZVsgEBAmha,Sweetgrass,Lawrence Walther;Solar Body,Back to Nature,160000,39,minimal,2.049,ambient,1.523,melancholic,1.489,lonely,1.474,bass-heavy,1.396,https://i.scdn.co/image/ab67616d0000b27397dc996b8827ea2d19bc2ad5
+0272,3wnVMxvEz3NEv2FE4MmsiQ,Lake Vermilion,Lawrence Walther;Solar Body,Back to Nature,144000,19,nostalgic,2.687,guitar,2.376,upbeat,2.176,bossa nova,1.902,hopeful,1.766,https://i.scdn.co/image/ab67616d0000b27397dc996b8827ea2d19bc2ad5
+0273,5zJwdevy28exep4LTBaNmr,Juneberry,Lawrence Walther;Solar Body,Back to Nature,137000,35,nature,1.765,vinyl crackle,1.163,night,1.049,ambient,0.904,peaceful,0.641,https://i.scdn.co/image/ab67616d0000b27397dc996b8827ea2d19bc2ad5
+0274,0I4r0Ttse663SAfMh5asSp,Northern Lights,Lawrence Walther;Solar Body,Back to Nature,128000,38,sad,1.741,melancholic,1.493,upbeat,1.185,home,1.115,minimal,0.909,https://i.scdn.co/image/ab67616d0000b27397dc996b8827ea2d19bc2ad5
+0276,6sLeQzUp6LmviB1cLpEH8f,Event Horizon,Lenny Loops;stream_error,Noctilucent,155294,35,nature,1.567,ocean,1.391,mellow,1.295,rain,1.266,sleepy,1.082,https://i.scdn.co/image/ab67616d0000b2736301f4a2023849cbb3d21d7b
+0278,4vzNPwywQWCtF7OcsclnSq,Exosphere,Lenny Loops;stream_error;Sleepermane,Noctilucent,129710,25,rain,2.182,nature,1.702,dark,1.581,sleepy,1.293,ocean,1.292,https://i.scdn.co/image/ab67616d0000b2736301f4a2023849cbb3d21d7b
+0279,6hNROWR2Ta9lFeSGG5zEB2,The Earth From Above,Lenny Loops;stream_error,Noctilucent,126666,36,rain,2.12,nature,1.067,winter,1.042,mellow,0.984,vinyl crackle,0.927,https://i.scdn.co/image/ab67616d0000b2736301f4a2023849cbb3d21d7b
+0280,3VFuC296RQ5qcIo3fTz5bS,Glowing Sky,Lenny Loops;stream_error,Noctilucent,130746,40,ocean,0.938,nature,0.916,vinyl crackle,0.264,rain,0.167,winter,0.069,https://i.scdn.co/image/ab67616d0000b2736301f4a2023849cbb3d21d7b
+0281,69Cf4mu1bSinlnkNP8ZSjU,Discovery,Lenny Loops;stream_error;Sleepermane,Noctilucent,142290,35,rain,2.01,vinyl crackle,1.542,dark,1.37,dreamy,1.183,winter,1.161,https://i.scdn.co/image/ab67616d0000b2736301f4a2023849cbb3d21d7b
+0282,47wvSWwFpK5lsuBjdXEXqm,Facing Truth,Krynoze;Juliàn,Finding Answers,147945,39,rain,0.966,jazz,0.862,vinyl crackle,0.838,bossa nova,0.728,nature,0.722,https://i.scdn.co/image/ab67616d0000b273c7d9d61b608d93af45ef66d2
+0283,7pEgwrX4c0i3zX2qD96qew,Soul Quest,Krynoze;Juliàn,Finding Answers,150447,35,sad,1.284,ocean,1.282,nature,1.104,melancholic,0.697,home,0.652,https://i.scdn.co/image/ab67616d0000b273c7d9d61b608d93af45ef66d2
+0284,0tmTiUFnX41F9yNn40c3iq,Waves Of Questions,Krynoze;Juliàn,Finding Answers,136119,38,vinyl crackle,0.887,nature,0.675,ocean,0.313,rain,0.307,winter,0.029,https://i.scdn.co/image/ab67616d0000b273c7d9d61b608d93af45ef66d2
+0285,4iKwoOWmIAThzLY5KQ1UOT,Set Sail,Krynoze;Juliàn,Finding Answers,144000,34,ocean,2.616,nature,2.049,peaceful,1.127,ambient,0.884,sad,0.714,https://i.scdn.co/image/ab67616d0000b273c7d9d61b608d93af45ef66d2
+0286,6qCyG8s8Y9A68T9eZ9CZUy,Fulfillment,Krynoze;Juliàn;Goson,Finding Answers,164471,38,bass-heavy,0.874,ocean,0.545,nostalgic,0.404,jazz,0.386,dark,0.264,https://i.scdn.co/image/ab67616d0000b273c7d9d61b608d93af45ef66d2
+0287,5rJSYx2p75tDHYJtsv1BxV,Isolation,Dosi;Wishes and Dreams,Arodasio,121846,37,rain,1.006,ocean,0.738,home,0.685,melancholic,0.543,sad,0.541,https://i.scdn.co/image/ab67616d0000b273b2a0ff0bbf400d7b4937d9b8
+0288,6WsHdUixKIV10TGxwd33BA,Lost Souls,Dosi;Wishes and Dreams,Arodasio,167027,35,cafe,1.262,rain,0.064,vinyl crackle,0.013,ocean,-0.125,piano,-0.238,https://i.scdn.co/image/ab67616d0000b273b2a0ff0bbf400d7b4937d9b8
+0289,1XmNbUG3fDqMSjiOMcYE5Q,Another Era,Dosi;Wishes and Dreams,Arodasio,134505,30,vinyl crackle,0.989,minimal,0.635,sad,0.56,rain,0.389,ambient,0.29,https://i.scdn.co/image/ab67616d0000b273b2a0ff0bbf400d7b4937d9b8
+0290,2lnsKEtblVPOSvjU0Dgj0J,The Day I Woke Up,Dosi;Wishes and Dreams,Arodasio,140909,37,upbeat,1.4,spacey,1.382,hopeful,1.362,home,1.33,space,1.265,https://i.scdn.co/image/ab67616d0000b273b2a0ff0bbf400d7b4937d9b8
+0291,0rMJdWwT82ePABGy8WhzkH,The End Of A Story,Dosi;Wishes and Dreams,Arodasio,160000,32,sad,0.482,nature,0.075,vinyl crackle,0.067,rain,-0.371,melancholic,-0.453,https://i.scdn.co/image/ab67616d0000b273b2a0ff0bbf400d7b4937d9b8
+0292,2jzuEiehAtgzmABjIChzTX,Forgotten Past,Dosi;Wishes and Dreams,Arodasio,141818,32,home,1.051,hopeful,0.994,night,0.892,warm,0.855,spacey,0.742,https://i.scdn.co/image/ab67616d0000b273b2a0ff0bbf400d7b4937d9b8
+0293,77LSPy6ZiOvHIbxDHMkxfN,Civilisation,Dosi;Wishes and Dreams,Arodasio,123428,35,home,0.847,bossa nova,0.694,cozy,0.459,jazz,0.341,nature,0.324,https://i.scdn.co/image/ab67616d0000b273b2a0ff0bbf400d7b4937d9b8
+0294,5bzRXJhV9otgAy7cm4cjLK,Reverie,Lucid Keys;Quantum Break;Dimension 32,Fantasia,150220,34,sad,2.308,melancholic,1.642,rain,0.927,dark,0.766,minimal,0.711,https://i.scdn.co/image/ab67616d0000b27352b3e7cdc154b8d5058fab30
+0295,2wHTYnaI9fMuHXDADmQYPh,Impromptu,Lucid Keys;Quantum Break,Fantasia,128851,29,sad,1.967,melancholic,1.11,vinyl crackle,0.812,rain,0.663,dark,0.465,https://i.scdn.co/image/ab67616d0000b27352b3e7cdc154b8d5058fab30
+0296,73iAigVzqvdZAV4W8f6369,Serenade of Storms,Lucid Keys,Fantasia,145716,32,rain,1.829,dreamy,1.158,ocean,1.108,nature,1.098,night,1.094,https://i.scdn.co/image/ab67616d0000b27352b3e7cdc154b8d5058fab30
+0297,27kGxazwZxuDure2PYFnG2,The Broken Sonata,Lucid Keys,Fantasia,144833,33,vinyl crackle,1.709,rain,0.62,sad,0.584,piano,0.559,bossa nova,0.489,https://i.scdn.co/image/ab67616d0000b27352b3e7cdc154b8d5058fab30
+0299,6NZ9F0NfNAGZoSyK7Y7kXk,Prelude in E minor,Lucid Keys,Fantasia,117865,31,sad,1.636,rain,1.46,vinyl crackle,1.091,melancholic,0.576,night,0.461,https://i.scdn.co/image/ab67616d0000b27352b3e7cdc154b8d5058fab30
+0300,3l4UTvm5AGPyXHb0uovkno,Oratorio in Darkness,Lucid Keys,Fantasia,132130,32,winter,1.476,home,1.455,melancholic,1.347,space,1.258,dreamy,1.237,https://i.scdn.co/image/ab67616d0000b27352b3e7cdc154b8d5058fab30
+0301,2W7vd8uVZehTtaDcgIWE29,Lost Symphonies,Lucid Keys,Fantasia,153809,31,minimal,1.551,guitar,0.9,vinyl crackle,0.366,ambient,0.311,sad,0.281,https://i.scdn.co/image/ab67616d0000b27352b3e7cdc154b8d5058fab30
+0302,0b37NlFHZUSxlYB0DulUIM,Nocturne,Lucid Keys;Dinis,Fantasia,133153,32,melancholic,1.73,space,1.674,dreamy,1.534,nostalgic,1.519,dark,1.371,https://i.scdn.co/image/ab67616d0000b27352b3e7cdc154b8d5058fab30
+0303,63Ni27n4uK7LYQm7OjtbiT,Winter Solstice,Lucid Keys;PBdR,Fantasia,119250,30,sad,1.097,melancholic,0.948,piano,0.9,vinyl crackle,0.61,home,0.303,https://i.scdn.co/image/ab67616d0000b27352b3e7cdc154b8d5058fab30
+0304,6sAaTICJhTOlaEj7F3LSI0,Mother Earth,Laffey,Out Of Orbit,173215,40,cafe,1.196,piano,1.092,sad,0.942,ambient,0.834,dark,0.833,https://i.scdn.co/image/ab67616d0000b27321e76d9927744bfe63d2592a
+0305,32xfKP0t7l8MFuw6vTtj3k,Allowing Rest,Laffey,Out Of Orbit,161030,41,winter,1.165,dreamy,1.147,peaceful,1.117,mellow,0.85,home,0.813,https://i.scdn.co/image/ab67616d0000b27321e76d9927744bfe63d2592a
+0306,4IrMslkepboyierHHeHRoC,Filling The Void,Laffey,Out Of Orbit,165000,39,dark,2.444,spacey,2.232,space,1.954,mellow,1.913,focus,1.903,https://i.scdn.co/image/ab67616d0000b27321e76d9927744bfe63d2592a
+0307,6gkJJCSuxsB9oK4YRfrbOG,"Floating, Drifting",Laffey;Hoogway,Out Of Orbit,140552,39,nostalgic,2.054,guitar,1.997,hopeful,1.992,upbeat,1.759,focus,1.71,https://i.scdn.co/image/ab67616d0000b27321e76d9927744bfe63d2592a
+0308,0rFaKxbJpCc3fQnLADKAx3,Gravity Free,Laffey;Mondo Loops,Out Of Orbit,193028,39,focus,1.279,slow,1.033,mellow,0.918,spacey,0.875,ambient,0.352,https://i.scdn.co/image/ab67616d0000b27321e76d9927744bfe63d2592a
+0309,0cvgSJhgoyGXHNnFuLkNZx,Self Discovery,Laffey;after noon,Out Of Orbit,175568,44,sad,2.682,melancholic,2.585,peaceful,1.79,cafe,1.064,minimal,1.018,https://i.scdn.co/image/ab67616d0000b27321e76d9927744bfe63d2592a
+0310,5mIcgQiCn72wCH3FfAuDr2,Returning Home,Laffey;softy,Out Of Orbit,161052,41,sleepy,2.113,dark,2.1,piano,1.903,warm,1.875,chill,1.777,https://i.scdn.co/image/ab67616d0000b27321e76d9927744bfe63d2592a
+0311,38ki73NOjgrYiaef7Q6M5u,Subtle Motion,Juliàn,Eternal Youth,161600,29,rain,2.008,vinyl crackle,1.2,sad,1.011,dark,0.895,melancholic,0.676,https://i.scdn.co/image/ab67616d0000b2733781fc397ee7d15e23126b04
+0312,6kbP17w4MxWtSRkLt8Cqzt,Cosmic Dune,Juliàn,Eternal Youth,153636,36,melancholic,1.877,nostalgic,1.824,sad,1.531,dreamy,1.385,peaceful,1.283,https://i.scdn.co/image/ab67616d0000b2733781fc397ee7d15e23126b04
+0313,7B85rHOEnYr6eAE1xnlBeR,Hope For Harmony,Juliàn,Eternal Youth,155409,39,nostalgic,1.497,hopeful,0.905,groovy,0.853,upbeat,0.853,guitar,0.712,https://i.scdn.co/image/ab67616d0000b2733781fc397ee7d15e23126b04
+0314,6CvfS41zxXJr0xeXJ8jDkx,Atom Pieces,Juliàn,Eternal Youth,189729,34,vinyl crackle,1.968,night,1.481,lonely,1.456,focus,1.386,space,1.363,https://i.scdn.co/image/ab67616d0000b2733781fc397ee7d15e23126b04
+0315,76URto3L7L6xwQxM3Zw4ou,Mystical Feels,Juliàn,Eternal Youth,137391,37,melancholic,1.853,nature,1.782,sad,1.727,dreamy,1.402,sleepy,1.34,https://i.scdn.co/image/ab67616d0000b2733781fc397ee7d15e23126b04
+0316,3AOaEDl0qVYLoodlHbrEks,Expectations,Juliàn,Eternal Youth,133333,36,nostalgic,0.994,jazz,0.739,upbeat,0.66,groovy,0.588,guitar,0.587,https://i.scdn.co/image/ab67616d0000b2733781fc397ee7d15e23126b04
+0317,25K5p4W7fZBlKFu9MWTl4Q,Rest,Juliàn;Layandar,Eternal Youth,145714,32,piano,1.286,melancholic,0.609,nature,0.592,sad,0.586,home,0.262,https://i.scdn.co/image/ab67616d0000b2733781fc397ee7d15e23126b04
+0318,1Eq959hFQoDnlYC80JoIhN,Forever and Ever,Hevi;H.1,Winter Getaway,194785,40,minimal,1.042,slow,-0.648,ambient,-0.66,bass-heavy,-1.006,lonely,-1.22,https://i.scdn.co/image/ab67616d0000b27376d283dcd273cd7583179bcb
+0319,4XzeIgY9lUfL0nNJT4whQN,Feel the Same,Hevi;H.1,Winter Getaway,123046,25,nature,1.686,winter,0.971,rain,0.934,home,0.817,ocean,0.731,https://i.scdn.co/image/ab67616d0000b27376d283dcd273cd7583179bcb
+0320,0AtZQNIR7iHfhJyy4msPW6,Amore,Hevi;H.1,Winter Getaway,125353,37,cozy,1.204,chill,1.17,warm,1.052,dreamy,1.041,peaceful,0.983,https://i.scdn.co/image/ab67616d0000b27376d283dcd273cd7583179bcb
+0321,0CRJhKPluJCIEbpAEebFD6,See You Again,Hevi;H.1,Winter Getaway,224510,53,piano,1.711,melancholic,0.767,minimal,0.216,home,0.081,mellow,-0.112,https://i.scdn.co/image/ab67616d0000b27376d283dcd273cd7583179bcb
+0322,7CKf1OlZDaYQ11woAT9oPv,Let It Go,Hevi;H.1,Winter Getaway,163984,35,ambient,1.785,lonely,1.648,hopeful,1.567,spacey,1.521,slow,1.501,https://i.scdn.co/image/ab67616d0000b27376d283dcd273cd7583179bcb
+0323,4AKCLoYCicbHP8tN52Wql4,When It Feels Right,WYS,South Pole,162750,43,minimal,2.969,guitar,2.939,upbeat,2.469,nostalgic,2.397,bass-heavy,2.218,https://i.scdn.co/image/ab67616d0000b273d051d40af9d858b6a11be3f1
+0324,3goGTMnriBIfAG38WLbgqa,Trying To Sleep,WYS,South Pole,174074,52,dark,2.778,nature,1.881,bass-heavy,1.599,space,0.673,focus,0.621,https://i.scdn.co/image/ab67616d0000b273d051d40af9d858b6a11be3f1
+0325,7rqNwK73Q60SUZmnVDwcXr,Epiphany,WYS,South Pole,145490,40,chill,1.426,spacey,1.383,hopeful,1.347,guitar,1.209,bass-heavy,1.189,https://i.scdn.co/image/ab67616d0000b273d051d40af9d858b6a11be3f1
+0326,0Z5TgseH1Y6KFrbNUmmkP0,Shelter,WYS,South Pole,182300,44,guitar,2.726,upbeat,2.225,nostalgic,2.213,minimal,2.074,night,1.675,https://i.scdn.co/image/ab67616d0000b273d051d40af9d858b6a11be3f1
+0327,4kaiQCam1rlPXoA35Lf3X2,Never Let Me Go,WYS,South Pole,171304,36,nature,1.226,bass-heavy,1.043,dark,0.84,minimal,0.76,cafe,0.44,https://i.scdn.co/image/ab67616d0000b273d051d40af9d858b6a11be3f1
+0328,6dqPZUPHUpY1NAt4dC2AZt,Lotus,Bcalm;Mondo Loops,Changing Times,151384,38,bass-heavy,1.115,guitar,0.929,upbeat,0.908,groovy,0.818,chill,0.709,https://i.scdn.co/image/ab67616d0000b27301476fde374930c3113c36a8
+0329,2k3vHD3TQ6TGXf1u1Bho0b,Summers Eve,Bcalm;Mondo Loops,Changing Times,170322,36,nostalgic,0.936,cafe,0.681,bass-heavy,0.637,jazz,0.517,upbeat,0.461,https://i.scdn.co/image/ab67616d0000b27301476fde374930c3113c36a8
+0330,1WcoipAUXIHWxNl4FrbWTk,Blessed,Bcalm;Mondo Loops,Changing Times,169411,26,ocean,1.613,peaceful,1.063,nature,1.003,vinyl crackle,0.807,lonely,0.729,https://i.scdn.co/image/ab67616d0000b27301476fde374930c3113c36a8
+0331,6FWr2a4F1h09Bsu4vxvlxS,Pink Sands,Bcalm;Mondo Loops,Changing Times,173114,32,guitar,1.525,nostalgic,1.467,bass-heavy,1.347,hopeful,1.261,groovy,1.079,https://i.scdn.co/image/ab67616d0000b27301476fde374930c3113c36a8
+0332,1K1hJwV4UrWtNzHg9gJ0BG,Distant Shimmers,Bcalm;Mondo Loops;Banks,Changing Times,137142,48,cafe,1.209,minimal,0.325,nature,0.217,nostalgic,0.199,guitar,-0.226,https://i.scdn.co/image/ab67616d0000b27301476fde374930c3113c36a8
+0333,56dqbu5rTaeQ50eM5MBj61,Deep Sea,Bcalm;Mondo Loops,Changing Times,150260,36,cafe,2.477,piano,0.799,rain,0.247,home,0.243,ocean,0.124,https://i.scdn.co/image/ab67616d0000b27301476fde374930c3113c36a8
+0335,2c7gu5SGYSQAXnwmduSfUM,Simple Things,Two Scents;Yestalgia,Lately,160291,38,jazz,1.266,cafe,0.908,groovy,0.708,guitar,0.462,lonely,0.387,https://i.scdn.co/image/ab67616d0000b273c20ad7bbceac96755d854565
+0336,1apTEVrg9gEWyivuIUDl2P,Old Friends,Two Scents,Lately,180625,38,jazz,1.777,sad,0.735,cozy,0.363,home,0.332,nostalgic,0.186,https://i.scdn.co/image/ab67616d0000b273c20ad7bbceac96755d854565
+0338,6hLAuWPtyJjBmKSQcy0Sy0,Rainy Day,Two Scents;Lucid Keys,Lately,149625,47,jazz,1.553,sad,1.183,peaceful,0.502,nostalgic,0.39,melancholic,0.251,https://i.scdn.co/image/ab67616d0000b273c20ad7bbceac96755d854565
+0339,1ZkAxpOn885VdSxuJMJyIQ,Only You,Two Scents,Lately,171041,35,jazz,1.327,cozy,0.356,bossa nova,0.33,groovy,0.296,nostalgic,0.065,https://i.scdn.co/image/ab67616d0000b273c20ad7bbceac96755d854565
+0340,5YGlMa7lNEceDkj9QGExms,Evergreen,Two Scents;teafourtwo,Lately,153500,36,piano,1.131,jazz,0.872,vinyl crackle,0.71,home,0.687,melancholic,0.684,https://i.scdn.co/image/ab67616d0000b273c20ad7bbceac96755d854565
+0341,0LvKUgckQgBMuTxgeplyvt,Places,Lenny Loops;Nowun;Hoogway,Places,144166,36,dark,1.218,warm,1.204,spacey,1.15,cozy,1.145,chill,1.143,https://i.scdn.co/image/ab67616d0000b273caed1632339ad1a76e0aa0bc
+0342,07aKdUaMKPxdH12L0NTOEQ,Days Past,Lenny Loops;Nowun,Places,168000,51,peaceful,1.525,sad,1.172,winter,0.915,mellow,0.906,lonely,0.823,https://i.scdn.co/image/ab67616d0000b273caed1632339ad1a76e0aa0bc
+0343,1MZwNFvQHu99b40ZPqPK9G,Mercury,Lenny Loops;Nowun,Places,150229,39,cafe,2.774,night,0.137,ambient,0.062,bass-heavy,-0.012,upbeat,-0.014,https://i.scdn.co/image/ab67616d0000b273caed1632339ad1a76e0aa0bc
+0344,5nErfMZiM1O95qHqWAufSg,Bisous,Lenny Loops;Nowun,Places,118500,37,cafe,1.392,spacey,0.93,mellow,0.856,space,0.619,chill,0.601,https://i.scdn.co/image/ab67616d0000b273caed1632339ad1a76e0aa0bc
+0345,1I0y1zwjUIyhdT45ieF75M,Wandering,Lenny Loops;Nowun;Gerardo Millán,Places,120000,33,peaceful,0.648,sad,0.587,mellow,0.562,melancholic,0.199,spacey,0.113,https://i.scdn.co/image/ab67616d0000b273caed1632339ad1a76e0aa0bc
+0346,7ib5nmP0bwE8LtivQn4lhA,On My Way,Tibeauthetraveler,Moving On,198294,35,ocean,0.823,sad,0.675,peaceful,0.451,nature,0.351,dark,0.26,https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4
+0347,1ISIgthgPN2Ast5wvBLNAx,Healing,Tibeauthetraveler,Moving On,183700,31,chill,0.734,dark,0.726,melancholic,0.697,lonely,0.678,hopeful,0.673,https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4
+0348,0pSSYQiMbRusjfU9Kyboo1,Unexpected Tears,Tibeauthetraveler,Moving On,172397,32,cafe,1.105,ocean,1.037,sad,0.964,melancholic,0.404,home,0.208,https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4
+0349,0ifswaFQFkbS6tQCEGDrrb,Moving On,Tibeauthetraveler,Moving On,171870,51,nature,1.657,peaceful,1.205,sad,1.03,lonely,0.975,hopeful,0.966,https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4
+0350,4oxLkfdcuKkF3CsSXxfhif,Descent,Tibeauthetraveler,Moving On,180973,32,vinyl crackle,0.297,groovy,0.249,jazz,0.165,dark,0.128,cozy,0.095,https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4
+0351,5EyxBUpii0HOeE8cXLSsBZ,The Goodbye,Tibeauthetraveler,Moving On,165897,32,lonely,0.972,ocean,0.962,nature,0.869,chill,0.826,hopeful,0.825,https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4
+0352,5x3wGbmNzd4JkmKilATKgz,Begin Again,Tibeauthetraveler,Moving On,174437,32,spacey,0.869,hopeful,0.844,peaceful,0.799,ambient,0.755,space,0.738,https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4
+0353,4M29ChUjPdXXhzTNf3aDzM,Endless Everything,Tibeauthetraveler,Moving On,175093,34,peaceful,0.644,ocean,0.577,mellow,0.52,nature,0.486,sleepy,0.461,https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4
+0354,2KgqCCOls8baUBBQvhew8W,Secret Path,Tibeauthetraveler,Moving On,186245,31,home,1.284,winter,1.142,ocean,0.862,dreamy,0.733,cozy,0.651,https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4
+0355,0fT0OyrC2d4MnOI9YcZYAz,Paper Boats,eleven;Hoogway,Raabta,155294,37,ocean,1.267,nostalgic,1.184,dreamy,0.37,peaceful,0.369,cozy,0.353,https://i.scdn.co/image/ab67616d0000b27394c1446a8cfba676dcdc9c59
+0356,3uf7R108p61hCQFfR6vTzA,Boundless,eleven;Lucid Keys,Raabta,157090,25,ocean,2.03,nature,1.639,space,1.572,peaceful,1.476,ambient,1.408,https://i.scdn.co/image/ab67616d0000b27394c1446a8cfba676dcdc9c59
+0357,3ZML0n7Rr2kerLJUkmwwff,Shifting Paths,eleven;Mondo Loops,Raabta,169411,33,ocean,0.825,rain,0.56,peaceful,0.541,dreamy,0.491,nature,0.259,https://i.scdn.co/image/ab67616d0000b27394c1446a8cfba676dcdc9c59
+0358,09v67kYhGUDp8NvZtgf2DR,Misty Meadows,eleven;Mondo Loops,Raabta,137142,50,minimal,1.439,dreamy,1.321,dark,1.307,melancholic,1.303,slow,1.112,https://i.scdn.co/image/ab67616d0000b27394c1446a8cfba676dcdc9c59
+0359,6SCDEJ6hgm8JfWRFjMYT8l,Serene Calls,eleven;Hoogway,Raabta,163200,26,nostalgic,0.733,bass-heavy,0.687,upbeat,0.262,cafe,0.195,guitar,0.125,https://i.scdn.co/image/ab67616d0000b27394c1446a8cfba676dcdc9c59
+0360,7AFqQwGGPkUcQeXNbLO3C6,Skyriding,eleven;Your Magnolia;Cosmic Koala,Raabta,144948,38,rain,1.891,cafe,1.111,sad,0.959,vinyl crackle,0.944,ocean,0.748,https://i.scdn.co/image/ab67616d0000b27394c1446a8cfba676dcdc9c59
+0361,4fwxA10TYuEakldFXtdRkA,Odyssey,eleven;Dimension 32,Raabta,176000,36,peaceful,0.781,nostalgic,0.745,dreamy,0.732,home,0.666,chill,0.54,https://i.scdn.co/image/ab67616d0000b27394c1446a8cfba676dcdc9c59
+0362,0EaJdD4PV92yaIIQq9V3C7,Fire Unicorn,Blue Fox,Sunny Hill,155844,41,sad,1.619,home,1.327,rain,1.229,melancholic,1.187,winter,1.082,https://i.scdn.co/image/ab67616d0000b273e96500da18bf7b57511088c6
+0363,2CETynJr1yy1NnGwbq9jRu,Golden Deer,Blue Fox,Sunny Hill,162406,35,home,1.241,peaceful,1.23,night,1.225,winter,1.121,mellow,1.099,https://i.scdn.co/image/ab67616d0000b273e96500da18bf7b57511088c6
+0364,0aoBELKjUqTl644TmekR6q,Veja,Blue Fox,Sunny Hill,232000,42,cafe,1.325,night,0.93,ocean,0.888,rain,0.669,ambient,0.624,https://i.scdn.co/image/ab67616d0000b273e96500da18bf7b57511088c6
+0365,4PJA45zr1x7cvUMGFlrVsW,Sunny Hill,Blue Fox,Sunny Hill,142702,37,minimal,3.716,focus,2.429,guitar,2.267,bass-heavy,2.138,slow,2.132,https://i.scdn.co/image/ab67616d0000b273e96500da18bf7b57511088c6
+0366,0niiRKkWIfssxMkmk2ulaD,Elf,Blue Fox,Sunny Hill,132537,50,bossa nova,0.901,jazz,0.89,groovy,0.713,cozy,0.263,vinyl crackle,0.075,https://i.scdn.co/image/ab67616d0000b273e96500da18bf7b57511088c6
+0367,2H8xkDYL6Ld1RFzuV5OlDF,House At The River,Blue Fox,Sunny Hill,167272,38,rain,1.261,sad,1.25,vinyl crackle,0.86,melancholic,0.783,piano,0.28,https://i.scdn.co/image/ab67616d0000b273e96500da18bf7b57511088c6
+0368,6lqnKKfV6WaHAMUgFikMro,Arcturus,Blue Fox,Sunny Hill,210857,40,jazz,0.606,bossa nova,0.387,cafe,-0.188,groovy,-0.219,vinyl crackle,-0.222,https://i.scdn.co/image/ab67616d0000b273e96500da18bf7b57511088c6
+0369,0AzP2jIRIeocP07a0YAQEc,Brigit,Cosmic Koala;Lucid Keys,The Tale of the Druids,166553,31,sad,2.225,melancholic,2.217,peaceful,1.928,dreamy,1.822,home,1.686,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0370,06XGY0JmxkTtTS73MfQs8A,Abelio,Cosmic Koala;Lucid Keys;plutones,The Tale of the Druids,126866,30,home,1.352,winter,0.856,nostalgic,0.81,nature,0.765,jazz,0.73,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0371,6ntATlojKEdyB6MgeMXQBl,Aereda,Cosmic Koala;Lucid Keys,The Tale of the Druids,119365,35,nature,2.841,minimal,1.493,ocean,1.389,ambient,1.331,peaceful,1.044,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0372,2jYXc5GkS2NgZVLNSlORDv,Ogmios,Cosmic Koala;Lucid Keys,The Tale of the Druids,137808,30,rain,1.549,guitar,1.42,focus,1.034,melancholic,0.841,sad,0.783,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0374,4yPzZUNCmwTWZ3dPg5B2WF,Noreia,Cosmic Koala;Lucid Keys;Dimension 32,The Tale of the Druids,136836,36,sad,2.266,melancholic,1.719,peaceful,1.612,minimal,1.248,lonely,1.156,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0375,2qmfNIVMFwuFBwGeqyTmao,Lugh,Cosmic Koala;Lucid Keys,The Tale of the Druids,141100,34,cozy,1.354,space,1.311,chill,1.263,spacey,1.2,mellow,1.17,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0376,1zWsbksb4KDR20z23ZrqdW,Aengus,Cosmic Koala;Lucid Keys;Wishes and Dreams,The Tale of the Druids,145188,27,rain,1.432,nature,1.22,vinyl crackle,0.806,ocean,0.657,minimal,0.425,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0377,1gzwljup95M1UfYfQFfKHB,Borvo,Cosmic Koala;Lucid Keys;niv.,The Tale of the Druids,116839,27,sad,1.919,melancholic,1.33,minimal,1.225,dark,0.985,peaceful,0.25,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0378,4uGmO9fJT72fVDU6rxU2n7,Toutatis,Cosmic Koala;Lucid Keys,The Tale of the Druids,148294,50,nature,2.491,sad,0.526,lonely,0.456,peaceful,0.369,guitar,0.343,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0379,3xTJhVl2XzRN6E9DBzWmzA,Bricta,Cosmic Koala;Lucid Keys,The Tale of the Druids,119483,33,nostalgic,1.395,minimal,1.269,night,1.256,space,1.196,hopeful,1.174,https://i.scdn.co/image/ab67616d0000b2739d289cc84c98cebde397cfc3
+0380,4JgMzK0ileaZmIrm9pNSC1,Shadows,Dosi,Haunted Castle,157500,51,rain,1.721,sad,1.194,melancholic,0.829,vinyl crackle,0.543,dark,0.476,https://i.scdn.co/image/ab67616d0000b2736c1a88c09f7f93a616727bf1
+0381,3ih5XZhO7lwIpYhlvfbGYq,Crackling,Dosi;Jam'addict,Haunted Castle,135211,33,cafe,2.195,upbeat,1.626,bossa nova,1.608,focus,1.353,groovy,1.302,https://i.scdn.co/image/ab67616d0000b2736c1a88c09f7f93a616727bf1
+0382,6BSRc1uxPY5lSRwoFpuczZ,Melancholia,Dosi,Haunted Castle,150000,33,home,0.73,sad,0.669,bossa nova,0.531,melancholic,0.281,ocean,0.246,https://i.scdn.co/image/ab67616d0000b2736c1a88c09f7f93a616727bf1
+0383,0ul89yEKIi4mTAy2clvBv8,Abandoned Graveyard,Dosi;Tonion,Haunted Castle,183529,35,sad,2.009,dark,1.518,rain,1.079,minimal,0.851,nature,0.767,https://i.scdn.co/image/ab67616d0000b2736c1a88c09f7f93a616727bf1
+0384,1DP1ybJh52Qyx5TaYcRCuI,Fear,Dosi,Haunted Castle,127941,39,ocean,0.883,cozy,0.84,winter,0.75,bossa nova,0.74,home,0.737,https://i.scdn.co/image/ab67616d0000b2736c1a88c09f7f93a616727bf1
+0385,4fZTdcEqlhTFXvpJ56HrR3,Mystery,Dosi,Haunted Castle,141176,37,bossa nova,1.198,mellow,0.799,chill,0.798,groovy,0.757,cafe,0.676,https://i.scdn.co/image/ab67616d0000b2736c1a88c09f7f93a616727bf1
+0386,2xhifdQo5nHYSi0a6qoXNa,hopeful dreams,Kanisan;Dario Lessing;Claudia Lessing,Edda,149716,37,piano,1.153,melancholic,1.124,sad,1.036,cafe,0.976,home,0.89,https://i.scdn.co/image/ab67616d0000b27309855b3c853723bb2c116af2
+0387,313sTCLxVaZJYpQMV5FPNH,edda,Kanisan;Dario Lessing;Claudia Lessing,Edda,114461,51,piano,1.086,cafe,1.082,melancholic,0.575,sad,0.306,home,0.255,https://i.scdn.co/image/ab67616d0000b27309855b3c853723bb2c116af2
+0388,6C5t9xNU9m1JD4BswnhFYW,white silence,Kanisan;Dario Lessing;Claudia Lessing,Edda,109090,38,bossa nova,1.17,vinyl crackle,0.767,cozy,0.732,jazz,0.397,chill,0.379,https://i.scdn.co/image/ab67616d0000b27309855b3c853723bb2c116af2
+0389,5BJb8YstBP2Hg9txfjDcFY,light and shadow,Kanisan;Claudia Lessing;Dario Lessing,Edda,119105,35,jazz,1.613,bossa nova,1.003,vinyl crackle,0.57,cafe,0.568,groovy,0.461,https://i.scdn.co/image/ab67616d0000b27309855b3c853723bb2c116af2
+0390,4D1MDOYFx9viNu2mXtFFJk,dance of the fairy,Kanisan;Claudia Lessing;Dario Lessing,Edda,118153,37,bossa nova,0.589,groovy,0.343,jazz,0.105,home,0.061,cozy,-0.001,https://i.scdn.co/image/ab67616d0000b27309855b3c853723bb2c116af2
+0391,6mNZTxtI2x9ZkRfgWDh37Q,shining,Kanisan;Claudia Lessing;Dario Lessing,Edda,100588,35,home,0.884,ocean,0.869,hopeful,0.804,ambient,0.637,lonely,0.625,https://i.scdn.co/image/ab67616d0000b27309855b3c853723bb2c116af2
+0392,1wIPb4Owi13RDAQmC6VS6s,wandering in a ghost city,Kanisan;Dario Lessing;Claudia Lessing,Edda,135383,32,upbeat,0.73,minimal,0.571,nostalgic,0.465,melancholic,0.465,sad,0.235,https://i.scdn.co/image/ab67616d0000b27309855b3c853723bb2c116af2
+0393,59a1xncxceNUlYqBHExk4O,watercrystals,Kanisan;Dario Lessing;Claudia Lessing,Edda,115208,37,melancholic,1.433,peaceful,1.351,ocean,1.104,cafe,1.074,sad,1.052,https://i.scdn.co/image/ab67616d0000b27309855b3c853723bb2c116af2
+0394,5MVMBeH5ISlhTyAm3oif8y,Upon The Dusk,Kainbeats;Wishes and Dreams,Finding Light,124878,39,cafe,2.125,night,1.961,dark,1.857,melancholic,1.692,nostalgic,1.689,https://i.scdn.co/image/ab67616d0000b2732c8c3484505a9ba7e4f47923
+0395,7qEF1U50zlBmH5KC3kR058,We All Feel Darkness,Kainbeats;idylla,Finding Light,117138,53,spacey,2.241,ambient,2.175,lonely,2.032,hopeful,1.97,space,1.934,https://i.scdn.co/image/ab67616d0000b2732c8c3484505a9ba7e4f47923
+0396,7j8ypeO5nryiLTICdqKQa0,Light Will Chase It Away,Kainbeats;Tonion,Finding Light,146319,34,piano,1.694,melancholic,1.407,rain,1.357,nature,1.168,winter,1.158,https://i.scdn.co/image/ab67616d0000b2732c8c3484505a9ba7e4f47923
+0397,1b9NGjbzUqXmku7WEGnsff,Glacier,Kainbeats;Wishes and Dreams,Finding Light,122800,38,spacey,1.782,space,1.674,nostalgic,1.644,chill,1.531,warm,1.472,https://i.scdn.co/image/ab67616d0000b2732c8c3484505a9ba7e4f47923
+0398,28C9FHP7jt1ImXFtkIc4NQ,Duty Calls,Kainbeats;Casiio,Finding Light,114285,37,vinyl crackle,1.711,dark,1.323,ocean,1.206,rain,0.964,night,0.934,https://i.scdn.co/image/ab67616d0000b2732c8c3484505a9ba7e4f47923
+0399,6vng8m2ZoX0hg3IgvmPIC5,Transfiguration,Kainbeats;Kanisan,Finding Light,156939,40,rain,1.194,nature,1.001,piano,0.917,sad,0.318,melancholic,0.247,https://i.scdn.co/image/ab67616d0000b2732c8c3484505a9ba7e4f47923
+0400,4doPcjm4CbcEfb78OWnNAI,At The Precipice,Kainbeats;Kanisan,Finding Light,195797,34,sad,1.148,melancholic,0.638,minimal,-0.101,piano,-0.607,vinyl crackle,-0.665,https://i.scdn.co/image/ab67616d0000b2732c8c3484505a9ba7e4f47923
+0401,0ZQgHYcsBXYDEBVrpwpNej,Echoes Of The Past,Mondo Loops;Kanisan,Lonely Days,118153,31,vinyl crackle,0.341,groovy,0.166,chill,0.16,piano,0.042,peaceful,0.033,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0402,6FRLL8SFjBjXmgI7hBCGX7,Letting Go,xander.;No Spirit,Lonely Days,205714,38,minimal,1.412,sad,1.347,nature,0.938,night,0.794,melancholic,0.695,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0404,70LVbPKzAEj7ZhHX35Q8ip,Saudade,Prithvi;sftspkn,Lonely Days,132923,30,rain,1.684,vinyl crackle,1.389,piano,0.748,sad,0.719,home,0.61,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0405,3t9BQ6joLgeotwMQ7jWbfM,Why Am I Here,Thaehan,Lonely Days,171642,36,bossa nova,0.683,guitar,0.563,jazz,0.089,nostalgic,0.087,cafe,0.025,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0406,7rO99Jd1mnuu8hV1vmllgi,Shifting Realities,Peak Twilight;Lenny Loops,Lonely Days,129229,37,peaceful,1.063,sad,0.978,melancholic,0.95,mellow,0.625,dreamy,0.473,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0408,1ggLMZjI64xMABu4OFma9X,Crying Sky,Purrple Cat,Lonely Days,223578,39,rain,1.89,sad,1.459,melancholic,1.443,home,1.406,winter,1.064,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0409,1If1m28gj9l1Wa6QSacdgM,Illusions We Shared,Lenny Loops;Peak Twilight;Tonion,Lonely Days,145600,36,vinyl crackle,1.36,sad,1.351,jazz,0.999,dark,0.925,night,0.87,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0410,6pgZf9I9yj4M5c08r4sZgk,What We've Lost,Raimu;Dontcry,Lonely Days,186461,19,dark,1.177,melancholic,1.167,sad,1.099,cozy,1.051,dreamy,0.987,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0411,78vdMqwqec49UiVdDgIXAW,Sorrow,HoKø;Lucie Cravero,Lonely Days,148134,31,rain,1.99,vinyl crackle,1.197,sad,0.843,piano,0.768,jazz,0.645,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0412,5A8cShtR9b4B0c7H2O05vo,Haunted Dreams,Lucid Keys,Lonely Days,148545,36,rain,1.75,vinyl crackle,1.175,sad,0.745,home,0.614,cozy,0.609,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0413,7n27Tel4mhxC9pbPKYP0Vv,Loveblind,Krynoze;Goson,Lonely Days,150572,31,sad,1.857,rain,0.901,melancholic,0.66,nature,0.296,home,0.121,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0417,6GqzJcU0pM2cGm209GAXnx,Peau De Chagrin,Dimension 32,Lonely Days,173571,32,sad,2.112,melancholic,1.655,rain,1.423,dark,1.305,night,1.271,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0420,6cJ2xRnIbsS80aIajzzIeB,Suspended Emotions,stream_error;H.1,Lonely Days,159381,39,space,2.72,spacey,2.453,hopeful,2.326,ambient,2.257,upbeat,2.198,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0422,1nEu30zbfRvJn1y2lkBN6U,Distorted Memories,amies,Lonely Days,200597,32,rain,2.409,piano,1.847,winter,1.843,home,1.829,dreamy,1.564,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0423,2ryYQEZr2ezInhiEuoAVQk,In The End,Mondo Loops,Lonely Days,156521,34,jazz,0.694,nostalgic,0.534,guitar,0.151,upbeat,-0.107,groovy,-0.179,https://i.scdn.co/image/ab67616d0000b2731a80691f912369ca5d68903f
+0424,0rCb94sJeCJW6nRCKXzOvc,Last Journey,softy;Wishes and Dreams,Secrets of Castle,160454,36,cafe,0.643,sad,0.25,melancholic,-0.494,minimal,-0.965,home,-0.973,https://i.scdn.co/image/ab67616d0000b273709a009b4411391ccf85e05b
+0425,5UALqq1tfKGMpkVkSs43Wi,Fairy Tales,softy;Wishes and Dreams,Secrets of Castle,171642,36,vinyl crackle,0.942,piano,0.537,sad,0.301,bossa nova,0.149,melancholic,0.139,https://i.scdn.co/image/ab67616d0000b273709a009b4411391ccf85e05b
+0426,1u4IMNpmkgDyUBRQeQOwJJ,The Way to Dawn,softy;Wishes and Dreams,Secrets of Castle,156818,50,minimal,1.941,ambient,1.505,sad,1.405,night,1.4,cafe,1.249,https://i.scdn.co/image/ab67616d0000b273709a009b4411391ccf85e05b
+0427,4iioifJrYLS0rRxuDXfnH0,The Mist,softy;Wishes and Dreams,Secrets of Castle,174545,35,minimal,1.793,ambient,1.379,bass-heavy,1.353,guitar,1.24,lonely,1.114,https://i.scdn.co/image/ab67616d0000b273709a009b4411391ccf85e05b
+0428,4FpsB0uaWQnlz5wV8d3suE,Rose Petals,softy;Wishes and Dreams,Secrets of Castle,156222,36,piano,1.724,cafe,1.54,vinyl crackle,1.349,rain,1.272,minimal,0.807,https://i.scdn.co/image/ab67616d0000b273709a009b4411391ccf85e05b
+0429,657DVa02kdu6PeUiwpGuCM,Eternal Night,softy;Wishes and Dreams,Secrets of Castle,171692,31,piano,1.463,cafe,1.073,home,0.546,bossa nova,0.402,sad,0.288,https://i.scdn.co/image/ab67616d0000b273709a009b4411391ccf85e05b
+0430,33dMN5f5LP0IxZJJJsNnH4,Dissipate,Purrple Cat,Distant Worlds III,128599,32,space,0.597,spacey,0.466,nostalgic,0.416,sleepy,0.359,melancholic,0.301,https://i.scdn.co/image/ab67616d0000b27333ea295229be9ce88d4660d2
+0431,6OaHMXpbZxb7fUOrtHNQTz,Out There,Purrple Cat,Distant Worlds III,160653,38,rain,2.165,vinyl crackle,1.543,sad,1.231,winter,1.23,dark,1.219,https://i.scdn.co/image/ab67616d0000b27333ea295229be9ce88d4660d2
+0432,3QcKpTxYTIPkUhCaWJZnVP,Kugelblitz,Purrple Cat,Distant Worlds III,165538,34,rain,1.694,melancholic,1.398,sad,1.325,home,1.146,winter,1.113,https://i.scdn.co/image/ab67616d0000b27333ea295229be9ce88d4660d2
+0434,289O3yfkVC0vsXMz1yJYUH,Message From Home,Purrple Cat,Distant Worlds III,199673,35,piano,1.564,vinyl crackle,1.492,home,1.466,melancholic,1.288,sad,1.199,https://i.scdn.co/image/ab67616d0000b27333ea295229be9ce88d4660d2
+0435,3utaBd0Q6FyWGILUiTC6jQ,Forgotten Places,Purrple Cat,Distant Worlds III,158401,38,winter,1.866,home,1.711,night,1.69,cozy,1.633,dreamy,1.596,https://i.scdn.co/image/ab67616d0000b27333ea295229be9ce88d4660d2
+0436,3PulDDVrZjFbJxoDeLcHlJ,Anomaly,Purrple Cat,Distant Worlds III,185978,37,rain,1.674,vinyl crackle,1.623,winter,1.592,night,1.48,space,1.313,https://i.scdn.co/image/ab67616d0000b27333ea295229be9ce88d4660d2
+0437,6SpbYqOKxgTt63in066e4a,Exoplanet,Purrple Cat,Distant Worlds III,145049,47,rain,1.715,piano,1.542,melancholic,1.242,sad,1.164,vinyl crackle,1.082,https://i.scdn.co/image/ab67616d0000b27333ea295229be9ce88d4660d2
+0438,4tUpudBGo90zCYPNCzlpec,Space Pirates,Purrple Cat,Distant Worlds III,140522,38,rain,2.062,vinyl crackle,0.898,minimal,0.86,piano,0.839,melancholic,0.805,https://i.scdn.co/image/ab67616d0000b27333ea295229be9ce88d4660d2
+0439,0UqnsB2mtyAvl4xqYt5otR,42,Purrple Cat,Distant Worlds III,202875,38,rain,2.061,bossa nova,1.379,night,1.37,dark,1.084,sleepy,1.057,https://i.scdn.co/image/ab67616d0000b27333ea295229be9ce88d4660d2
+0440,2MXfyA9vSg5ZRLEN6DWstM,Sundials,Cosmic Koala;Lucid Keys,Beautiful Days,159682,39,nature,0.893,nostalgic,-0.028,guitar,-0.74,sad,-0.904,jazz,-0.968,https://i.scdn.co/image/ab67616d0000b2731d4ca3b016a3586fae5687e5
+0441,7aQA4erMUpESpteKApcLWg,Fairy Tales,Cosmic Koala;Lucid Keys,Beautiful Days,163819,37,nature,1.837,nostalgic,1.075,home,1.034,peaceful,0.767,sad,0.741,https://i.scdn.co/image/ab67616d0000b2731d4ca3b016a3586fae5687e5
+0443,7vWU7z6GAbJuQgsVSriod9,Sweet Meetings,Cosmic Koala;Dimension 32;Lucid Keys,Beautiful Days,151708,47,nature,1.675,sad,1.51,melancholic,0.828,home,0.719,peaceful,0.303,https://i.scdn.co/image/ab67616d0000b2731d4ca3b016a3586fae5687e5
+0444,4RKIa8mZHItAF61rcvLJem,Soothe,Cosmic Koala;Lucid Keys,Beautiful Days,143181,31,nature,1.667,sad,0.962,peaceful,0.485,home,0.292,melancholic,0.158,https://i.scdn.co/image/ab67616d0000b2731d4ca3b016a3586fae5687e5
+0445,5aoZcFRIg7Ji7bSI8dJRN7,Tree Of Flowers,xander.,"Cabin Fever, Pt. 3",183000,31,jazz,1.79,groovy,1.602,vinyl crackle,1.127,bossa nova,0.72,chill,0.72,https://i.scdn.co/image/ab67616d0000b27368127c4b6f2502186c9e8706
+0446,7jkehfDsZimDy2kYLyxsLu,Look Up,xander.,"Cabin Fever, Pt. 3",138947,36,bossa nova,1.526,groovy,1.438,jazz,1.273,upbeat,0.264,cafe,0.097,https://i.scdn.co/image/ab67616d0000b27368127c4b6f2502186c9e8706
+0447,2zxLwV89FTRguRJAgFJSTL,A Little Lonely,xander.,"Cabin Fever, Pt. 3",174000,36,nature,1.305,guitar,0.424,minimal,0.265,nostalgic,-0.153,vinyl crackle,-0.192,https://i.scdn.co/image/ab67616d0000b27368127c4b6f2502186c9e8706
+0448,0bulHwJ0RRe8tKve01HIV6,Union,xander.;Philip Somber;Dario Lessing,"Cabin Fever, Pt. 3",176842,29,jazz,0.898,cafe,0.62,piano,0.605,vinyl crackle,0.522,groovy,0.153,https://i.scdn.co/image/ab67616d0000b27368127c4b6f2502186c9e8706
+0449,0btpkq8i4yCP05HUDVGHBX,Wall,xander.;No Spirit,"Cabin Fever, Pt. 3",211862,49,nature,1.015,rain,0.726,minimal,0.544,vinyl crackle,0.489,sad,0.228,https://i.scdn.co/image/ab67616d0000b27368127c4b6f2502186c9e8706
+0450,1Sx5lEQ9fiXXaWt2j0wOW5,Careless,xander.;No Spirit,"Cabin Fever, Pt. 3",235200,34,groovy,1.952,bossa nova,1.445,chill,1.315,jazz,1.134,vinyl crackle,0.988,https://i.scdn.co/image/ab67616d0000b27368127c4b6f2502186c9e8706
+0451,3VSJ8bEeuSSgI9AJOb8pJm,Defensive,xander.;Philip Somber,"Cabin Fever, Pt. 3",221666,31,vinyl crackle,1.299,bossa nova,1.004,groovy,0.754,jazz,0.713,chill,-0.044,https://i.scdn.co/image/ab67616d0000b27368127c4b6f2502186c9e8706
+0452,0BNqTlvHak1qduVH9iblpP,Moon To Sun,xander.;Ornithology,"Cabin Fever, Pt. 3",203636,28,nature,0.463,sad,-0.168,peaceful,-1.278,melancholic,-1.434,cafe,-1.443,https://i.scdn.co/image/ab67616d0000b27368127c4b6f2502186c9e8706
+0453,2VohDWvc1KLNEGwMMA1Hig,No Need For Her,xander.;No Spirit,"Cabin Fever, Pt. 3",172602,20,vinyl crackle,1.795,cafe,1.77,upbeat,1.709,bass-heavy,1.695,bossa nova,1.667,https://i.scdn.co/image/ab67616d0000b27368127c4b6f2502186c9e8706
+0454,1ZWd4kJoM1WkMspdsafSZh,Berlin,Sebastian Kamae,Skylines,173913,49,guitar,0.911,groovy,0.895,jazz,0.446,nostalgic,0.313,hopeful,0.313,https://i.scdn.co/image/ab67616d0000b273643f18e672290824afe13ead
+0455,7h4nxChCpKKKMvhhpwYwWi,Willows,Sebastian Kamae;Intoku,Skylines,157611,37,spacey,1.791,hopeful,1.62,chill,1.578,space,1.556,warm,1.47,https://i.scdn.co/image/ab67616d0000b273643f18e672290824afe13ead
+0456,5JZR5RpxCwqVIsinjRhTU9,Skylines,Sebastian Kamae,Skylines,112000,39,bossa nova,1.797,jazz,1.12,vinyl crackle,0.696,groovy,0.406,piano,0.351,https://i.scdn.co/image/ab67616d0000b273643f18e672290824afe13ead
+0457,1EU9abWzzqDLDHEFQZDlUw,Floating,Sebastian Kamae;Epona,Skylines,150000,38,ocean,1.781,night,1.44,dark,1.383,nostalgic,1.277,vinyl crackle,1.217,https://i.scdn.co/image/ab67616d0000b273643f18e672290824afe13ead
+0458,2Hx1389iBnxfZRkNi2k9CV,Balloons,Sebastian Kamae;Casiio,Skylines,130378,36,vinyl crackle,1.411,rain,1.238,ocean,0.588,winter,0.579,space,0.349,https://i.scdn.co/image/ab67616d0000b273643f18e672290824afe13ead
+0459,2lncpV5nqESEi879IioOc2,Windcatchers,Sebastian Kamae;Sleepermane,Skylines,132636,27,rain,2.579,minimal,2.41,night,2.019,ocean,1.97,nature,1.96,https://i.scdn.co/image/ab67616d0000b273643f18e672290824afe13ead
+0460,6SOD0v5vUg4bsPKmhSMnqN,Complex Visions,Dimension 32,Mutations,176437,33,sad,2.36,melancholic,1.232,guitar,0.729,peaceful,0.611,lonely,0.348,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0461,4Sb0FfjZ2xOYnLdnfwfJQJ,Obscura Luna,Dimension 32;Kanisan;Wishes and Dreams,Mutations,116417,27,piano,1.335,melancholic,1.112,vinyl crackle,1.064,sad,0.994,cafe,0.92,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0462,3KncTeaLslBu3n13TOcArp,A New Age,Dimension 32,Mutations,154285,29,sad,1.496,cafe,1.416,melancholic,1.322,night,1.318,ambient,1.251,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0463,6MLQYTgHkVJQYzFbiUI67G,Et Vincit Per Luce,Dimension 32;Wishes and Dreams,Mutations,140000,25,minimal,2.094,piano,1.54,dark,1.494,rain,1.443,vinyl crackle,1.207,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0464,18oqkp1PuYDTc39Hf8HdIc,Light In The Dark,Dimension 32,Mutations,161250,34,sad,1.756,minimal,1.214,melancholic,1.155,night,1.026,lonely,0.923,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0465,2OX4UFudE7PL37wYIQruoA,Ténèbres,Dimension 32;Lucid Keys,Mutations,157611,30,vinyl crackle,1.592,sad,1.436,rain,1.282,melancholic,0.616,jazz,0.423,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0466,5YIB9p6o89H9s9SAG7wWjN,Begin The End,Dimension 32,Mutations,185500,28,sad,1.252,melancholic,1.122,guitar,1.074,home,0.919,nostalgic,0.827,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0468,3PmHm0qjboOcPVbFTwocRK,The Way Out,Dimension 32,Mutations,162461,32,guitar,1.431,sad,0.817,rain,0.799,winter,0.666,nostalgic,0.664,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0469,3qNHLruAZsYo9qwhYEcHwk,Lacrima Rossa,Dimension 32,Mutations,180923,47,guitar,1.437,rain,0.848,vinyl crackle,0.823,sad,0.63,nostalgic,0.47,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0470,4TAehdDW6OK8gGGtWkQNIl,Under Your Spell,Dimension 32,Mutations,178928,31,sad,1.989,melancholic,1.639,peaceful,1.285,lonely,1.026,dreamy,0.906,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0471,5XWJqqdwa72vjoxkdyywor,The Broken Parts,Dimension 32,Mutations,166000,29,sad,1.264,peaceful,1.251,lonely,0.973,dreamy,0.96,ambient,0.891,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0472,6f139nUZk8GiAdWZqpYNRQ,Volcano Eye,Dimension 32,Mutations,148189,33,rain,1.436,vinyl crackle,1.361,guitar,1.122,ambient,1.061,lonely,1.057,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0473,3vL2HYeEXvHY9nOsFMJF77,Nuit Noire,Dimension 32,Mutations,182588,36,sad,1.685,peaceful,1.64,ambient,1.499,lonely,1.442,ocean,1.202,https://i.scdn.co/image/ab67616d0000b273ce1abb34417806ac7ee6067d
+0474,2ap3YJc28FcSfxBkr6JLJs,Unravel,Yasumu,Unravel,128272,31,ocean,0.444,chill,0.401,cozy,0.38,hopeful,0.37,lonely,0.333,https://i.scdn.co/image/ab67616d0000b27360ef049475bed1c1eeba157f
+0475,0Zd6vpdGrEuc6G3vFgeCFT,The Things I Did,Yasumu,Unravel,141267,37,upbeat,1.726,nostalgic,1.655,minimal,1.578,piano,1.49,space,1.4,https://i.scdn.co/image/ab67616d0000b27360ef049475bed1c1eeba157f
+0476,6NSt18nnqXJ12qVzc2gpbN,Seeking Change,Yasumu,Unravel,142260,34,piano,1.732,chill,1.573,dark,1.505,melancholic,1.448,cozy,1.375,https://i.scdn.co/image/ab67616d0000b27360ef049475bed1c1eeba157f
+0477,4mIz7RBICX7CUXKIcPTzDz,Just Wait,Yasumu;Nadav Cohen,Unravel,134475,34,melancholic,0.983,sad,0.883,cozy,0.784,chill,0.64,upbeat,0.563,https://i.scdn.co/image/ab67616d0000b27360ef049475bed1c1eeba157f
+0478,5XoWNp7kWTaxTvhE6915ic,Beneath The Surface,Yasumu;Nadav Cohen,Unravel,126192,34,chill,0.597,groovy,0.559,spacey,0.559,hopeful,0.476,warm,0.198,https://i.scdn.co/image/ab67616d0000b27360ef049475bed1c1eeba157f
+0479,3W6khkN9SIK1jEPOpKcl5y,On My Own,Yasumu,Unravel,129817,35,chill,1.56,focus,1.338,cozy,1.324,upbeat,1.305,hopeful,1.296,https://i.scdn.co/image/ab67616d0000b27360ef049475bed1c1eeba157f
+0480,1YcA4FOohJCZx21notkOkK,Voice Of The Forest,Yasumu;No Spirit,Unravel,170711,50,cozy,1.059,home,1.01,groovy,0.722,dreamy,0.705,space,0.695,https://i.scdn.co/image/ab67616d0000b27360ef049475bed1c1eeba157f
+0481,0yO5wwBKf9EtYcNDW8XP0g,Floating Hands,Yasumu,Unravel,137238,32,cafe,2.104,piano,1.586,bass-heavy,1.536,slow,1.382,upbeat,1.33,https://i.scdn.co/image/ab67616d0000b27360ef049475bed1c1eeba157f
+0482,5NB61fBpNO1HWnmG7mmXEm,Sunrise Over Casablanca,Nadav Cohen,Tales From Babylon,212000,33,bossa nova,1.755,jazz,1.44,guitar,0.422,groovy,0.375,nostalgic,-0.111,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0483,7cDU7Iyp3Fryfz5ZOzRAxs,Voices of My Ancestors,Nadav Cohen,Tales From Babylon,66000,33,space,2.318,spacey,1.874,dark,1.632,dreamy,1.629,ambient,1.613,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0484,3XQigG1zzW7jVV5wG5yhj2,Ouyouni,Nadav Cohen,Tales From Babylon,172000,32,guitar,0.541,jazz,0.397,groovy,0.365,nature,0.308,nostalgic,0.189,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0485,6itqZ3UkhCDGBvypkRP8sE,1935 Baghdad,Nadav Cohen,Tales From Babylon,150500,36,guitar,1.443,nostalgic,1.192,hopeful,1.175,piano,0.971,bass-heavy,0.94,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0486,4uhD3nwTz6yLWAm8AHb57e,Marrakesh,Nadav Cohen,Tales From Babylon,192000,35,ambient,1.223,sad,1.142,peaceful,1.123,ocean,1.108,nature,0.969,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0487,29BR0kWy3PyrEsxqUJ4ymz,Saba,Nadav Cohen,Tales From Babylon,179000,33,cafe,1.745,minimal,0.627,ambient,-0.574,mellow,-0.68,nature,-0.723,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0488,63StUlHgL18UddRFFrlyfh,Flying Colours,Nadav Cohen,Tales From Babylon,175500,33,minimal,0.98,ocean,0.875,nature,0.796,ambient,0.788,spacey,0.439,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0489,6pTcVLVlDJjlU6pkaa0rSQ,Tziporrah,Nadav Cohen,Tales From Babylon,166000,53,nostalgic,1.072,jazz,0.966,upbeat,-0.017,bossa nova,-0.045,cafe,-0.076,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0490,6RGH1mp0NeqgJvGsnNNtFB,Soul of The Desert,Nadav Cohen,Tales From Babylon,188000,28,minimal,1.206,nature,0.839,cafe,-0.715,ambient,-1.232,bass-heavy,-1.459,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0491,2az1vEjIMYHtKQgJScoDdV,Blessing In Disguise,Nadav Cohen,Tales From Babylon,171000,35,bass-heavy,0.689,spacey,0.27,ocean,0.247,cafe,0.169,minimal,0.159,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0492,0PRHBdpCxBprD1aq4Ma1d0,Ascending To Heaven,Nadav Cohen,Tales From Babylon,162000,34,jazz,1.312,sad,0.518,cafe,0.398,bossa nova,0.265,groovy,0.222,https://i.scdn.co/image/ab67616d0000b2733292baf7200587a547c2ae9d
+0493,1LuaRQKdkR6AcSHmXRUrAR,Back to the Source,Team Astro,Hidden Treasure,160687,36,jazz,2.299,bass-heavy,1.118,groovy,0.94,ocean,0.696,guitar,0.691,https://i.scdn.co/image/ab67616d0000b273f7a51da36a35ab254953719d
+0494,78SzrE578dcJyJEBQeuCS0,Intersafe,Team Astro,Hidden Treasure,170555,38,vinyl crackle,0.92,guitar,0.826,rain,0.419,jazz,0.175,bossa nova,0.086,https://i.scdn.co/image/ab67616d0000b273f7a51da36a35ab254953719d
+0495,4PGaMtP5HLcPTiNEevGj82,Final Destination,Team Astro,Hidden Treasure,154038,37,vinyl crackle,1.07,bossa nova,1.017,jazz,0.964,guitar,0.819,rain,0.303,https://i.scdn.co/image/ab67616d0000b273f7a51da36a35ab254953719d
+0496,0jZSgUo5cTbJwuTIghjZB8,Jupiter,Team Astro,Hidden Treasure,175865,46,jazz,1.286,cafe,0.867,bass-heavy,0.777,groovy,0.701,vinyl crackle,0.531,https://i.scdn.co/image/ab67616d0000b273f7a51da36a35ab254953719d
 0497,6wpE2xzxCuur6rw7rYLKDY,2112,Team Astro,Hidden Treasure,163269,33,jazz,0.764,groovy,0.189,minimal,-0.219,nostalgic,-0.42,bass-heavy,-0.506,
 0498,11FAXqc95gvqYmzirZXfTo,Daylight,Team Astro,Hidden Treasure,181708,34,jazz,1.125,bossa nova,0.898,vinyl crackle,0.624,nostalgic,0.461,groovy,0.293,
 0499,02b19Yx7KtqRyjqsnlsrbF,it's raining,another silent weekend;Blurred Figures,one particular moment,140625,37,hopeful,2.274,spacey,2.256,space,2.099,upbeat,2.056,nostalgic,1.999,

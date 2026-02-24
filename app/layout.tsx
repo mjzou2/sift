@@ -16,8 +16,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Sift - Lofi Music Discovery",
-  description: "Discover your next lofi vibe from 4,500+ Lofi Girl tracks",
+  title: "Sift - Active Lofi Discovery",
+  description: "Discover your next lofi vibe",
   keywords: ["lofi", "music", "discovery", "chill", "study", "focus"],
 };
 
