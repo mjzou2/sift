@@ -7,7 +7,14 @@ import PromptBar from "@/components/PromptBar";
 import AmbientToggle from "@/components/AmbientToggle";
 import ResultsList from "@/components/ResultsList";
 import SeedTrackModal from "@/components/SeedTrackModal";
+import SaveToSpotifyButton from "@/components/SaveToSpotifyButton";
 import type { SearchResult } from "@/lib/types";
+import {
+  buildAuthUrl,
+  savePreAuthState,
+  loadPreAuthState,
+  getAccessToken,
+} from "@/lib/spotify-auth";
 
 type AppState = 'landing' | 'loading' | 'results';
 
@@ -25,7 +32,12 @@ export default function Home() {
   const [results, setResults] = useState<SearchResult[]>([]);
   const [currentlyPlaying, setCurrentlyPlaying] = useState<{ seqId: string; spotifyId: string } | null>(null);
   const [isSeedModalOpen, setIsSeedModalOpen] = useState(false);
-  const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  const [spotifyToken, setSpotifyToken] = useState<string | null>(null);
+  const [toastMessage, setToastMessage] = useState<{
+    text: string;
+    type: 'error' | 'success';
+    link?: { url: string; label: string };
+  } | null>(null);
 
   const audioRef = useRef<HTMLAudioElement>(null);
   const previewUrlCache = useRef<Map<string, string | null>>(new Map());
@@ -35,7 +47,7 @@ export default function Home() {
     if (!prompt && seedTracks.length === 0) return;
 
     setAppState('loading');
-    setErrorMessage(null);
+    setToastMessage(null);
 
     try {
       const response = await fetch('/api/search', {
@@ -58,7 +70,7 @@ export default function Home() {
       setAppState('results');
     } catch (error) {
       console.error('Search error:', error);
-      setErrorMessage(error instanceof Error ? error.message : 'Search failed');
+      setToastMessage({ text: error instanceof Error ? error.message : 'Search failed', type: 'error' });
       setAppState('landing');
     }
   };
@@ -90,8 +102,8 @@ export default function Home() {
 
     if (!previewUrl) {
       // Show "No preview available" message
-      setErrorMessage('Preview not available for this track');
-      setTimeout(() => setErrorMessage(null), 3000);
+      setToastMessage({ text: 'Preview not available for this track', type: 'error' });
+      setTimeout(() => setToastMessage(null), 3000);
       return;
     }
 
@@ -100,8 +112,8 @@ export default function Home() {
       audioRef.current.src = previewUrl;
       audioRef.current.play().catch(error => {
         console.error('Audio play error:', error);
-        setErrorMessage('Failed to play audio');
-        setTimeout(() => setErrorMessage(null), 3000);
+        setToastMessage({ text: 'Failed to play audio', type: 'error' });
+        setTimeout(() => setToastMessage(null), 3000);
       });
       setCurrentlyPlaying({ seqId, spotifyId });
     }
@@ -121,8 +133,8 @@ export default function Home() {
 
     const handleEnded = () => setCurrentlyPlaying(null);
     const handleError = () => {
-      setErrorMessage('Failed to play audio');
-      setTimeout(() => setErrorMessage(null), 3000);
+      setToastMessage({ text: 'Failed to play audio', type: 'error' });
+      setTimeout(() => setToastMessage(null), 3000);
       setCurrentlyPlaying(null);
     };
 
@@ -171,8 +183,37 @@ export default function Home() {
     setSeedTracks([]);
     setResults([]);
     setCurrentlyPlaying(null);
-    setErrorMessage(null);
+    setToastMessage(null);
   };
+
+  // Restore Spotify token and search state after OAuth redirect
+  useEffect(() => {
+    const token = getAccessToken();
+    if (token) {
+      setSpotifyToken(token);
+    }
+
+    const savedState = loadPreAuthState();
+    if (savedState) {
+      setPrompt(savedState.prompt);
+      setSeedTracks(savedState.seedTracks);
+      setResults(savedState.results);
+      setAppState(savedState.appState);
+    }
+  }, []);
+
+  // Spotify OAuth handler
+  const handleSpotifyAuth = () => {
+    savePreAuthState({ prompt, seedTracks, results, appState });
+    window.location.href = buildAuthUrl();
+  };
+
+  // Playlist name for Spotify save
+  const playlistName = prompt
+    ? `Sift: ${prompt.slice(0, 50)}`
+    : seedTracks.length > 0
+      ? `Sift: ${seedTracks[0].track_name}`
+      : 'Sift Discovery';
 
   return (
     <main className="relative min-h-screen flex flex-col items-center px-4 select-none">
@@ -223,6 +264,26 @@ export default function Home() {
       {/* Results */}
       {appState === 'results' && (
         <div className="w-full mt-32 pb-20">
+          <div className="max-w-4xl mx-auto px-4 mb-4 flex justify-end">
+            <SaveToSpotifyButton
+              tracks={results}
+              playlistName={playlistName}
+              onSuccess={(playlistUrl) => {
+                setToastMessage({
+                  text: 'Playlist saved!',
+                  type: 'success',
+                  link: { url: playlistUrl, label: 'Open in Spotify' },
+                });
+                setTimeout(() => setToastMessage(null), 6000);
+              }}
+              onError={(message) => {
+                setToastMessage({ text: message, type: 'error' });
+                setTimeout(() => setToastMessage(null), 4000);
+              }}
+              onAuthRequired={handleSpotifyAuth}
+              isAuthenticated={!!spotifyToken}
+            />
+          </div>
           <ResultsList
             tracks={results}
             currentlyPlaying={currentlyPlaying?.seqId || null}
@@ -233,10 +294,24 @@ export default function Home() {
         </div>
       )}
 
-      {/* Error message toast */}
-      {errorMessage && (
-        <div className="fixed bottom-6 left-1/2 -translate-x-1/2 px-6 py-3 bg-brown-border/90 text-cream rounded-full z-50 shadow-lg">
-          {errorMessage}
+      {/* Toast message */}
+      {toastMessage && (
+        <div className={`fixed bottom-6 left-1/2 -translate-x-1/2 px-6 py-3 rounded-full z-50 shadow-lg flex items-center gap-3 ${
+          toastMessage.type === 'success'
+            ? 'bg-accent/90 text-cream'
+            : 'bg-brown-border/90 text-cream'
+        }`}>
+          <span>{toastMessage.text}</span>
+          {toastMessage.link && (
+            <a
+              href={toastMessage.link.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline font-medium hover:opacity-80"
+            >
+              {toastMessage.link.label}
+            </a>
+          )}
         </div>
       )}
 

@@ -33,3 +33,18 @@ export interface SpotifyTrack {
   name: string;
   artists: Array<{ name: string }>;
 }
+
+// Spotify OAuth types
+export interface SpotifyAuthState {
+  prompt: string;
+  seedTracks: Array<{ seq_id: string; track_name: string; artist: string }>;
+  results: SearchResult[];
+  appState: 'landing' | 'loading' | 'results';
+}
+
+export interface SavePlaylistResponse {
+  playlist_url: string;
+  playlist_id: string;
+  playlist_name: string;
+  tracks_added: number;
+}
