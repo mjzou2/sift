@@ -30,7 +30,7 @@ export default function Home() {
   const [prompt, setPrompt] = useState('');
   const [seedTracks, setSeedTracks] = useState<SeedTrack[]>([]);
   const [results, setResults] = useState<SearchResult[]>([]);
-  const [currentlyPlaying, setCurrentlyPlaying] = useState<{ seqId: string; spotifyId: string } | null>(null);
+  const [currentlyPlaying, setCurrentlyPlaying] = useState<{ seqId: string; spotifyId: string; paused?: boolean } | null>(null);
   const [isSeedModalOpen, setIsSeedModalOpen] = useState(false);
   const [spotifyToken, setSpotifyToken] = useState<string | null>(null);
   const [toastMessage, setToastMessage] = useState<{
@@ -77,7 +77,16 @@ export default function Home() {
 
   // Audio playback handlers
   const handlePlay = async (spotifyId: string, seqId: string) => {
-    // Stop current if playing
+    // Resume if same track is paused
+    if (currentlyPlaying?.seqId === seqId && currentlyPlaying?.paused && audioRef.current) {
+      audioRef.current.play().catch(error => {
+        console.error('Audio resume error:', error);
+      });
+      setCurrentlyPlaying({ seqId, spotifyId });
+      return;
+    }
+
+    // Stop current if playing a different track
     if (audioRef.current && !audioRef.current.paused) {
       audioRef.current.pause();
     }
@@ -124,7 +133,9 @@ export default function Home() {
     if (audioRef.current) {
       audioRef.current.pause();
     }
-    setCurrentlyPlaying(null);
+    if (currentlyPlaying) {
+      setCurrentlyPlaying({ ...currentlyPlaying, paused: true });
+    }
   };
 
   // Audio element event handlers
@@ -210,11 +221,7 @@ export default function Home() {
   };
 
   // Playlist name for Spotify save
-  const playlistName = prompt
-    ? `Sift: ${prompt.slice(0, 50)}`
-    : seedTracks.length > 0
-      ? `Sift: ${seedTracks[0].track_name}`
-      : 'Sift Discovery';
+  const playlistName = 'Sift';
 
   return (
     <main className="relative h-screen flex flex-col items-center px-4 select-none overflow-hidden">
@@ -228,6 +235,20 @@ export default function Home() {
         appState === 'landing' ? 'opacity-100 delay-300' : 'opacity-0 delay-0'
       }`}>
         <Logo />
+      </div>
+
+      {/* Footer — landing page only */}
+      <div className={`absolute bottom-6 left-1/2 -translate-x-1/2 z-10 transition-opacity duration-300 ${
+        appState === 'landing' ? 'opacity-100 delay-300' : 'opacity-0 pointer-events-none delay-0'
+      }`}>
+        <a
+          href="https://github.com/mjzou2"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-brown-text/30 hover:text-brown-text/50 transition-colors text-xs"
+        >
+          Built by Michael
+        </a>
       </div>
 
       {/* Prompt Bar - smoothly transitions from center to top */}
@@ -289,7 +310,7 @@ export default function Home() {
               </div>
               <ResultsList
                 tracks={results}
-                currentlyPlaying={currentlyPlaying?.seqId || null}
+                currentlyPlaying={currentlyPlaying && !currentlyPlaying.paused ? currentlyPlaying.seqId : null}
                 onPlay={(spotifyId, seqId) => handlePlay(spotifyId, seqId)}
                 onPause={handlePause}
                 onFindSimilar={handleFindSimilar}

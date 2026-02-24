@@ -50,28 +50,6 @@ export default function PromptBar({
         isLanding ? 'py-2 shadow-lg' : 'py-1 shadow-md'
       }`}
     >
-      {/* Seed track pills — compact mode only */}
-      {isCompact && seedCount > 0 && (
-        <div className="flex items-center gap-1.5 flex-wrap max-w-[200px] sm:max-w-md">
-          {seed.tracks.map((track) => (
-            <div
-              key={track.seq_id}
-              className="flex items-center gap-1 px-2 py-1 bg-brown-border/10 border border-brown-border/30 rounded-full text-xs text-brown-text select-text"
-            >
-              <span className="truncate max-w-[100px] sm:max-w-[150px]">{track.track_name}</span>
-              <button
-                type="button"
-                onClick={() => seed.onRemove(track.seq_id)}
-                className="flex-shrink-0 hover:text-brown-border transition-colors"
-                aria-label={`Remove ${track.track_name}`}
-              >
-                <X className="w-3 h-3" />
-              </button>
-            </div>
-          ))}
-        </div>
-      )}
-
       {/* Add seed track button */}
       <button
         type="button"
@@ -94,12 +72,30 @@ export default function PromptBar({
         )}
       </button>
 
+      {/* Seed track pills — compact mode only */}
+      {isCompact && seedCount > 0 && (
+        <div className="flex items-center gap-1.5 flex-wrap max-w-[200px] sm:max-w-md">
+          {seed.tracks.map((track) => (
+            <button
+              type="button"
+              key={track.seq_id}
+              onClick={() => seed.onRemove(track.seq_id)}
+              className="flex items-center gap-1 px-2 py-1 bg-brown-border/10 hover:bg-brown-border/20 border border-brown-border/30 rounded-full text-xs text-brown-text transition-colors cursor-pointer"
+              aria-label={`Remove ${track.track_name}`}
+            >
+              <span className="truncate max-w-[100px] sm:max-w-[150px]">{track.track_name}</span>
+              <X className="w-3 h-3 flex-shrink-0" />
+            </button>
+          ))}
+        </div>
+      )}
+
       {/* Text input */}
       <input
         type="text"
         value={prompt}
         onChange={(e) => onPromptChange(e.target.value)}
-        placeholder={isLanding ? "Describe your vibe... or add a seed track" : "Describe your vibe..."}
+        placeholder={isLanding ? "Add a seed track or describe a vibe \u2014 cozy piano lofi, sad rainy night..." : "Describe your vibe..."}
         className={`flex-1 bg-transparent border-none outline-none text-brown-text placeholder:text-brown-text/40 text-sm md:text-base select-text ${
           isCompact ? 'min-w-0' : ''
         }`}

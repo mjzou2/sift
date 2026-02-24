@@ -18,7 +18,21 @@ export default function TrackCard({
   onPause,
   onFindSimilar,
 }: TrackCardProps) {
-  const spotifyUrl = `https://open.spotify.com/track/${track.spotify_id}`;
+  const spotifyWebUrl = `https://open.spotify.com/track/${track.spotify_id}`;
+  const spotifyUri = `spotify:track:${track.spotify_id}`;
+
+  const handleSpotifyClick = (e: React.MouseEvent) => {
+    e.preventDefault();
+    const start = Date.now();
+    window.location.href = spotifyUri;
+    // If the URI scheme worked, the browser will blur/navigate away quickly.
+    // If not, nothing visible happens — fall back to web URL after a short delay.
+    setTimeout(() => {
+      if (Date.now() - start < 2000) {
+        window.open(spotifyWebUrl, '_blank', 'noopener,noreferrer');
+      }
+    }, 500);
+  };
 
   // Format artist names: replace semicolons with comma+space
   const formattedArtist = track.artist.replace(/;/g, ', ');
@@ -49,10 +63,9 @@ export default function TrackCard({
 
           {/* Spotify link */}
           <a
-            href={spotifyUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex-shrink-0 text-brown-border hover:text-brown-text transition-colors"
+            href={spotifyWebUrl}
+            onClick={handleSpotifyClick}
+            className="flex-shrink-0 text-brown-border hover:text-brown-text transition-colors cursor-pointer"
             aria-label="Open in Spotify"
           >
             <svg
@@ -94,7 +107,7 @@ export default function TrackCard({
             ) : (
               <>
                 <Play className="w-4 h-4" />
-                <span>Play</span>
+                <span>Preview</span>
               </>
             )}
           </button>
