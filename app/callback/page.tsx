@@ -2,6 +2,7 @@
 
 import { useEffect, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
+import Link from "next/link";
 import { setAccessToken, getOAuthState, clearOAuthState, getRedirectUri } from "@/lib/spotify-auth";
 
 function CallbackContent() {
@@ -71,12 +72,12 @@ function CallbackContent() {
       <div className="min-h-screen flex items-center justify-center bg-cream">
         <div className="text-center space-y-4">
           <p className="text-brown-text text-lg">{error}</p>
-          <a
+          <Link
             href="/"
             className="inline-block px-6 py-2 bg-accent/20 hover:bg-accent/30 text-brown-text rounded-full transition-colors text-sm font-medium"
           >
             Back to Sift
-          </a>
+          </Link>
         </div>
       </div>
     );
