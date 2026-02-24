@@ -1,4 +1,4 @@
-# Sift 
+# Sift
 
 > **Work in Progress** — Core features under active development
 
@@ -24,6 +24,7 @@ You can also pick a seed track from the catalog, or combine both for a blended s
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Search:** Pre-computed CLAP embeddings, cosine similarity in TypeScript
 - **NLP:** Claude Haiku for tag extraction from freeform queries (Anthropic SDK)
+- **Audio:** Spotify Web API for previews and playlist saving (OAuth)
 - **Data:** Static files (no database) — numpy embeddings converted to Float32 binary for Node.js
 - **Deploy:** Vercel
 
@@ -37,14 +38,28 @@ npm install
 pip install numpy pandas
 npm run convert-data
 
-# Set up Claude API (optional — search works without it via fuzzy fallback)
-echo "ANTHROPIC_API_KEY=sk-ant-..." > .env.local
+# Set up environment variables
+cat > .env.local << 'EOF'
+# Claude API (optional — search works without it via fuzzy fallback)
+ANTHROPIC_API_KEY=sk-ant-...
+
+# Spotify API (required for previews and playlist saving)
+SPOTIFY_CLIENT_ID=your_client_id
+NEXT_PUBLIC_SPOTIFY_CLIENT_ID=your_client_id
+SPOTIFY_CLIENT_SECRET=your_client_secret
+EOF
 
 # Start dev server
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open [http://127.0.0.1:3001](http://127.0.0.1:3001) (use `127.0.0.1`, not `localhost` — required for Spotify OAuth redirect).
+
+### Spotify Setup
+
+1. Create an app at [developer.spotify.com](https://developer.spotify.com/dashboard)
+2. Add redirect URIs: `http://127.0.0.1:3001/callback` (dev) and `https://sift.love/callback` (prod)
+3. Copy the Client ID and Client Secret to `.env.local`
 
 ## License
 
