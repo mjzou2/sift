@@ -97,7 +97,7 @@ export default function SeedTrackModal({
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search for a track from the Lofi Girl catalog..."
+            placeholder="Search for a track from the catalog..."
             className="w-full px-4 py-2 bg-cream-dark border border-brown-border rounded-full text-brown-text placeholder:text-brown-text/40 outline-none focus:ring-2 focus:ring-accent/30"
             autoFocus
             disabled={isMaxReached}
