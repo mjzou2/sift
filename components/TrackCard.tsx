@@ -55,9 +55,18 @@ export default function TrackCard({
         {/* Track info */}
         <div className="flex items-start justify-between gap-3">
           <div className="flex-1 min-w-0">
-            <h3 className="font-semibold text-brown-text text-base md:text-lg truncate">
-              {track.track_name}
-            </h3>
+            <div className="flex items-center gap-2 min-w-0">
+              {isPlaying && (
+                <div className="flex items-end gap-[2px] h-3.5 flex-shrink-0" aria-label="Now playing">
+                  <span className="w-[3px] bg-accent rounded-full animate-eq-1" style={{ height: '15%' }} />
+                  <span className="w-[3px] bg-accent rounded-full animate-eq-2" style={{ height: '15%' }} />
+                  <span className="w-[3px] bg-accent rounded-full animate-eq-3" style={{ height: '15%' }} />
+                </div>
+              )}
+              <h3 className="font-semibold text-brown-text text-base md:text-lg truncate">
+                {track.track_name}
+              </h3>
+            </div>
             <p className="text-brown-text/70 text-sm truncate">{formattedArtist}</p>
           </div>
 

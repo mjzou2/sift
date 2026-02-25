@@ -52,6 +52,9 @@ const config: Config = {
         'float-2': 'float2 34s ease-in-out infinite',
         'float-3': 'float3 24s ease-in-out infinite',
         'fade-in': 'fadeIn 0.4s ease-out forwards',
+        'eq-1': 'eqBar 0.45s ease-in-out infinite alternate',
+        'eq-2': 'eqBar 0.55s ease-in-out infinite alternate-reverse',
+        'eq-3': 'eqBar 0.35s ease-in-out infinite alternate',
       },
       keyframes: {
         sunrays: {
@@ -90,6 +93,10 @@ const config: Config = {
         fadeIn: {
           '0%': { opacity: '0', transform: 'translateY(10px)' },
           '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        eqBar: {
+          '0%': { height: '15%' },
+          '100%': { height: '100%' },
         },
       },
     },

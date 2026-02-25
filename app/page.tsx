@@ -41,6 +41,11 @@ export default function Home() {
 
   const audioRef = useRef<HTMLAudioElement>(null);
   const previewUrlCache = useRef<Map<string, string | null>>(new Map());
+  const resultsRef = useRef<SearchResult[]>(results);
+  resultsRef.current = results;
+  const currentlyPlayingRef = useRef(currentlyPlaying);
+  currentlyPlayingRef.current = currentlyPlaying;
+  const handlePlayRef = useRef<(spotifyId: string, seqId: string) => void>(() => {});
 
   // Search handler
   const handleSearch = async () => {
@@ -129,6 +134,8 @@ export default function Home() {
     }
   };
 
+  handlePlayRef.current = handlePlay;
+
   const handlePause = () => {
     if (audioRef.current) {
       audioRef.current.pause();
@@ -143,7 +150,19 @@ export default function Home() {
     const audio = audioRef.current;
     if (!audio) return;
 
-    const handleEnded = () => setCurrentlyPlaying(null);
+    const handleEnded = () => {
+      const tracks = resultsRef.current;
+      const playing = currentlyPlayingRef.current;
+      if (playing && tracks.length > 0) {
+        const currentIdx = tracks.findIndex(r => r.seq_id === playing.seqId);
+        const nextTrack = currentIdx >= 0 ? tracks[currentIdx + 1] : undefined;
+        if (nextTrack) {
+          handlePlayRef.current(nextTrack.spotify_id, nextTrack.seq_id);
+          return;
+        }
+      }
+      setCurrentlyPlaying(null);
+    };
     const handleError = () => {
       setToastMessage({ text: 'Failed to play audio', type: 'error' });
       setTimeout(() => setToastMessage(null), 3000);
@@ -285,9 +304,10 @@ export default function Home() {
 
       {/* Results */}
       {appState === 'results' && (
-        <div className="w-full mt-20 sm:mt-24 pb-3 sm:pb-4 flex-1 min-h-0">
+        <div className="w-full mt-20 sm:mt-24 pb-8 sm:pb-10 flex-1 min-h-0">
           <div className="max-w-4xl mx-auto px-4 h-full">
             <div className="bg-brown-text/5 rounded-2xl p-3 sm:p-4 h-full flex flex-col">
+              {/* SaveToSpotifyButton hidden until extended quota approved
               <div className="flex justify-end mb-2">
                 <SaveToSpotifyButton
                   tracks={results}
@@ -308,6 +328,7 @@ export default function Home() {
                   isAuthenticated={!!spotifyToken}
                 />
               </div>
+              */}
               <ResultsList
                 tracks={results}
                 currentlyPlaying={currentlyPlaying && !currentlyPlaying.paused ? currentlyPlaying.seqId : null}
