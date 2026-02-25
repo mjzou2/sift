@@ -116,12 +116,18 @@ def convert_metadata():
             ]
         }
 
-        # Add album_art_url if it exists in the CSV
-        if 'album_art_url' in df.columns:
-            album_art_url = row['album_art_url']
-            # Handle empty string or NaN values
-            if pd.notna(album_art_url) and album_art_url != '':
-                track['album_art_url'] = str(album_art_url)
+        # Add album_art_url — prefer Deezer, fall back to Spotify
+        album_art_url = ''
+        if 'deezer_album_art_url' in df.columns:
+            val = row['deezer_album_art_url']
+            if pd.notna(val) and val != '':
+                album_art_url = str(val)
+        if not album_art_url and 'album_art_url' in df.columns:
+            val = row['album_art_url']
+            if pd.notna(val) and val != '':
+                album_art_url = str(val)
+        if album_art_url:
+            track['album_art_url'] = album_art_url
 
         tracks.append(track)
 

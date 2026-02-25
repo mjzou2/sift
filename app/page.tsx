@@ -232,7 +232,7 @@ export default function Home() {
 
       {/* Logo - fades out when searching */}
       <div className={`absolute top-[12%] sm:top-[15%] left-1/2 -translate-x-1/2 z-10 transition-opacity duration-300 ${
-        appState === 'landing' ? 'opacity-100 delay-300' : 'opacity-0 delay-0'
+        appState === 'landing' ? 'opacity-100 delay-300' : 'opacity-0 pointer-events-none delay-0'
       }`}>
         <Logo />
       </div>

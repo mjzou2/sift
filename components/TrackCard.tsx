@@ -41,11 +41,11 @@ export default function TrackCard({
     <div className="glass border border-brown-border/50 rounded-2xl p-3 sm:p-4 md:p-5 flex gap-4 hover:bg-cream/85 transition-all duration-200 shadow-sm">
       {/* Album Art */}
       {track.album_art_url && (
-        <div className="flex-shrink-0">
+        <div className="flex-shrink-0 flex items-center">
           <img
             src={track.album_art_url}
             alt={`${track.album} album art`}
-            className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 rounded-lg object-cover"
+            className="w-24 h-24 sm:w-28 sm:h-28 md:w-32 md:h-32 rounded-xl object-cover pointer-events-none"
           />
         </div>
       )}
