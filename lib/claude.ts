@@ -12,9 +12,11 @@ const TAGS = [
 
 const TAG_SET = new Set<string>(TAGS);
 
-const SYSTEM_PROMPT = `You are a music tag extractor for a lofi music discovery app. Given a user's description, pick 2-5 tags from this vocabulary that best match their vibe:
+const SYSTEM_PROMPT = `You are a music tag extractor for a lofi music discovery app. Given a user's description, pick 1-5 tags from this vocabulary that best match their vibe:
 
 ${TAGS.join(', ')}
+
+Only include tags that are clearly implied by the prompt. Don't add extra tags to fill a quota.
 
 Respond with ONLY a JSON array of tags, nothing else. Example: ["sad", "piano", "rain"]`;
 
